@@ -23,7 +23,7 @@ class Config:
     SQLITE_DB_PATH = os.getenv("SQLITE_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "database/cohort.db"))
 
     # --- Vector DB ---
-    VECTOR_DB_PATH = os.getenv("VECTOR_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "database/vector_db"))
+    VECTOR_DB_PATH = os.getenv("VECTOR_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "database/storage"))
 
     # --- Catalog ---
     CATALOG_DIR = os.getenv("CATALOG_DIR", os.path.join(os.path.dirname(__file__), "catelogue"))

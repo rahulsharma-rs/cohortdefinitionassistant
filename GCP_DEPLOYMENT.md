@@ -27,26 +27,30 @@ Instead of downloading files, you can mount your GCS bucket directly as a local 
 1.  Go to the [Cloud Storage Console](https://console.cloud.google.com/storage/browser).
 2.  **Create Bucket**: e.g., `my-clinical-catalog-data`.
 3.  **Upload Data**: 
-    - **Option 1 (Easiest)**: Just upload your `.csv` files. The app will automatically build the `cohort.db` and `vector_db` inside the bucket the very first time it starts (this initial setup will take 3-5 minutes, but subsequent starts will be instant).
-    - **Option 2 (Recommended for 0 downtime)**: Upload the `.csv` files **AND** your local `database/cohort.db` file and the entire `database/vector_db/` folder. This skips the initial 5-minute build entirely.
+    - **Option 1 (Easiest)**: Just upload your `.csv` files. The app will automatically build the `cohort.db` and vector index folder inside the bucket the very first time it starts (this initial setup will take 3-5 minutes, but subsequent starts will be instant).
+    - **Option 2 (Recommended for 0 downtime)**: Upload the `.csv` files **AND** your local `database/cohort.db` file and the entire `database/storage/` folder. This skips the initial 5-minute build entirely.
     *(Do **NOT** upload `EHR_Population_catelogue.txt`; it is already included in your code repository).*
 4.  **Permissions**:
     - Ensure the [Cloud Run Service Account](https://console.cloud.google.com/iam-admin/iam) has the **Storage Object Viewer** role for this bucket.
 
 ---
 
-## 3. Deploy from GitHub (UI)
+### 4. Deploy to Cloud Run using the GCP UI
 
 1.  Go to the [Cloud Run Console](https://console.cloud.google.com/run).
 2.  Click **Create Service**.
-3.  **Continuously deploy new revisions from a source repository**:
-    - Set up with Cloud Build and select your repository.
-4.  **Container, Networking, Security**:
-    - **Volumes**:
-        1. Click **Add Volume**.
-        2. **Volume Type**: Cloud Storage bucket.
-        3. **Volume Name**: `clinical-data`.
-        4. **Bucket**: Select `my-clinical-catalog-data`.
+3.  **Deploy one revision from an existing container image** (We will use GitHub).
+    - Choose **Continuously deploy from a repository**.
+    - Click **SET UP WITH CLOUD BUILD**.
+    - Connect your GitHub Repository containing this code.
+    - Set the branch to `main`.
+    - Build Type: **Dockerfile**.
+    - Source location: `/Dockerfile`.
+    - Click **Save**.
+4.  **Service settings**:
+    - Choose a region (e.g., `us-central1`).
+    - Under **Authentication**, choose **Allow unauthenticated invocations** (Or require authentication if internal only).
+    - Expand **Container, Volumes, Networking, Security**:
     - **Volume Mounts**:
         1. Click **Add Volume Mount**.
         2. **Volume**: `clinical-data`.
@@ -55,7 +59,7 @@ Instead of downloading files, you can mount your GCS bucket directly as a local 
         - `GOOGLE_API_KEY`: (Reference from Secret Manager).
         - `LLM_PROVIDER`: `google`.
         - `CATALOG_DIR`: `/mnt/gcs/clinical-data` (Important: points the app to the mount).
-        - `VECTOR_DB_PATH`: `/mnt/gcs/clinical-data/vector_db` (Critical for instant cold-starts).
+        - `VECTOR_DB_PATH`: `/mnt/gcs/clinical-data/storage` (Critical for instant cold-starts).
         - `SQLITE_DB_PATH`: `/mnt/gcs/clinical-data/cohort.db`
     - **Resources**: Increase memory to **2 GiB** or **4 GiB**.
 5.  Click **Create**.

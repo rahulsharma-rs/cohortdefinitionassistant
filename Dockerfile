@@ -33,7 +33,7 @@ EXPOSE 8080
 # Environment variables for models (can also be set in GCP UI)
 ENV FLASK_DEBUG=false
 ENV SQLITE_DB_PATH=/app/database/cohort.db
-ENV VECTOR_DB_PATH=/app/database/vector_db
+ENV VECTOR_DB_PATH=/app/database/storage
 ENV CATALOG_DIR=/app/Backend/catelogue
 ENV CATALOG_DESCRIPTION_FILE=/app/Backend/EHR_Population_catelogue.txt
 
