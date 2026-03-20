@@ -118,3 +118,17 @@ npm run dev
 CORA is fully optimized for scalable, stateless deployment on **Google Cloud Run**. Because building large LlamaIndex vector dictionaries requires significant CPU cycles, the architecture bypasses the Docker cold-start penalty by securely mounting a Google Cloud Storage (GCS) bucket directly to the container logic via `gcsfuse`.
 
 For comprehensive, step-by-step deployment instructions, UI configurations, and Secret Manager strategies, see the **[GCP Deployment Guide](GCP_DEPLOYMENT.md)**.
+
+### GCP Console "Cheat Sheet"
+Once your code is pushed and you are configuring the Cloud Run service in the GCP Console, you must attach your data bucket using these exact settings to prevent cold-starts:
+
+#### 1. Volumes Tab
+- **Add Volume** -> Type: `Cloud Storage bucket`, Name: `clinical-data`, Bucket: `my-clinical-catalog-data`
+- **Volume Mounts** -> Volume: `clinical-data`, Mount Path: `/mnt/gcs/clinical-data`
+
+#### 2. Variables Tab
+Add these exact Environment Variables to route the app to the bucket:
+- `SQLITE_DB_PATH`: `/mnt/gcs/clinical-data/cohort.db`
+- `VECTOR_DB_PATH`: `/mnt/gcs/clinical-data/storage`
+- `CATALOG_DIR`: `/mnt/gcs/clinical-data`
+*(Do not forget to also add your `GOOGLE_API_KEY` or `OPENAI_API_KEY`!)*
