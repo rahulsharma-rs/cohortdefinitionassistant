@@ -57,7 +57,6 @@ Instead of downloading files, you can mount your GCS bucket directly as a local 
         3. **Mount Path**: `/mnt/gcs/clinical-data`.
     - **Environment Variables**: Add:
         - `GOOGLE_API_KEY`: (Reference from Secret Manager).
-        - `LLM_PROVIDER`: `google`.
         - `CATALOG_DIR`: `/mnt/gcs/clinical-data` (Important: points the app to the mount).
         - `VECTOR_DB_PATH`: `/mnt/gcs/clinical-data/storage` (Critical for instant cold-starts).
         - `SQLITE_DB_PATH`: `/mnt/gcs/clinical-data/cohort.db`
