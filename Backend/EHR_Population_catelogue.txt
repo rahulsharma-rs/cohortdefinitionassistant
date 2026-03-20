@@ -1,0 +1,92 @@
+﻿Domain Summary
+This step collects high-level statistics about each major OMOP clinical domain such as conditions, measurements, drugs, procedures, devices, visits, and notes. It captures the total number of records, the number of distinct patients represented, and the temporal range of the data. This information helps the AI agent understand the overall size and coverage of each domain in the dataset, allowing it to determine whether a cohort definition relying on a specific domain is feasible or whether the domain may be sparse or incomplete.
+________________
+
+
+Vocabulary Usage Across Domains
+This extraction identifies which clinical vocabularies are actually used in the dataset (for example SNOMED, ICD-10, LOINC, RxNorm, CPT, etc.). By understanding the vocabularies present in each domain, the agent can map user-provided medical terms or codes to the correct coding system used in the data. This improves concept grounding and prevents incorrect assumptions about coding standards during cohort definition.
+________________
+
+
+Standard Concept Coverage – Conditions
+This step extracts all condition concepts recorded in the dataset along with their frequency and patient coverage. It allows the AI agent to determine whether a requested disease or diagnosis exists in the dataset and how commonly it appears. This helps validate whether a proposed cohort definition based on diagnoses is realistic and whether the expected cohort size may be large enough for analysis.
+________________
+
+
+Standard Concept Coverage – Drugs
+This step identifies medication concepts that appear in the dataset and how frequently they occur. It allows the AI agent to determine whether a medication-based inclusion or exclusion criterion can be implemented and whether the drug exposure data is sufficiently populated to support the requested cohort.
+________________
+
+
+Standard Concept Coverage – Procedures
+This extraction summarizes clinical procedures present in the dataset along with their frequency and patient coverage. It enables the AI agent to validate whether a requested medical procedure or intervention appears in the structured data and therefore can be used reliably in a cohort definition.
+________________
+
+
+Standard Concept Coverage – Devices
+This step identifies medical devices recorded in the dataset and their usage frequency. It allows the agent to determine whether device-based cohort criteria such as implanted devices or monitoring equipment are available in the data and whether they are sufficiently represented.
+________________
+
+
+Standard Concept Coverage – Visits
+This extraction summarizes visit types and encounter classifications present in the dataset. It enables the AI agent to determine whether cohort definitions based on visit settings (for example inpatient, ICU, emergency department) can be supported using the available data.
+________________
+
+
+Source Code Coverage – Conditions
+This step captures the original diagnosis codes used in the source EHR system and their mapping to OMOP standard concepts. It allows the agent to understand how the data was originally coded and ensures that the cohort definition aligns with how conditions were actually recorded in the source system.
+________________
+
+
+Source Code Coverage – Measurements
+This extraction identifies the original laboratory codes and their mappings to standard measurement concepts. It allows the agent to verify that the requested laboratory test appears in the source data and to detect variations in how labs are coded or labeled.
+________________
+
+
+Source Code Coverage – Drugs
+This step records the source medication codes and their mappings to standard drug concepts. It helps the agent confirm that requested medications appear in the dataset and understand how medication records were originally captured.
+________________
+
+
+Source Code Coverage – Procedures
+This extraction captures the original procedure codes used in the EHR and their mapping to standard procedure concepts. It allows the agent to validate procedure-based cohort criteria and detect potential mismatches between source codes and standard concepts.
+________________
+
+
+Source Code Coverage – Devices
+This step identifies source device codes and their standardized mappings. It enables the AI agent to confirm that device-related cohort criteria correspond to devices actually recorded in the dataset.
+________________
+
+
+Source Code Coverage – Visits
+This extraction summarizes how visits are coded in the source system and how they map to OMOP visit concepts. It allows the agent to correctly interpret encounter types when building cohort definitions that rely on visit settings.
+________________
+
+
+Ancestor Concept Coverage – Devices
+This step aggregates device concepts through the OMOP hierarchy to identify broader device categories represented in the dataset. It helps the agent interpret device-based cohort definitions more accurately.
+________________
+
+
+Ancestor Concept Coverage – Visits
+This extraction aggregates visit types using hierarchical relationships between encounter concepts. It allows the agent to interpret broad visit categories and determine whether relevant encounter types exist in the dataset.
+________________
+
+
+Demographic Coverage – Gender
+This extraction summarizes gender categories present in the dataset and their patient counts. It allows the agent to validate demographic cohort criteria and understand how gender is represented in the data.
+________________
+
+
+Demographic Coverage – Race
+This step summarizes race categories recorded in the dataset. It enables the agent to understand demographic diversity in the population and determine whether race-based cohort filters are feasible.
+________________
+
+
+Demographic Coverage – Ethnicity
+This extraction summarizes ethnicity categories present in the dataset and their distribution. It allows the agent to validate ethnicity-based cohort criteria and understand the demographic composition of the dataset.
+________________
+
+
+Note and NLP Coverage
+This extraction identifies the presence and volume of clinical notes and NLP-derived concepts. It allows the agent to determine whether a requested cohort definition may require information contained in unstructured notes and whether NLP-derived structured features are available to support it.

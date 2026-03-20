@@ -1,0 +1,1454 @@
+﻿SOURCE_VALUE,SOURCE_CONCEPT_ID,MAPPED_STANDARD_CONCEPT_ID,MAPPED_STANDARD_CONCEPT_NAME,MAPPED_STANDARD_VOCABULARY_ID,MAPPED_STANDARD_CONCEPT_CODE,MAPPED_STANDARD_CONCEPT_FLAG,TOTAL_ROWS
+8310-5,3020891,3020891,Body temperature,LOINC,8310-5,S,93863845
+8867-4,3027018,3027018,Heart rate,LOINC,8867-4,S,91673050
+9279-1,3024171,3024171,Respiratory rate,LOINC,9279-1,S,84577765
+8480-6,3004249,3004249,Systolic blood pressure,LOINC,8480-6,S,83766793
+59408-5,40762499,40762499,Oxygen saturation in Arterial blood by Pulse oximetry,LOINC,59408-5,S,83627943
+8462-4,3012888,3012888,Diastolic blood pressure,LOINC,8462-4,S,82597592
+72514-3,43055141,43055141,Pain severity - 0-10 verbal numeric rating [Score] - Reported,LOINC,72514-3,S,67099972
+8478-0,3027598,3027598,Mean blood pressure,LOINC,8478-0,S,53218415
+8302-2,3036277,3036277,Body height,LOINC,8302-2,S,35232947
+29463-7,3025315,3025315,Body weight,LOINC,29463-7,S,33065711
+3141-9,3013762,3013762,Body weight Measured,LOINC,3141-9,S,32554955
+9187-6,3014315,3014315,Urine output,LOINC,9187-6,S,23307959
+19993-5,3025524,3025524,Oxygen/Gas total Inhaled gas by Gas dilution.rebreath,LOINC,19993-5,S,17804713
+3151-8,3005629,3005629,Inhaled oxygen flow rate,LOINC,3151-8,S,16367348
+8277-6,3005424,3005424,Body surface area,LOINC,8277-6,S,14543117
+39156-5,3038553,3038553,Body mass index (BMI) [Ratio],LOINC,39156-5,S,14538944
+59574-4,40762636,40762636,Body mass index (BMI) [Percentile],LOINC,59574-4,S,14538941
+50064-5,3032445,3032445,Ideal body weight,LOINC,50064-5,S,12668354
+38227-5,3035519,3035519,Braden scale total score,LOINC,38227-5,S,12626316
+8641-3,3026611,3026611,Left eye Pupil diameter Manual,LOINC,8641-3,S,12515786
+76215-3,21490853,21490853,Invasive Systolic blood pressure,LOINC,76215-3,S,11954689
+76213-8,21490851,21490851,Invasive Diastolic blood pressure,LOINC,76213-8,S,11944727
+8643-9,3010321,3010321,Right eye Pupil diameter Manual,LOINC,8643-9,S,11859930
+71835-3,42869590,42869590,Oxygen/Gas total [Pure volume fraction] Inhaled gas,LOINC,71835-3,S,11677033
+96790-1,1616852,1616852,SOFA Total Score,LOINC,96790-1,S,10814544
+2160-0,3016723,3016723,Creatinine [Mass/volume] in Serum or Plasma,LOINC,2160-0,S,10157420
+2345-7,3004501,3004501,Glucose [Mass/volume] in Serum or Plasma,LOINC,2345-7,S,10120045
+3094-0,3013682,3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,LOINC,3094-0,S,10090244
+17861-6,3006906,3006906,Calcium [Mass/volume] in Serum or Plasma,LOINC,17861-6,S,10082440
+10466-1,3021391,3021391,Anion gap 3 in Serum or Plasma,LOINC,10466-1,S,10047864
+2028-9,3015632,3015632,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",LOINC,2028-9,S,10043773
+2075-0,3014576,3014576,Chloride [Moles/volume] in Serum or Plasma,LOINC,2075-0,S,9953468
+9000-1,3012677,3012677,Fluid intake oral Measured,LOINC,9000-1,S,9547119
+9269-2,3007194,3007194,Glasgow coma score total,LOINC,9269-2,S,9472124
+33914-3,3030354,46236952,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",LOINC,77147-7,S,9465935
+20075-8,3016226,3016226,PEEP Respiratory system,LOINC,20075-8,S,9334999
+6690-2,3000905,3000905,Leukocytes [#/volume] in Blood by Automated count,LOINC,6690-2,S,9309471
+33256-9,3046900,3046900,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,LOINC,33256-9,S,9227828
+789-8,3020416,3020416,Erythrocytes [#/volume] in Blood by Automated count,LOINC,789-8,S,9226816
+787-2,3023599,3023599,MCV [Entitic volume] by Automated count,LOINC,787-2,S,9225697
+786-4,3009744,3009744,MCHC [Mass/volume] by Automated count,LOINC,786-4,S,9225564
+785-6,3012030,3012030,MCH [Entitic mass] by Automated count,LOINC,785-6,S,9225456
+788-0,3019897,3019897,Erythrocyte distribution width [Ratio] by Automated count,LOINC,788-0,S,9224796
+32623-1,3043111,3043111,Platelet mean volume [Entitic volume] in Blood by Automated count,LOINC,32623-1,S,9224254
+20058-4,3026280,3026280,Airway pressure Ventilator --at peak inspiratory flow setting,LOINC,20058-4,S,9068259
+41653-7,3034962,3034962,Glucose [Mass/volume] in Capillary blood by Glucometer,LOINC,41653-7,S,8231759
+8954-0,3016222,3016222,Fluid intake enteral tube 1 hour,LOINC,8954-0,S,8023545
+8953-2,3010494,3010494,Fluid intake enteral tube Measured,LOINC,8953-2,S,7950065
+19834-1,3007469,3007469,Breath rate setting Ventilator,LOINC,19834-1,S,7744706
+79551-8,21491175,21491175,Number of stools,LOINC,79551-8,S,7387293
+736-9,3037511,3037511,Lymphocytes/100 leukocytes in Blood by Automated count,LOINC,736-9,S,7386009
+2951-2,3019550,3019550,Sodium [Moles/volume] in Serum or Plasma,LOINC,2951-2,S,7371772
+770-8,3008342,3008342,Neutrophils/100 leukocytes in Blood by Automated count,LOINC,770-8,S,7337888
+50957-0,3030494,3030494,Manual differential performed [Presence] in Blood,LOINC,50957-0,S,7334384
+5905-5,3011948,3011948,Monocytes/100 leukocytes in Blood by Automated count,LOINC,5905-5,S,7307061
+2823-3,3023103,3023103,Potassium [Moles/volume] in Serum or Plasma,LOINC,2823-3,S,7303750
+706-2,3013869,3013869,Basophils/100 leukocytes in Blood by Automated count,LOINC,706-2,S,6898636
+76222-9,21490854,21490854,Tidal volume Ventilator --on ventilator,LOINC,76222-9,S,6769516
+751-8,3013650,3013650,Neutrophils [#/volume] in Blood by Automated count,LOINC,751-8,S,6768465
+79550-0,21491174,21491174,Number of voids,LOINC,79550-0,S,6763522
+713-8,3010457,3010457,Eosinophils/100 leukocytes in Blood by Automated count,LOINC,713-8,S,6618337
+75960-5,21490754,21490754,Inspired minute Volume,LOINC,75960-5,S,6520150
+60949-5,42527086,42527086,Mean airway pressure,LOINC,60949-5,S,6189149
+20112-9,3012410,3012410,Tidal volume setting Ventilator,LOINC,20112-9,S,6177761
+718-7,3000963,3000963,Hemoglobin [Mass/volume] in Blood,LOINC,718-7,S,6081661
+777-3,3024929,3024929,Platelets [#/volume] in Blood by Automated count,LOINC,777-3,S,5926143
+101973-6,3965290,3965290,Total score (0 to 7),LOINC,101973-6,S,5922313
+4544-3,3023314,3023314,Hematocrit [Volume Fraction] of Blood by Automated count,LOINC,4544-3,S,5908027
+20570-8,3009542,3009542,Hematocrit [Volume Fraction] of Blood,LOINC,20570-8,S,5688647
+19123-9,3001420,3001420,Magnesium [Mass/volume] in Serum or Plasma,LOINC,19123-9,S,5151672
+75955-5,21490749,21490749,Temperature Infant microenvironment.incubator,LOINC,75955-5,S,5023448
+1751-7,3024561,3024561,Albumin [Mass/volume] in Serum or Plasma,LOINC,1751-7,S,4986692
+1975-2,3024128,3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,LOINC,1975-2,S,4348292
+1920-8,3013721,3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,1920-8,S,4248799
+6768-6,3035995,3035995,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,LOINC,6768-6,S,4178659
+2885-2,3020630,3020630,Protein [Mass/volume] in Serum or Plasma,LOINC,2885-2,S,4127937
+1742-6,3006923,3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,1742-6,S,4040359
+6298-4,3005456,3005456,Potassium [Moles/volume] in Blood,LOINC,6298-4,S,3900983
+39116-9,3038234,3038234,Drainage amount of Wound,LOINC,39116-9,S,3836872
+2947-0,3000285,3000285,Sodium [Moles/volume] in Blood,LOINC,2947-0,S,3814568
+33435-9,3043415,3043415,Inspiratory breath [Time] --on ventilator,LOINC,33435-9,S,3767974
+68994-3,40771519,40771519,Performing laboratory name,LOINC,68994-3,S,3482578
+26515-7,3007461,3007461,Platelets [#/volume] in Blood,LOINC,26515-7,S,3473394
+55782-7,40758903,40758903,Hemoglobin [Mass/volume] in Blood by Oximetry,LOINC,55782-7,S,3436515
+55283-6,40758412,40758412,Fetal Heart rate,LOINC,55283-6,S,3342552
+8634-8,3025809,3025809,Q-T interval,LOINC,8634-8,S,3256573
+732-8,3003215,3003215,Lymphocytes [#/volume] in Blood by Manual count,LOINC,732-8,S,3236969
+6301-6,3022217,3022217,INR in Platelet poor plasma by Coagulation assay,LOINC,6301-6,S,3054367
+5902-2,3034426,3034426,Prothrombin time (PT),LOINC,5902-2,S,3053806
+60985-9,21490675,21490675,Central venous pressure (CVP),LOINC,60985-9,S,2810070
+2777-1,3011904,3011904,Phosphate [Mass/volume] in Serum or Plasma,LOINC,2777-1,S,2797529
+19994-3,3024882,3024882,Oxygen/Total gas setting [Volume Fraction] Ventilator,LOINC,19994-3,S,2783614
+46099-8,3047107,3047107,Calcium [Mass/volume] corrected for albumin in Serum or Plasma,LOINC,46099-8,S,2740280
+60839-8,21490591,21490591,Skin temperature --in microenvironment,LOINC,60839-8,S,2712330
+75957-1,21490751,21490751,Temperature setting Infant microenvironment.incubator,LOINC,75957-1,S,2699854
+19891-1,3035357,3035357,Carbon dioxide [Partial pressure] in Exhaled gas --at end expiration,LOINC,19891-1,S,2203365
+14979-9,3018677,3018677,aPTT in Platelet poor plasma by Coagulation assay,LOINC,14979-9,S,2195936
+20054-3,3006802,3006802,Pressure maximum setting Ventilator alarm,LOINC,20054-3,S,2139629
+1968-7,3027597,3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,LOINC,1968-7,S,2068331
+8633-0,3022022,3022022,QRS duration,LOINC,8633-0,S,2030979
+1971-1,3007359,3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,LOINC,1971-1,S,2025826
+8625-6,3007794,3007794,P-R Interval,LOINC,8625-6,S,2012009
+53315-8,3039353,3039353,Urinalysis microscopic panel - Urine Qualitative by Automated,LOINC,53315-8,S,1868135
+2703-7,3027801,3027801,Oxygen [Partial pressure] in Arterial blood,LOINC,2703-7,S,1855314
+19829-1,3006805,3006805,Breaths maximum setting Ventilator alarm,LOINC,19829-1,S,1829754
+50562-8,3029991,3029991,Specific gravity of Urine by Refractometry automated,LOINC,50562-8,S,1791584
+50553-7,3029925,3029925,Color of Urine by Auto,LOINC,50553-7,S,1772013
+50552-9,3029709,3029709,Clarity in Urine by Refractometry automated,LOINC,50552-9,S,1772010
+50557-8,3030173,3030173,Ketones [Mass/volume] in Urine by Automated test strip,LOINC,50557-8,S,1758949
+57751-0,40760861,40760861,Hemoglobin [Presence] in Urine by Automated test strip,LOINC,57751-0,S,1757662
+53328-1,3039896,3039896,Glucose [Mass/volume] in Urine by Automated test strip,LOINC,53328-1,S,1757568
+20099-8,3021471,3021471,Maximum tidal volume setting Ventilator alarm,LOINC,20099-8,S,1686819
+20134-3,3025509,3025509,Minimum volume setting Ventilator alarm,LOINC,20134-3,S,1625624
+47596-2,3050068,3050068,Calcium.ionized [Moles/volume] in Blood by Ion-selective membrane electrode (ISE),LOINC,47596-2,S,1622382
+2744-1,3019977,3019977,pH of Arterial blood,LOINC,2744-1,S,1612809
+1960-4,3008152,3008152,Bicarbonate [Moles/volume] in Arterial blood,LOINC,1960-4,S,1605062
+2019-8,3027946,3027946,Carbon dioxide [Partial pressure] in Arterial blood,LOINC,2019-8,S,1601555
+59842-5,40762903,40762903,Apnea interval Ventilator alarm,LOINC,59842-5,S,1601450
+20100-4,3001941,3001941,Minimum tidal volume setting Ventilator alarm,LOINC,20100-4,S,1596627
+1925-7,3003396,3003396,Base excess in Arterial blood by calculation,LOINC,1925-7,S,1591015
+33022-5,3029797,3029797,Carbon dioxide [Partial pressure] in Capillary blood by Transcutaneous CO2 monitor,LOINC,33022-5,S,1546599
+2714-4,3014007,3014007,Fractional oxyhemoglobin in Arterial blood,LOINC,2714-4,S,1536364
+59274-1,40762365,40762365,Oxygen content in Arterial blood by calculation,LOINC,59274-1,S,1530887
+20941-1,3037428,3011904,Phosphate [Mass/volume] in Serum or Plasma,LOINC,2777-1,S,1505680
+99720-5,1989190,1989190,Transmembrane pressure Renal replacement therapy circuit,LOINC,99720-5,S,1459263
+8889-8,3001376,3001376,Heart rate by Pulse oximetry,LOINC,8889-8,S,1327209
+8893-0,3003841,3003841,Heart rate Peripheral artery by palpation,LOINC,8893-0,S,1327209
+66746-9,40769406,40769406,Specimen type,LOINC,66746-9,S,1315524
+4548-4,3004410,3004410,Hemoglobin A1c/Hemoglobin.total in Blood,LOINC,4548-4,S,1227037
+2571-8,3022192,3022192,Triglyceride [Mass/volume] in Serum or Plasma,LOINC,2571-8,S,1189476
+27353-2,3005131,3005131,Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin,LOINC,27353-2,S,1172369
+2093-3,3027114,3027114,Cholesterol [Mass/volume] in Serum or Plasma,LOINC,2093-3,S,1126482
+2085-9,3007070,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,LOINC,2085-9,S,1119046
+2089-1,3028437,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,LOINC,2089-1,S,1117954
+2708-6,3016502,3016502,Oxygen saturation in Arterial blood,LOINC,2708-6,S,1084358
+5821-4,3035583,3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field,LOINC,5821-4,S,1082557
+20116-0,3017594,3017594,Tidal volume.spontaneous --on ventilator,LOINC,20116-0,S,1076179
+774-0,3027920,3027920,Ovalocytes [Presence] in Blood by Light microscopy,LOINC,774-0,S,1062917
+14118-4,3020138,3020138,Lactate [Mass/volume] in Serum or Plasma,LOINC,14118-4,S,1062676
+2711-0,3024928,3024928,Oxygen saturation in Venous blood,LOINC,2711-0,S,1060403
+13945-1,3035124,3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field,LOINC,13945-1,S,1053002
+11555-0,3012501,3012501,Base excess in Blood by calculation,LOINC,11555-0,S,1022710
+98979-8,1619025,1619025,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI 2021)",LOINC,98979-8,S,994699
+50561-0,3029872,3029872,Protein [Mass/volume] in Urine by Automated test strip,LOINC,50561-0,S,989190
+32717-1,3043706,3043706,Sodium [Moles/volume] in Arterial blood,LOINC,32717-1,S,987999
+5803-2,3022621,3022621,pH of Urine by Test strip,LOINC,5803-2,S,974012
+8440-0,3005606,3005606,Pulmonary artery Systolic blood pressure,LOINC,8440-0,S,970518
+8385-7,3017188,3017188,Pulmonary artery Diastolic blood pressure,LOINC,8385-7,S,970512
+5799-2,3000348,3000348,Leukocyte esterase [Presence] in Urine by Test strip,LOINC,5799-2,S,968250
+5802-4,3021601,3021601,Nitrite [Presence] in Urine by Test strip,LOINC,5802-4,S,968194
+8414-5,3028074,3028074,Pulmonary artery Mean blood pressure,LOINC,8414-5,S,968134
+2713-6,3011367,3011367,Oxygen saturation Calculated from oxygen partial pressure in Blood,LOINC,2713-6,S,960122
+60829-9,36304439,36304439,Pressure.plateau Respiratory system airway,LOINC,60829-9,S,956809
+50984-4,3029943,3029943,Horowitz index in Arterial blood,LOINC,50984-4,S,943258
+60828-1,21490583,21490583,Compliance.static Lung,LOINC,60828-1,S,939384
+32693-4,3047181,3047181,Lactate [Moles/volume] in Blood,LOINC,32693-4,S,939368
+49701-6,3030091,3030091,pH of Blood adjusted to patient's actual temperature,LOINC,49701-6,S,935018
+34705-4,3033203,3033203,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Blood,LOINC,34705-4,S,934846
+1959-6,3006576,3006576,Bicarbonate [Moles/volume] in Blood,LOINC,1959-6,S,933938
+702-1,3026314,3026314,Anisocytosis [Presence] in Blood by Light microscopy,LOINC,702-1,S,926054
+50560-2,3029305,3029305,pH of Urine by Automated test strip,LOINC,50560-2,S,912549
+45390-2,3046731,3046731,Epithelial cells.squamous [#/area] in Urine sediment by Microscopy low power field,LOINC,45390-2,S,908143
+20509-6,3027484,3027484,Hemoglobin [Mass/volume] in Blood by calculation,LOINC,20509-6,S,906854
+60026-2,40763086,40763086,Leukocyte esterase [Presence] in Urine by Automated test strip,LOINC,60026-2,S,902046
+50558-6,3030758,3030758,Nitrite [Presence] in Urine by Automated test strip,LOINC,50558-6,S,901969
+8741-1,3005555,3005555,Left ventricular Cardiac output,LOINC,8741-1,S,898147
+5804-0,3005897,3005897,Protein [Mass/volume] in Urine by Test strip,LOINC,5804-0,S,893100
+1994-3,3021119,3021119,Calcium.ionized [Moles/volume] in Blood,LOINC,1994-3,S,880663
+75919-1,21490712,21490712,Left ventricular Cardiac index,LOINC,75919-1,S,871274
+76528-9,1175625,1175625,Breath rate spontaneous,LOINC,76528-9,S,870700
+14775-1,3006239,3006239,Hemoglobin [Mass/volume] in Arterial blood by Oximetry,LOINC,14775-1,S,861549
+41651-1,3031266,3031266,Glucose [Mass/volume] in Arterial blood,LOINC,41651-1,S,860494
+2339-0,3000483,3000483,Glucose [Mass/volume] in Blood,LOINC,2339-0,S,854556
+32713-0,3043409,3043409,Potassium [Moles/volume] in Arterial blood,LOINC,32713-0,S,854458
+99712-2,1989533,1989533,Dialysate flow rate Renal replacement therapy circuit,LOINC,99712-2,S,828498
+99711-4,1988610,1988610,Blood flow rate Renal replacement therapy circuit,LOINC,99711-4,S,824994
+99717-1,1989079,1989079,Access pressure Renal replacement therapy circuit,LOINC,99717-1,S,820654
+99719-7,1989498,1989498,Filter pressure Renal replacement therapy circuit,LOINC,99719-7,S,819371
+99718-9,1988101,1988101,Effluent pressure Renal replacement therapy circuit,LOINC,99718-9,S,818644
+99721-3,1988071,1988071,Return pressure Renal replacement therapy circuit,LOINC,99721-3,S,816284
+10378-8,3011987,3011987,Polychromasia [Presence] in Blood by Light microscopy,LOINC,10378-8,S,802591
+5769-5,3025255,3025255,Bacteria [#/area] in Urine sediment by Microscopy high power field,LOINC,5769-5,S,767417
+44971-0,3045676,3045676,Capillary refill [Time],LOINC,44971-0,S,757536
+8831-0,3035146,3035146,Systemic vascular Resistance,LOINC,8831-0,S,754042
+8837-7,3008047,3008047,Systemic vascular Resistance index,LOINC,8837-7,S,752726
+8591-0,3000333,3000333,Central venous pressure (CVP) Mean,LOINC,8591-0,S,745243
+99735-3,1989402,1989402,Ultrafiltrate volume removed 1 hour,LOINC,99735-3,S,742443
+76248-4,21490855,21490855,PEEP Respiratory system --on ventilator,LOINC,76248-4,S,728113
+34581-9,3044331,3044331,Calcium.ionized [Moles/volume] in Arterial blood,LOINC,34581-9,S,707287
+99731-2,1988373,1988373,Pressure drop Renal replacement therapy circuit,LOINC,99731-2,S,701246
+2157-6,3007220,3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,LOINC,2157-6,S,689318
+8636-3,3026258,3026258,Q-T interval corrected,LOINC,8636-3,S,680530
+8601-7,3020019,3020019,EKG impression,LOINC,8601-7,S,680530
+8632-2,3006277,3006277,QRS axis,LOINC,8632-2,S,680530
+76634-5,46235173,46235173,Q-T interval corrected based on Fridericia formula,LOINC,76634-5,S,680530
+76635-2,46235174,46235174,Q-T interval corrected based on Bazett formula,LOINC,76635-2,S,680530
+8626-4,3006698,3006698,P wave axis,LOINC,8626-4,S,680529
+8638-9,3027358,3027358,T wave axis,LOINC,8638-9,S,680529
+8637-1,3013078,3013078,R-R interval by EKG,LOINC,8637-1,S,680529
+8624-9,3004699,3004699,PP interval,LOINC,8624-9,S,680527
+57416-0,40760528,40760528,Thyrotropin receptor Ab [Units/volume] in Serum by Immunoassay,LOINC,57416-0,S,672155
+67151-1,40769783,40769783,Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,LOINC,67151-1,S,666200
+60956-0,21490653,21490653,Intracranial pressure (ICP),LOINC,60956-0,S,649754
+101692-2,3966129,3966129,Maximum heart rate,LOINC,101692-2,S,642630
+20074-1,3010742,3010742,Negative inspiratory pressure setting Ventilator,LOINC,20074-1,S,620277
+3024-7,3008598,3008598,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,LOINC,3024-7,S,620100
+2161-8,3017250,3017250,Creatinine [Mass/volume] in Urine,LOINC,2161-8,S,617565
+99741-1,1988590,1988590,Ultrafiltrate volume removed,LOINC,99741-1,S,609321
+94500-6,706163,706163,SARS-CoV-2 (COVID-19) RNA [Presence] in Respiratory system specimen by NAA with probe detection,LOINC,94500-6,S,602413
+1989-3,3020149,3020149,25-hydroxyvitamin D3 [Mass/volume] in Serum or Plasma,LOINC,1989-3,S,593334
+61017-0,21490695,21490695,Cerebral perfusion pressure,LOINC,61017-0,S,580272
+65643-9,40768334,40768334,Relative humidity,LOINC,65643-9,S,558840
+75929-0,21490722,21490722,Relative humidity Infant microenvironment.incubator,LOINC,75929-0,S,558840
+14804-9,3022250,3022250,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,LOINC,14804-9,S,550871
+7791-7,3000456,3000456,Dacrocytes [Presence] in Blood by Light microscopy,LOINC,7791-7,S,537358
+800-3,3019880,3019880,Schistocytes [Presence] in Blood by Light microscopy,LOINC,800-3,S,518847
+2021-4,3021447,3021447,Carbon dioxide [Partial pressure] in Venous blood,LOINC,2021-4,S,503585
+19254-2,3013702,3013702,Oxygen [Partial pressure] adjusted to patient's actual temperature in Blood,LOINC,19254-2,S,494927
+3271-4,3006792,3006792,LMW Heparin [Units/volume] in Platelet poor plasma by Chromogenic method,LOINC,3271-4,S,488203
+2132-9,3000593,3000593,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma,LOINC,2132-9,S,486005
+771-6,3007238,3007238,Nucleated erythrocytes [#/volume] in Blood by Automated count,LOINC,771-6,S,473872
+11253-2,3026250,3026250,Tacrolimus [Mass/volume] in Blood,LOINC,11253-2,S,469241
+2524-7,3014111,3014111,Lactate [Moles/volume] in Serum or Plasma,LOINC,2524-7,S,448783
+10839-9,3021337,3021337,Troponin I.cardiac [Mass/volume] in Serum or Plasma,LOINC,10839-9,S,429030
+3034-6,3004789,3004789,Transferrin [Mass/volume] in Serum or Plasma,LOINC,3034-6,S,421942
+3040-3,3004905,3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,LOINC,3040-3,S,420728
+16128-1,3017143,3017143,Hepatitis C virus Ab [Presence] in Serum,LOINC,16128-1,S,417090
+2888-6,3037121,3037121,Protein [Mass/volume] in Urine,LOINC,2888-6,S,416332
+30934-4,3011960,3011960,Natriuretic peptide B [Mass/volume] in Serum or Plasma,LOINC,30934-4,S,405317
+2498-4,3002400,3002400,Iron [Mass/volume] in Serum or Plasma,LOINC,2498-4,S,400922
+2615-3,3006217,3006217,Methemoglobin/Hemoglobin.total in Arterial blood,LOINC,2615-3,S,400253
+3397-7,3016879,3016879,Cocaine [Presence] in Urine,LOINC,3397-7,S,398201
+3879-4,3027008,3027008,Opiates [Presence] in Urine,LOINC,3879-4,S,398152
+3390-2,3000764,3000764,Benzodiazepines [Presence] in Urine,LOINC,3390-2,S,398143
+3377-9,3002020,3002020,Barbiturates [Presence] in Urine,LOINC,3377-9,S,398137
+3349-8,3027944,3027944,Amphetamines [Presence] in Urine,LOINC,3349-8,S,397656
+1988-5,3020460,3020460,C reactive protein [Mass/volume] in Serum or Plasma,LOINC,1988-5,S,396759
+2500-7,3021044,3021044,Iron binding capacity [Mass/volume] in Serum or Plasma,LOINC,2500-7,S,394897
+2502-3,3000185,3000185,Iron saturation [Mass Fraction] in Serum or Plasma,LOINC,2502-3,S,394850
+3427-2,3028300,3028300,Cannabinoids [Presence] in Urine,LOINC,3427-2,S,393270
+11579-0,3019762,3019762,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L,LOINC,11579-0,S,385526
+3773-9,3036180,3036180,Methadone [Presence] in Urine,LOINC,3773-9,S,384653
+2030-5,3028653,3028653,Carboxyhemoglobin/Hemoglobin.total in Arterial blood,LOINC,2030-5,S,382309
+749-2,3018229,3018229,Myelocytes/100 leukocytes in Blood by Manual count,LOINC,749-2,S,381661
+20567-4,3015242,3015242,Ferritin [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,20567-4,S,376921
+58413-6,40761514,40761514,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood by Automated count,LOINC,58413-6,S,361992
+3255-7,3016407,3016407,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,LOINC,3255-7,S,359174
+10381-2,3025616,3025616,Target cells [Presence] in Blood by Light microscopy,LOINC,10381-2,S,352324
+57653-8,40760765,40760765,Tidal volume.spontaneous minimum setting Ventilator alarm,LOINC,57653-8,S,335628
+5196-1,3019510,3019510,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,5196-1,S,332471
+19878-8,3033557,3033557,Carbon dioxide [Partial pressure] (8 hour maximum) in Capillary blood Transcutaneous CO2 monitor,LOINC,19878-8,S,332370
+19880-4,3003042,3003042,Carbon dioxide [Partial pressure] (8 hour minimum) in Capillary blood Transcutaneous CO2 monitor,LOINC,19880-4,S,331950
+14627-4,3027273,3027273,Bicarbonate [Moles/volume] in Venous blood,LOINC,14627-4,S,326208
+2705-2,3024354,3024354,Oxygen [Partial pressure] in Venous blood,LOINC,2705-2,S,323723
+1927-3,3002032,3002032,Base excess in Venous blood by calculation,LOINC,1927-3,S,322394
+3084-1,3037556,3037556,Urate [Mass/volume] in Serum or Plasma,LOINC,3084-1,S,322357
+15321-3,3023725,3023725,Urinary bladder Volume by derived by EMP (US),LOINC,15321-3,S,320281
+2106-3,3018954,3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine,LOINC,2106-3,S,319777
+13969-1,3005785,3005785,Creatine kinase.MB [Mass/volume] in Serum or Plasma,LOINC,13969-1,S,318535
+2746-6,3012544,3012544,pH of Venous blood,LOINC,2746-6,S,314820
+9217-1,3011087,3011087,Output.stool [Volume],LOINC,9217-1,S,313170
+19642-8,3021016,3021016,oxyCODONE [Presence] in Urine by Screen method,LOINC,19642-8,S,309300
+2716-9,3019230,3019230,Fractional oxyhemoglobin in Venous blood,LOINC,2716-9,S,306504
+60841-4,40763791,40763791,Oxygen content in Venous blood by calculation,LOINC,60841-4,S,305926
+10976-9,3028741,3028741,6-Monoacetylmorphine (6-MAM) [Presence] in Urine,LOINC,10976-9,S,300310
+3414-0,3007463,3007463,Buprenorphine [Presence] in Urine,LOINC,3414-0,S,300305
+740-1,3000666,3000666,Metamyelocytes/100 leukocytes in Blood by Manual count,LOINC,740-1,S,292963
+764-1,3007591,3007591,Band form neutrophils/100 leukocytes in Blood by Manual count,LOINC,764-1,S,282514
+5908-9,3018528,3018528,Giant platelets [Presence] in Blood by Light microscopy,LOINC,5908-9,S,278401
+728-6,3021303,3021303,Hypochromia [Presence] in Blood by Light microscopy,LOINC,728-6,S,276888
+4537-7,3013707,3013707,Erythrocyte sedimentation rate by Westergren method,LOINC,4537-7,S,272422
+2857-1,3013603,3013603,Prostate specific Ag [Mass/volume] in Serum or Plasma,LOINC,2857-1,S,269466
+2324-2,3026910,3026910,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma,LOINC,2324-2,S,269350
+38483-4,3051825,3051825,Creatinine [Mass/volume] in Blood,LOINC,38483-4,S,260454
+738-5,3021502,3021502,Macrocytes [Presence] in Blood by Light microscopy,LOINC,738-5,S,255649
+49580-4,3032965,3032965,HIV 1+2 Ab [Presence] in Specimen by Rapid immunoassay,LOINC,49580-4,S,253871
+12308-3,3034223,3034223,HYDROcodone [Presence] in Urine,LOINC,12308-3,S,252443
+741-9,3037885,3037885,Microcytes [Presence] in Blood by Light microscopy,LOINC,741-9,S,246966
+24110-9,3011520,3011520,Treponema pallidum Ab [Presence] in Serum by Immunoassay,LOINC,24110-9,S,246614
+39122-7,3039001,3039001,Fluid output wound drain Estimated,LOINC,39122-7,S,245331
+56888-1,40760007,40760007,HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,56888-1,S,244752
+6793-4,3017925,3017925,Prealbumin [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,6793-4,S,242404
+2284-8,3036987,3036987,Folate [Mass/volume] in Serum or Plasma,LOINC,2284-8,S,236342
+1754-1,3012516,3012516,Albumin [Mass/volume] in Urine,LOINC,1754-1,S,233409
+7790-9,3005854,3005854,Burr cells [Presence] in Blood by Light microscopy,LOINC,7790-9,S,232512
+101864-7,3964677,3964677,Oxygen/Total gas setting ECMO device,LOINC,101864-7,S,228624
+8287-5,3001537,3001537,Head Occipital-frontal circumference by Tape measure,LOINC,8287-5,S,226291
+3184-9,3016948,3016948,Activated clotting time (ACT) of Blood by Coagulation assay,LOINC,3184-9,S,225553
+5643-2,3012920,3012920,Ethanol [Mass/volume] in Serum or Plasma,LOINC,5643-2,S,224067
+9195-9,3016267,3016267,Urine output by in and out urethral catheter,LOINC,9195-9,S,223362
+9257-7,3018366,3018366,Fluid output total Measured,LOINC,9257-7,S,220549
+22322-2,3017797,3017797,Hepatitis B virus surface Ab [Presence] in Serum,LOINC,22322-2,S,219422
+48065-7,3051714,3051714,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,LOINC,48065-7,S,213615
+8453-3,3034703,3034703,Diastolic blood pressure--sitting,LOINC,8453-3,S,211684
+41650-3,3031248,3031248,Chloride [Moles/volume] in Arterial blood,LOINC,41650-3,S,209504
+9229-6,3004267,3004267,Output.colostomy [Volume],LOINC,9229-6,S,208630
+24111-7,3011371,3011371,Neisseria gonorrhoeae DNA [Presence] in Specimen by NAA with probe detection,LOINC,24111-7,S,207609
+1798-8,3016771,3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma,LOINC,1798-8,S,206992
+75958-9,21490752,21490752,Tidal volume expired Respiratory system airway,LOINC,75958-9,S,200552
+75951-4,21490745,21490745,Skin temperature setting Infant microenvironment,LOINC,75951-4,S,200308
+20564-1,3013502,3013502,Oxygen saturation in Blood,LOINC,20564-1,S,190576
+16935-9,3023421,3023421,Hepatitis B virus surface Ab [Units/volume] in Serum,LOINC,16935-9,S,187855
+31208-2,3015746,3015746,Specimen source identified,LOINC,31208-2,S,182824
+5048-4,3002971,3002971,Nuclear Ab [Titer] in Serum by Immunofluorescence,LOINC,5048-4,S,169382
+15192-8,3017963,3017963,Variant lymphocytes [Presence] in Blood by Automated count,LOINC,15192-8,S,167808
+17849-1,3007124,3007124,Reticulocytes/100 erythrocytes in Blood by Automated count,LOINC,17849-1,S,166846
+60474-4,40763528,40763528,Reticulocytes [#/volume] in Blood by Automated count,LOINC,60474-4,S,165745
+14196-0,3023520,3023520,Reticulocytes [#/volume] in Blood,LOINC,14196-0,S,165714
+8459-0,3018586,3018586,Systolic blood pressure--sitting,LOINC,8459-0,S,164014
+2731-8,3000067,3000067,Parathyrin.intact [Mass/volume] in Serum or Plasma,LOINC,2731-8,S,162987
+19212-0,3021513,3021513,Carbon dioxide [Partial pressure] in Mixed venous blood,LOINC,19212-0,S,162580
+19213-8,3012388,3012388,pH of Mixed venous blood,LOINC,19213-8,S,162497
+19229-4,3025817,3025817,Bicarbonate [Moles/volume] in Mixed venous blood,LOINC,19229-4,S,162439
+2069-3,3018572,3018572,Chloride [Moles/volume] in Blood,LOINC,2069-3,S,161745
+19211-2,3038071,3038071,Oxygen [Partial pressure] in Mixed venous blood,LOINC,19211-2,S,159565
+59673-4,40762735,40762735,fentaNYL [Presence] in Urine by Screen method,LOINC,59673-4,S,155318
+4092-3,3018920,3018920,Vancomycin [Mass/volume] in Serum or Plasma --trough,LOINC,4092-3,S,154286
+19234-4,3023001,3023001,Base excess in Mixed venous blood by calculation,LOINC,19234-4,S,152785
+1834-1,3009306,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma,LOINC,1834-1,S,151832
+2955-3,3003181,3003181,Sodium [Moles/volume] in Urine,LOINC,2955-3,S,150834
+49563-0,3032971,3032971,Troponin I.cardiac [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL,LOINC,49563-0,S,149721
+9318-7,3034485,3034485,Albumin/Creatinine [Mass Ratio] in Urine,LOINC,9318-7,S,149013
+76009-0,42527121,42527121,Inspired minute Volume during Mechanical ventilation,LOINC,76009-0,S,147626
+2465-3,3005719,3005719,IgG [Mass/volume] in Serum or Plasma,LOINC,2465-3,S,145046
+79553-4,21491177,21491177,Fluid output emesis [#],LOINC,79553-4,S,141299
+2890-2,3001582,3001582,Protein/Creatinine [Mass Ratio] in Urine,LOINC,2890-2,S,136682
+2276-4,3001122,3001122,Ferritin [Mass/volume] in Serum or Plasma,LOINC,2276-4,S,135446
+20055-0,3021748,3021748,Pressure minimum setting Ventilator alarm,LOINC,20055-0,S,132231
+19224-5,3018465,3018465,Oxygen saturation in Mixed venous blood,LOINC,19224-5,S,132061
+66748-5,40769408,40769408,Clot angle in Blood by Thromboelastography,LOINC,66748-5,S,131485
+52778-8,3040808,3040808,Maximum clot firmness [Length] in Blood by Thromboelastography,LOINC,52778-8,S,131446
+52768-9,3041078,3041078,Clot formation [Time] in Blood by Thromboelastography,LOINC,52768-9,S,131064
+52789-5,3041952,3041952,Clot initiation [Time] in Blood by Thromboelastography,LOINC,52789-5,S,130978
+64098-7,40766814,40766814,Six minute walk test,LOINC,64098-7,S,130265
+1744-2,3027388,3027388,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by No addition of P-5'-P,LOINC,1744-2,S,130204
+20562-5,3036518,3036518,Left ventricular Stroke volume,LOINC,20562-5,S,126612
+9274-2,3004221,3004221,5 minute Apgar Score,LOINC,9274-2,S,126050
+76297-1,21490880,21490880,Left ventricular Stroke volume index,LOINC,76297-1,S,125863
+2458-8,3007164,3007164,IgA [Mass/volume] in Serum or Plasma,LOINC,2458-8,S,124989
+20447-9,3010747,3010747,HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,20447-9,S,124545
+21613-5,3006093,3006093,Chlamydia trachomatis DNA [Presence] in Specimen by NAA with probe detection,LOINC,21613-5,S,123640
+16362-6,3011958,3011958,Ammonia [Moles/volume] in Plasma,LOINC,16362-6,S,122465
+2965-2,3033543,3033543,Specific gravity of Urine,LOINC,2965-2,S,120376
+83367-3,42528496,42528496,Gas delivery system Fresh gas.air flow setting [Flow],LOINC,83367-3,S,118378
+10380-4,3024783,3024783,Stomatocytes [Presence] in Blood by Light microscopy,LOINC,10380-4,S,117262
+60952-9,21490651,21490651,Mean airway pressure --during inspiration,LOINC,60952-9,S,116019
+20578-1,3005715,3005715,Vancomycin [Mass/volume] in Serum or Plasma,LOINC,20578-1,S,114336
+5794-3,3011397,3011397,Hemoglobin [Presence] in Urine by Test strip,LOINC,5794-3,S,112656
+5797-6,3023539,3023539,Ketones [Mass/volume] in Urine by Test strip,LOINC,5797-6,S,112654
+5792-7,3024629,3024629,Glucose [Mass/volume] in Urine by Test strip,LOINC,5792-7,S,112646
+60834-9,21490586,21490586,Blood temperature,LOINC,60834-9,S,109537
+19926-5,3011505,3011505,FEV1/FVC,LOINC,19926-5,S,104570
+8246-1,3007350,3007350,Amorphous sediment [Presence] in Urine sediment by Light microscopy,LOINC,8246-1,S,103780
+2862-1,3028286,3028286,Albumin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,2862-1,S,102222
+2871-2,3016520,3016520,Beta globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,2871-2,S,102219
+2874-6,3023465,3023465,Gamma globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,2874-6,S,102214
+2868-8,3005229,3005229,Alpha 2 globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,2868-8,S,102213
+2865-4,3015322,3015322,Alpha 1 globulin [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,2865-4,S,102209
+67848-2,40770446,40770446,Leukocyte clumps [Presence] in Urine sediment by Light microscopy,LOINC,67848-2,S,100248
+66745-1,40769405,40769405,Clot Lysis [Length fraction] in Blood by Thromboelastography --30 minutes post maximum clot amplitude,LOINC,66745-1,S,98964
+5778-6,3027162,3027162,Color of Urine,LOINC,5778-6,S,98230
+32167-9,3008204,3008204,Clarity of Urine,LOINC,32167-9,S,98227
+2472-9,3028026,3028026,IgM [Mass/volume] in Serum or Plasma,LOINC,2472-9,S,97988
+11559-2,3014646,3014646,Fractional oxyhemoglobin in Blood,LOINC,11559-2,S,97237
+64798-2,40767502,40767502,Oxygen content in Mixed venous blood by calculation,LOINC,64798-2,S,96671
+72493-0,43055120,43055120,Cytomegalovirus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,72493-0,S,96637
+72828-7,43055688,43055688,Chlamydia trachomatis and Neisseria gonorrhoeae DNA panel - Specimen,LOINC,72828-7,S,94600
+13952-7,3036282,3036282,Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,13952-7,S,94143
+2692-2,3008295,3008295,Osmolality of Serum or Plasma,LOINC,2692-2,S,93329
+5796-8,3022509,3022509,Hyaline casts [#/area] in Urine sediment by Microscopy low power field,LOINC,5796-8,S,90404
+33223-9,3043722,3043722,Hyaline casts [#/area] in Urine sediment by Automated count,LOINC,33223-9,S,89724
+38221-8,3035486,3035486,Pain severity Wong-Baker FACES pain rating scale,LOINC,38221-8,S,89704
+24467-3,3028167,3028167,CD3+CD4+ (T4 helper) cells [#/volume] in Blood,LOINC,24467-3,S,89365
+8123-2,3014037,3014037,CD3+CD4+ (T4 helper) cells/100 cells in Blood,LOINC,8123-2,S,89348
+81661-1,21493943,21493943,Blood loss [Volume] Measured,LOINC,81661-1,S,88395
+32554-8,3006653,3006653,Thiamine [Moles/volume] in Blood,LOINC,32554-8,S,88131
+8460-8,3035856,3035856,Systolic blood pressure--standing,LOINC,8460-8,S,87646
+8454-1,3019962,3019962,Diastolic blood pressure--standing,LOINC,8454-1,S,87308
+33425-0,3045410,3045410,Minute volume setting Ventilator,LOINC,33425-0,S,86501
+40620-7,3042462,3042462,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Capillary blood,LOINC,40620-7,S,86487
+39485-8,3040135,3040135,pH of Capillary blood adjusted to patient's actual temperature,LOINC,39485-8,S,86454
+1961-2,3015235,3015235,Bicarbonate [Moles/volume] in Capillary blood,LOINC,1961-2,S,86331
+3051-0,3026925,3026925,Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma,LOINC,3051-0,S,85460
+8430-1,3009435,3009435,Left ventricular Intrachamber systolic pressure,LOINC,8430-1,S,85401
+31204-1,3013527,3013527,Hepatitis B virus core IgM Ab [Presence] in Serum,LOINC,31204-1,S,84280
+32144-8,3038185,3038185,Pathologist review of serum or plasma results,LOINC,32144-8,S,84158
+19832-5,3014498,3014498,Breath rate minimum setting Ventilator alarm,LOINC,19832-5,S,83893
+2709-4,3021901,3021901,Oxygen saturation in Capillary blood,LOINC,2709-4,S,83479
+19256-7,3019240,3019240,Oxygen [Partial pressure] adjusted to patient's actual temperature in Capillary blood,LOINC,19256-7,S,83274
+2695-5,3026782,3026782,Osmolality of Urine,LOINC,2695-5,S,83031
+94022-1,1002411,1002411,Depression score,LOINC,94022-1,S,82923
+81662-9,21493944,21493944,Percentage of meal eaten,LOINC,81662-9,S,82875
+61372-9,40764133,40764133,Human papilloma virus 16 DNA [Presence] in Specimen by NAA with probe detection,LOINC,61372-9,S,82734
+61373-7,40764134,40764134,Human papilloma virus 18 DNA [Presence] in Specimen by NAA with probe detection,LOINC,61373-7,S,82732
+19153-6,3004775,3004775,Volume in Urine collected for unspecified duration,LOINC,19153-6,S,82397
+62292-8,40765040,40765040,25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 [Mass/volume] in Serum or Plasma,LOINC,62292-8,S,81797
+49054-0,3049536,3049536,25-hydroxyvitamin D2 [Mass/volume] in Serum or Plasma,LOINC,49054-0,S,81724
+49896-4,3032431,3032431,Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Specimen by NAA with probe detection,LOINC,49896-4,S,81309
+6556-5,3008350,21491660,Streptococcus pyogenes Ag [Presence] in Throat by Rapid immunoassay,LOINC,78012-2,S,80790
+2143-6,3009682,3009682,Cortisol [Mass/volume] in Serum or Plasma,LOINC,2143-6,S,80779
+33959-8,3046279,3046279,Procalcitonin [Mass/volume] in Serum or Plasma,LOINC,33959-8,S,79947
+1926-5,3003129,3003129,Base excess in Capillary blood by calculation,LOINC,1926-5,S,79771
+49275-1,3052992,3052992,Immunofixation for Serum or Plasma Narrative,LOINC,49275-1,S,79410
+13362-9,3016750,3016750,Collection duration of Urine,LOINC,13362-9,S,77533
+31147-2,3026501,3026501,Reagin Ab [Titer] in Serum by RPR,LOINC,31147-2,S,77481
+22760-3,3001157,3023103,Potassium [Moles/volume] in Serum or Plasma,LOINC,2823-3,S,77324
+8828-6,3013652,3013652,Pulmonary vascular Resistance,LOINC,8828-6,S,77198
+2986-8,3008893,3008893,Testosterone [Mass/volume] in Serum or Plasma,LOINC,2986-8,S,77092
+14771-0,3018251,3018251,Fasting glucose [Moles/volume] in Serum or Plasma,LOINC,14771-0,S,77011
+39802-4,3043954,3043954,Creatinine in dialysis fluid/Creatinine in serum or plasma,LOINC,39802-4,S,76979
+39789-3,3041354,3041354,Potassium [Moles/volume] in Venous blood,LOINC,39789-3,S,76436
+18185-9,3012266,3012266,Gestational age,LOINC,18185-9,S,76260
+47938-6,3053213,3053213,Specimen source [Identifier] of Body fluid,LOINC,47938-6,S,75755
+709-6,3023643,3023643,Blasts/100 leukocytes in Blood by Manual count,LOINC,709-6,S,74723
+11011-4,3018447,3018447,Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,11011-4,S,72709
+49316-3,3053000,3053000,Hemoglobin pattern [Interpretation] in Blood by Electrophoresis,LOINC,49316-3,S,71612
+4552-6,3021009,3021009,Hemoglobin A2/Hemoglobin.total in Blood by Electrophoresis,LOINC,4552-6,S,71485
+23905-3,3027653,3027653,Mycophenolate [Mass/volume] in Serum or Plasma,LOINC,23905-3,S,71197
+41458-1,3031852,3031852,SARS coronavirus RNA [Presence] in Specimen by NAA with probe detection,LOINC,41458-1,S,70632
+11050-2,3019812,3019812,Kappa light chains [Mass/volume] in Serum or Plasma,LOINC,11050-2,S,70337
+15189-4,3007778,3007778,Kappa light chains/Lambda light chains [Mass Ratio] in Serum,LOINC,15189-4,S,70336
+11051-0,3004640,3004640,Lambda light chains [Mass/volume] in Serum or Plasma,LOINC,11051-0,S,70330
+41276-7,3039000,3039000,Anion gap in Blood,LOINC,41276-7,S,69567
+4498-2,3017766,3017766,Complement C4 [Mass/volume] in Serum or Plasma,LOINC,4498-2,S,69406
+51435-6,3029713,3029713,Protein.monoclonal band 1 [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,51435-6,S,69216
+4485-9,3000620,3000620,Complement C3 [Mass/volume] in Serum or Plasma,LOINC,4485-9,S,68681
+19877-0,3037879,3037879,Forced vital capacity [Volume] Respiratory system --pre bronchodilation,LOINC,19877-0,S,67539
+19927-3,3011417,3011417,Gas flow FEV 25%-75%,LOINC,19927-3,S,67498
+69971-0,42868460,42868460,FEF 25-75% Predicted,LOINC,69971-0,S,67497
+721-1,3022493,3022493,Free Hemoglobin [Mass/volume] in Plasma,LOINC,721-1,S,66852
+2889-4,3020876,3020876,Protein [Mass/time] in 24 hour Urine,LOINC,2889-4,S,65818
+48054-1,3052068,3052068,Kaolin activated time [Units/volume] in Blood,LOINC,48054-1,S,65696
+30341-2,3015183,3015183,Erythrocyte sedimentation rate,LOINC,30341-2,S,65412
+81454-1,21493446,21493446,Residual volume/Total capacity --pre bronchodilation,LOINC,81454-1,S,65288
+6299-2,3004295,3004295,Urea nitrogen [Mass/volume] in Blood,LOINC,6299-2,S,64875
+9103-3,3037106,3037106,Fluid intake total Measured,LOINC,9103-3,S,64768
+9241-1,3000152,3000152,Output.ileostomy [Volume],LOINC,9241-1,S,64574
+20565-8,3014094,3014094,"Carbon dioxide, total [Moles/volume] in Blood",LOINC,20565-8,S,64372
+75994-4,21490776,21490776,Pulmonary artery wedge pressure,LOINC,75994-4,S,64346
+99685-0,1989527,1989527,Pacemaker rate,LOINC,99685-0,S,64313
+41652-9,3033408,3033408,Glucose [Mass/volume] in Venous blood,LOINC,41652-9,S,62058
+76087-6,46235766,46235766,Parainfluenza virus 4 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76087-6,S,61992
+77022-2,46234982,46234982,Respiratory syncytial virus A RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,77022-2,S,61992
+76086-8,46235765,46235765,Parainfluenza virus 3 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76086-8,S,61991
+88721-6,36304423,36304423,Rhinovirus+Enterovirus RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,88721-6,S,61991
+88718-2,36303621,36303621,Chlamydophila pneumoniae DNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,88718-2,S,61991
+76084-3,46235763,46235763,Parainfluenza virus 1 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76084-3,S,61990
+77023-0,46234983,46234983,Respiratory syncytial virus B RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,77023-0,S,61989
+77024-8,46236734,46236734,Human metapneumovirus RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,77024-8,S,61989
+76085-0,46235764,46235764,Parainfluenza virus 2 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76085-0,S,61989
+82177-7,21493343,21493343,Mycoplasma pneumoniae DNA [Presence] in Nasopharynx by NAA with non-probe detection,LOINC,82177-7,S,61989
+20572-4,3009131,3009131,Hemoglobin A/Hemoglobin.total in Blood by Electrophoresis,LOINC,20572-4,S,61834
+20415-6,3008615,3008615,Choriogonadotropin.beta subunit [Units/volume] in Serum or Plasma by Immunoassay (EIA) 3rd IS,LOINC,20415-6,S,61735
+9272-6,3016704,3016704,1 minute Apgar Score,LOINC,9272-6,S,61076
+72366-8,43054997,43054997,Influenza virus A and B Ag [Identifier] in Nose by Rapid immunoassay,LOINC,72366-8,S,60441
+8461-6,3009395,3009395,Systolic blood pressure--supine,LOINC,8461-6,S,60077
+80382-5,21492988,21492988,Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,LOINC,80382-5,S,60077
+80383-3,21492989,21492989,Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,LOINC,80383-3,S,60064
+8455-8,3013940,3013940,Diastolic blood pressure--supine,LOINC,8455-8,S,59086
+13949-3,3012887,3012887,Cytomegalovirus IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,13949-3,S,58638
+25514-1,3013750,3013750,Rubella virus IgG Ab [Presence] in Serum,LOINC,25514-1,S,58029
+95380-2,36661384,36661384,Influenza virus A and B and SARS-CoV-2 (COVID-19) and SARS-related CoV RNA panel - Respiratory system specimen by NAA with probe detection,LOINC,95380-2,S,57994
+5862-8,3028459,3028459,Influenza virus A Ag [Presence] in Specimen by Immunoassay,LOINC,5862-8,S,57930
+5866-9,3011688,3011688,Influenza virus B Ag [Presence] in Specimen by Immunoassay,LOINC,5866-9,S,57929
+11572-5,3021614,3021614,Rheumatoid factor [Units/volume] in Serum or Plasma,LOINC,11572-5,S,57693
+39126-8,3041292,3041292,Length of Wound,LOINC,39126-8,S,57480
+8834-4,3009713,3009713,Pulmonary vascular Resistance index,LOINC,8834-4,S,55886
+13955-0,3013801,3013801,Hepatitis C virus Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,13955-0,S,55574
+39791-9,3041473,3041473,Sodium [Moles/volume] in Venous blood,LOINC,39791-9,S,54981
+39125-0,3042480,3042480,Width of Wound,LOINC,39125-0,S,54841
+60256-5,40763311,40763311,Neisseria gonorrhoeae rRNA [Presence] in Urine by NAA with probe detection,LOINC,60256-5,S,53062
+42931-6,3031356,3031356,Chlamydia trachomatis rRNA [Presence] in Urine by NAA with probe detection,LOINC,42931-6,S,52833
+77027-1,46236737,46236737,Influenza virus A H3 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,77027-1,S,51866
+77026-3,46236736,46236736,Influenza virus A H1 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,77026-3,S,51865
+76080-1,46235759,46235759,Influenza virus B RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76080-1,S,51865
+77028-9,46236738,46236738,Influenza virus A H1 2009 pandemic RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,77028-9,S,51863
+76078-5,46235757,46235757,Influenza virus A RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76078-5,S,51784
+2039-6,3003785,3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,LOINC,2039-6,S,51630
+20507-0,3021461,3021461,Reagin Ab [Presence] in Serum by RPR,LOINC,20507-0,S,51240
+21198-7,3038136,3038136,Choriogonadotropin.beta subunit [Units/volume] in Serum or Plasma,LOINC,21198-7,S,50820
+5822-2,3037244,3037244,Yeast [#/area] in Urine sediment by Microscopy high power field,LOINC,5822-2,S,50755
+45194-8,3046071,3046071,Choriogonadotropin.intact+Beta subunit [Units/volume] in Serum or Plasma,LOINC,45194-8,S,48907
+802-9,3005481,3005481,Spherocytes [Presence] in Blood by Light microscopy,LOINC,802-9,S,48747
+33569-5,3045440,3045440,Sjogrens syndrome-A extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,33569-5,S,48728
+49699-2,3032186,3032186,pH of Venous cord blood adjusted to patient's actual temperature,LOINC,49699-2,S,48453
+49695-0,3029246,3029246,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Venous cord blood,LOINC,49695-0,S,48398
+28641-9,3018650,3018650,Bicarbonate [Moles/volume] in Venous cord blood,LOINC,28641-9,S,48375
+783-1,3011587,3011587,Promyelocytes/100 leukocytes in Blood by Manual count,LOINC,783-1,S,48312
+10334-1,3037551,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma,LOINC,10334-1,S,48167
+74277-5,44786920,44786920,Mycobacterium tuberculosis stimulated gamma interferon CFP10 Ag spot count [#] in Blood,LOINC,74277-5,S,47946
+19146-0,3017575,3017575,Referral lab test results,LOINC,19146-0,S,47220
+49698-4,3030109,3030109,pH of Arterial cord blood adjusted to patient's actual temperature,LOINC,49698-4,S,47128
+49694-3,3032759,3032759,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Arterial cord blood,LOINC,49694-3,S,47113
+28640-1,3017809,3017809,Bicarbonate [Moles/volume] in Arterial cord blood,LOINC,28640-1,S,47065
+33515-8,3046312,3046312,Clarity of Specimen,LOINC,33515-8,S,47001
+6824-7,3015579,3015579,Color of Body fluid,LOINC,6824-7,S,46883
+48345-3,3053246,3053246,HIV 1+O+2 Ab [Presence] in Serum or Plasma,LOINC,48345-3,S,46451
+24114-1,3019231,3019231,Epstein Barr virus capsid IgG Ab [Presence] in Serum by Immunoassay,LOINC,24114-1,S,46226
+4542-7,3012336,3012336,Haptoglobin [Mass/volume] in Serum or Plasma,LOINC,4542-7,S,46217
+45142-7,3043359,3043359,Sjogrens syndrome-B extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,45142-7,S,46189
+76113-0,21490826,21490826,Nitrogen dioxide [VFr/PPres] Gas delivery system,LOINC,76113-0,S,45852
+26455-6,3010910,3010910,Erythrocytes [#/volume] in Body fluid,LOINC,26455-6,S,45591
+26466-3,3022174,3022174,Leukocytes [#/volume] in Body fluid,LOINC,26466-3,S,45581
+19911-7,3008905,3008905,Diffusion capacity.carbon monoxide,LOINC,19911-7,S,45340
+98130-8,1617299,1617299,Diffusion capacity.carbon monoxide/Predicted,LOINC,98130-8,S,45338
+95941-1,36031861,36031861,Influenza virus A and B and SARS-CoV-2 (COVID-19) and Respiratory syncytial virus RNA panel - Respiratory system specimen by NAA with probe detection,LOINC,95941-1,S,45258
+2162-6,3004239,3004239,Creatinine [Mass/time] in 24 hour Urine,LOINC,2162-6,S,45075
+76070-2,46235749,46235749,Adenovirus DNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,76070-2,S,44944
+94759-8,586526,586526,SARS-CoV-2 (COVID-19) RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,94759-8,S,44828
+19162-7,3022386,3022386,Varicella zoster virus IgG Ab [Presence] in Serum,LOINC,19162-7,S,44768
+33935-8,3030367,3030367,Cyclic citrullinated peptide IgG Ab [Units/volume] in Serum or Plasma,LOINC,33935-8,S,44401
+30350-3,3004119,3004119,Hemoglobin [Mass/volume] in Venous blood,LOINC,30350-3,S,43852
+3095-7,3011965,3011965,Urea nitrogen [Mass/volume] in Urine,LOINC,3095-7,S,42931
+30230-7,3023500,3023500,Segmented neutrophils/100 leukocytes in Body fluid by Manual count,LOINC,30230-7,S,42561
+26454-9,3027475,3027475,Erythrocytes [#/volume] in Cerebral spinal fluid,LOINC,26454-9,S,42299
+26465-5,3016543,3016543,Leukocytes [#/volume] in Cerebral spinal fluid,LOINC,26465-5,S,42195
+10335-8,3038077,3038077,Color of Cerebral spinal fluid,LOINC,10335-8,S,41791
+49736-2,3029810,3029810,Clarity of Cerebral spinal fluid,LOINC,49736-2,S,41771
+13532-7,3027572,3027572,Xanthochromia [Presence] of Cerebral spinal fluid Qualitative,LOINC,13532-7,S,41387
+58466-4,40761567,40761567,DNA double strand IgG Ab [Titer] in Serum by Immunofluorescence (IF) Crithidia luciliae,LOINC,58466-4,S,41318
+5403-1,3023895,3023895,Varicella zoster virus IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,5403-1,S,41215
+13941-0,3003540,3003540,Lymphocytes/100 leukocytes in Body fluid by Manual count,LOINC,13941-0,S,40689
+3298-7,3002617,3002617,Acetaminophen [Mass/volume] in Serum or Plasma,LOINC,3298-7,S,40560
+1756-6,3013247,3013247,Albumin in CSF/Albumin in Serum or Plasma,LOINC,1756-6,S,40379
+2858-9,3010719,3010719,Protein in CSF/Protein in serum,LOINC,2858-9,S,40329
+9137-1,3028277,3028277,Fluid output emesis,LOINC,9137-1,S,39604
+2342-4,3022548,3022548,Glucose [Mass/volume] in Cerebral spinal fluid,LOINC,2342-4,S,38724
+2880-3,3019473,3019473,Protein [Mass/volume] in Cerebral spinal fluid,LOINC,2880-3,S,38677
+16285-9,3008392,3008392,Creatinine/Protein [Mass Ratio] in Urine,LOINC,16285-9,S,38455
+13950-1,3020316,3020316,Hepatitis A virus IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,13950-1,S,38185
+32683-5,3030612,3030612,Hemoglobin S/Hemoglobin.total in Blood by Electrophoresis,LOINC,32683-5,S,38095
+46128-5,3046538,3046538,Tissue transglutaminase IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,46128-5,S,37542
+40724-7,3040363,3040363,Hepatitis A virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,40724-7,S,37503
+10330-9,3004411,3004411,Monocytes/100 leukocytes in Body fluid by Manual count,LOINC,10330-9,S,37223
+4024-6,3000787,3000787,Salicylates [Mass/volume] in Serum or Plasma,LOINC,4024-6,S,36961
+24115-8,3019209,3019209,Epstein Barr virus capsid IgM Ab [Presence] in Serum by Immunoassay,LOINC,24115-8,S,36889
+71773-6,42869528,42869528,Mycobacterium tuberculosis stimulated gamma interferon [Interpretation] in Blood Qualitative,LOINC,71773-6,S,36648
+23883-2,3018595,3018595,Inhibin A [Mass/volume] in Serum or Plasma,LOINC,23883-2,S,36375
+73572-0,43533595,43533595,Magnesium Ionized [Moles/volume] in Blood by Ion-selective membrane electrode (ISE),LOINC,73572-0,S,36261
+2251-7,3025994,3025994,Estriol (E3) [Mass/volume] in Serum or Plasma,LOINC,2251-7,S,36064
+24108-3,3022914,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma,LOINC,24108-3,S,35800
+55806-4,40758927,40758927,Mycophenolate [Mass/volume] in Serum or Plasma by LC/MS/MS,LOINC,55806-4,S,35754
+15067-2,3023323,3023323,Follitropin [Units/volume] in Serum or Plasma,LOINC,15067-2,S,35703
+32682-7,3045405,3045405,Hemoglobin F/Hemoglobin.total in Blood by Electrophoresis,LOINC,32682-7,S,35454
+2243-4,3025285,3025285,Estradiol (E2) [Mass/volume] in Serum or Plasma,LOINC,2243-4,S,35064
+801-1,3020412,3020412,Sickle cells [Presence] in Blood by Light microscopy,LOINC,801-1,S,34249
+53132-7,3041957,3041957,Epithelial cells.non-squamous [#/area] in Urine sediment by Microscopy low power field,LOINC,53132-7,S,34033
+32285-9,3003752,3003752,BK virus DNA [Units/volume] (viral load) in Urine by NAA with probe detection,LOINC,32285-9,S,33864
+29771-3,3012471,3012471,Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay,LOINC,29771-3,S,33691
+46418-0,3051593,3051593,INR in Capillary blood by Coagulation assay,LOINC,46418-0,S,33545
+5358-7,3033682,3033682,Smooth muscle Ab [Titer] in Serum by Immunofluorescence,LOINC,5358-7,S,33418
+5247-2,3026652,3026652,Mitochondria Ab [Titer] in Serum by Immunofluorescence,LOINC,5247-2,S,33418
+95209-3,757685,757685,SARS-CoV+SARS-CoV-2 (COVID-19) Ag [Presence] in Respiratory system specimen by Rapid immunoassay,LOINC,95209-3,S,33319
+13967-5,3004248,3004248,Sex hormone binding globulin [Moles/volume] in Serum or Plasma,LOINC,13967-5,S,33144
+95422-2,36661376,36661376,Influenza virus A and B and SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection,LOINC,95422-2,S,32967
+8247-9,3006175,3006175,Mucus [Presence] in Urine sediment by Light microscopy,LOINC,8247-9,S,32786
+10535-3,3011335,3011335,Digoxin [Mass/volume] in Serum or Plasma,LOINC,10535-3,S,32733
+89085-5,36303283,36303283,Total lung capacity measured/predicted by Plethysmograph body box,LOINC,89085-5,S,32644
+81452-5,21493126,21493126,Residual volume --pre bronchodilation,LOINC,81452-5,S,32643
+94125-2,1002029,1002029,Residual volume/Predicted by Plethysmograph body box,LOINC,94125-2,S,32638
+99698-3,1988660,1988660,Permanent pacemaker Atrial stimulation setting,LOINC,99698-3,S,32626
+94558-4,723477,723477,SARS-CoV-2 (COVID-19) Ag [Presence] in Respiratory system specimen by Rapid immunoassay,LOINC,94558-4,S,32555
+7789-1,3019416,3019416,Acanthocytes [Presence] in Blood by Light microscopy,LOINC,7789-1,S,32402
+29541-0,3026532,3026532,HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,29541-0,S,31775
+41479-7,3033445,3033445,BK virus DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,41479-7,S,31115
+779-9,3011368,3011368,Poikilocytosis [Presence] in Blood by Light microscopy,LOINC,779-9,S,30541
+4086-5,3016201,3016201,Valproate [Mass/volume] in Serum or Plasma,LOINC,4086-5,S,30340
+5631-7,3027126,3027126,Copper [Mass/volume] in Serum or Plasma,LOINC,5631-7,S,29936
+20438-8,3010300,3010300,Glucose [Mass/volume] in Serum or Plasma --1 hour post dose glucose,LOINC,20438-8,S,29704
+3016-3,3009201,3009201,Thyrotropin [Units/volume] in Serum or Plasma,LOINC,3016-3,S,29640
+53131-9,3041086,3041086,Calcium oxalate crystals [#/area] in Urine sediment by Microscopy low power field,LOINC,53131-9,S,29031
+803-7,3004381,3004381,Toxic granules [Presence] in Blood by Light microscopy,LOINC,803-7,S,28458
+1825-9,3026285,3026285,Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma,LOINC,1825-9,S,28447
+99700-7,1989192,1989192,Permanent pacemaker Ventricular stimulation setting,LOINC,99700-7,S,28017
+62412-2,40765151,40765151,PhenX - upper arm circ protocol 021101,LOINC,62412-2,S,27895
+15432-8,3027401,3027401,Testosterone Free/Testosterone.total in Serum or Plasma,LOINC,15432-8,S,27572
+35410-0,3035167,3035167,Continuous positive airway pressure Respiratory system,LOINC,35410-0,S,27339
+2462-0,3016604,3016604,IgE [Mass/volume] in Serum,LOINC,2462-0,S,27325
+44357-2,3045331,3045331,Galactomannan Ag [Units/volume] in Serum or Plasma by Immunoassay,LOINC,44357-2,S,27295
+2118-8,3003191,3003191,Choriogonadotropin (pregnancy test) [Presence] in Serum or Plasma,LOINC,2118-8,S,27038
+70167-2,42868641,42868641,Trichomonas vaginalis rRNA [Presence] in Urine by NAA with probe detection,LOINC,70167-2,S,27006
+6303-2,3019174,3019174,dRVVT (LA screen),LOINC,6303-2,S,26666
+1986-9,3010084,3010084,C peptide [Mass/volume] in Serum or Plasma,LOINC,1986-9,S,26600
+74278-3,44786921,44786921,Mycobacterium tuberculosis stimulated gamma interferon ESAT-6 Ag spot count [#] in Blood,LOINC,74278-3,S,26550
+74279-1,44786922,44786922,Gamma interferon negative control spot count [#] in Blood,LOINC,74279-1,S,26549
+74280-9,44786923,44786923,Mitogen stimulated gamma interferon positive control spot count [#] in Blood,LOINC,74280-9,S,26549
+2466-1,3027135,3027135,IgG subclass 1 [Mass/volume] in Serum,LOINC,2466-1,S,26322
+2467-9,3028192,3028192,IgG subclass 2 [Mass/volume] in Serum,LOINC,2467-9,S,26318
+2469-5,3024980,3024980,IgG subclass 4 [Mass/volume] in Serum,LOINC,2469-5,S,26316
+2468-7,3024139,3024139,IgG subclass 3 [Mass/volume] in Serum,LOINC,2468-7,S,26295
+3520-4,3010375,3010375,cycloSPORINE [Mass/volume] in Blood,LOINC,3520-4,S,25596
+14278-6,3003284,3003284,Neutrophil cytoplasmic Ab.perinuclear [Titer] in Serum by Immunofluorescence,LOINC,14278-6,S,25319
+14277-8,3004383,3004383,Neutrophil cytoplasmic Ab.classic [Titer] in Serum by Immunofluorescence,LOINC,14277-8,S,25319
+2064-4,3022756,3022756,Ceruloplasmin [Mass/volume] in Serum or Plasma,LOINC,2064-4,S,25185
+39127-6,3042000,3042000,Depth of Wound,LOINC,39127-6,S,24716
+51928-0,3038792,3038792,Ribonucleoprotein extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,51928-0,S,24685
+703-9,3026904,3026904,Basophilic stippling [Presence] in Blood by Light microscopy,LOINC,703-9,S,24535
+3096-5,3017457,3017457,Urea nitrogen [Mass/time] in 24 hour Urine,LOINC,3096-5,S,24392
+3281-3,3027184,3027184,Lupus anticoagulant [Interpretation] in Platelet poor plasma,LOINC,3281-3,S,24234
+34571-0,3044009,3044009,aPTT.lupus sensitive (LA screen),LOINC,34571-0,S,24233
+13954-3,3023378,3023378,Hepatitis B virus e Ag [Presence] in Serum or Plasma by Immunoassay,LOINC,13954-3,S,24164
+3181-5,3009041,3009041,Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,3181-5,S,23920
+43305-2,3045028,3045028,Neisseria gonorrhoeae rRNA [Presence] in Specimen by NAA with probe detection,LOINC,43305-2,S,23784
+13355-3,3009036,3009036,Unspecified cells/100 leukocytes in Body fluid by Manual count,LOINC,13355-3,S,23771
+10501-5,3009214,3009214,Lutropin [Units/volume] in Serum or Plasma,LOINC,10501-5,S,23653
+43304-5,3043310,3043310,Chlamydia trachomatis rRNA [Presence] in Specimen by NAA with probe detection,LOINC,43304-5,S,23629
+3182-3,3015813,3015813,Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,3182-3,S,23395
+2357-2,3037524,3037524,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells,LOINC,2357-2,S,23117
+30522-7,3010156,3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,LOINC,30522-7,S,23098
+91875-5,37019817,37019817,Streptococcus agalactiae DNA [Presence] in Vag+Rectum by NAA with probe detection,LOINC,91875-5,S,23087
+32284-2,3000504,3000504,BK virus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,32284-2,S,23061
+77379-6,46236084,46236084,Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix,LOINC,77379-6,S,22736
+6864-3,3017974,3017974,Hemoglobin S [Presence] in Blood by Solubility test,LOINC,6864-3,S,22723
+2991-8,3016049,3016049,Testosterone Free [Mass/volume] in Serum or Plasma,LOINC,2991-8,S,22572
+30427-9,3024126,3024126,Macrophages/100 leukocytes in Body fluid,LOINC,30427-9,S,22460
+1761-6,3027953,3027953,Aldolase [Enzymatic activity/volume] in Serum or Plasma,LOINC,1761-6,S,22453
+10328-3,3036663,3036663,Lymphocytes/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,10328-3,S,22240
+59462-2,40762525,40762525,Clinical biochemist review of results,LOINC,59462-2,S,22218
+13964-2,3016426,3016426,Methylmalonate [Moles/volume] in Serum or Plasma,LOINC,13964-2,S,22112
+41649-5,3035285,3035285,Chloride [Moles/volume] in Venous blood,LOINC,41649-5,S,21897
+5176-3,3027491,3027491,Helicobacter pylori IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,5176-3,S,21735
+8391-5,3018100,3018100,Left ventricular End diastolic blood pressure,LOINC,8391-5,S,21723
+2617-9,3024889,3024889,Methemoglobin/Hemoglobin.total in Venous blood,LOINC,2617-9,S,21562
+2032-1,3010517,3010517,Carboxyhemoglobin/Hemoglobin.total in Venous blood,LOINC,2032-1,S,21560
+46154-1,3045342,3045342,Trichomonas vaginalis rRNA [Presence] in Specimen by NAA with probe detection,LOINC,46154-1,S,21472
+3968-5,3022616,3022616,Phenytoin [Mass/volume] in Serum or Plasma,LOINC,3968-5,S,21440
+97606-8,1616374,1616374,PLPEth [Mass/volume] in Blood,LOINC,97606-8,S,21401
+97607-6,1616799,1616799,POPEth [Mass/volume] in Blood,LOINC,97607-6,S,21399
+77400-0,46236101,46236101,Human papilloma virus 18 DNA [Presence] in Cervix by NAA with probe detection,LOINC,77400-0,S,21333
+77399-4,46236100,46236100,Human papilloma virus 16 DNA [Presence] in Cervix by NAA with probe detection,LOINC,77399-4,S,21331
+24119-0,3001145,3001145,Cytomegalovirus IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,24119-0,S,21197
+5763-8,3017394,3017394,Zinc [Mass/volume] in Serum or Plasma,LOINC,5763-8,S,21085
+15410-4,3009678,3009678,Varicella zoster virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,15410-4,S,20853
+79549-2,21491173,21491173,Urine output measured by nephrostomy,LOINC,79549-2,S,20824
+69937-1,42868427,42868427,Trichomonas vaginalis DNA [Presence] in Specimen by NAA with probe detection,LOINC,69937-1,S,20209
+34187-5,3044946,3044946,DNA double strand Ab [Titer] in Serum by Immunofluorescence (IF) Crithidia luciliae,LOINC,34187-5,S,20166
+10329-1,3037194,3037194,Monocytes/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,10329-1,S,20155
+12293-7,3015883,3015883,Cotinine [Presence] in Urine,LOINC,12293-7,S,20040
+46758-9,3050693,3050693,Congenital adrenal hyperplasia newborn screen interpretation,LOINC,46758-9,S,20000
+14107-7,3026086,3026086,Segmented neutrophils/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,14107-7,S,19965
+46761-3,3048441,3048441,Biotinidase deficiency newborn screen interpretation,LOINC,46761-3,S,19934
+46733-2,3050997,3050997,Amino acidemias newborn screen interpretation,LOINC,46733-2,S,19928
+46769-6,3051677,3051677,Cystic fibrosis newborn screen interpretation,LOINC,46769-6,S,19694
+8099-4,3027238,3027238,Thyroperoxidase Ab [Units/volume] in Serum or Plasma,LOINC,8099-4,S,19638
+13953-5,3036806,3036806,Hepatitis B virus e Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,13953-5,S,19442
+32765-0,3047178,3047178,Yeast [Presence] in Specimen by Wet preparation,LOINC,32765-0,S,19311
+32761-9,3029474,3029474,Leukocytes [Presence] in Specimen by Wet preparation,LOINC,32761-9,S,19254
+32763-5,3046905,3046905,Bacteria [Presence] in Specimen by Wet preparation,LOINC,32763-5,S,19252
+32764-3,3047152,3047152,Clue cells [Presence] in Specimen by Wet preparation,LOINC,32764-3,S,19247
+2640-1,3011470,3011470,Myoglobin [Presence] in Urine,LOINC,2640-1,S,19247
+32766-8,3047204,3047204,Trichomonas vaginalis [Presence] in Specimen by Wet preparation,LOINC,32766-8,S,19245
+17842-6,3013520,3013520,Cancer Ag 27-29 [Units/volume] in Serum or Plasma,LOINC,17842-6,S,19031
+55805-6,40758926,40758926,cycloSPORINE [Mass/volume] in Blood by LC/MS/MS,LOINC,55805-6,S,18389
+20448-7,3016244,3016244,Insulin [Units/volume] in Serum or Plasma,LOINC,20448-7,S,18047
+7792-5,3003715,3003715,Dohle body [Presence] in Blood by Light microscopy,LOINC,7792-5,S,17954
+3026-2,3016991,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma,LOINC,3026-2,S,17889
+20568-2,3015481,3015481,Prolactin [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,20568-2,S,17790
+42595-9,3032567,3032567,Hepatitis B virus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,42595-9,S,17480
+8985-4,3013308,3013308,Fluid intake Measured,LOINC,8985-4,S,17355
+43182-5,3045792,3045792,Smith extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,43182-5,S,17324
+88719-0,36303942,36303942,Human coronavirus 229E+HKU1+NL63+OC43 RNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,88719-0,S,17049
+88716-6,36304915,36304915,Adenovirus A+B+C+D+E+F DNA [Presence] in Nasopharynx by NAA with probe detection,LOINC,88716-6,S,17047
+33227-0,3030335,3030335,Coarse Granular Casts [#/area] in Urine sediment by Automated count,LOINC,33227-0,S,17006
+72607-5,43055441,43055441,Streptococcus agalactiae [Presence] in Vag+Rectum by Organism specific culture,LOINC,72607-5,S,16900
+29247-4,3021374,3021374,Sirolimus [Mass/volume] in Blood,LOINC,29247-4,S,16873
+3209-4,3019250,3019250,Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3209-4,S,16514
+3150-0,3020716,3020716,Inhaled oxygen concentration,LOINC,3150-0,S,16514
+43813-5,3046060,3046060,Reagin Ab [Presence] in Cord blood,LOINC,43813-5,S,16408
+13951-9,3035456,3035456,Hepatitis A virus Ab [Presence] in Serum by Immunoassay,LOINC,13951-9,S,16271
+29575-8,3037142,3037142,Thyrotropin [Units/volume] in DBS,LOINC,29575-8,S,16198
+53349-7,3039354,3039354,Thyroxine (T4) free [Mass/volume] in DBS,LOINC,53349-7,S,16197
+46744-9,3052281,3052281,Organic acidemias newborn screen interpretation,LOINC,46744-9,S,16132
+46736-5,3051633,3051633,Fatty acid oxidation defects newborn screen interpretation,LOINC,46736-5,S,16132
+46737-3,3049389,3049389,Galactosemias newborn screen interpretation,LOINC,46737-3,S,16131
+56074-8,40759195,40759195,Circumference Neck,LOINC,56074-8,S,15971
+46740-7,3051923,3051923,Hemoglobin disorders newborn screen interpretation,LOINC,46740-7,S,15815
+49697-6,3030441,3030441,Oxygen [Partial pressure] adjusted to patient's actual temperature in Venous cord blood,LOINC,49697-6,S,15744
+49839-4,3030410,3030410,Eosinophils [Presence] in Urine sediment by Wright stain,LOINC,49839-4,S,15571
+8122-4,3011412,3011412,CD3 cells [#/volume] in Blood,LOINC,8122-4,S,15301
+8124-0,3022533,3022533,CD3 cells/100 cells in Blood,LOINC,8124-0,S,15295
+30552-4,3033504,3033504,Pyridoxal phosphate [Mass/volume] in Serum or Plasma,LOINC,30552-4,S,15219
+1823-4,3024865,3024865,Alpha tocopherol [Mass/volume] in Serum or Plasma,LOINC,1823-4,S,15160
+11038-7,3005244,3005244,Beta+gamma tocopherol [Mass/volume] in Serum or Plasma,LOINC,11038-7,S,15136
+60984-2,21490674,21490674,Aorta Systolic blood pressure,LOINC,60984-2,S,15040
+60982-6,21490672,21490672,Aorta Diastolic blood pressure,LOINC,60982-6,S,15039
+49696-8,3033254,3033254,Oxygen [Partial pressure] adjusted to patient's actual temperature in Arterial cord blood,LOINC,49696-8,S,15018
+60983-4,21490673,21490673,Aorta Mean blood pressure,LOINC,60983-4,S,14911
+7793-3,3002620,3002620,Howell-Jolly bodies [Presence] in Blood by Light microscopy,LOINC,7793-3,S,14699
+35333-4,3036086,3036086,Jo-1 extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,35333-4,S,14626
+38180-6,3034868,3034868,Hepatitis C virus RNA [log units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,38180-6,S,14614
+47322-3,3052524,3052524,SCL-70 extractable nuclear IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,47322-3,S,14504
+2828-2,3016038,3016038,Potassium [Moles/volume] in Urine,LOINC,2828-2,S,14441
+13965-9,3016724,3016724,Homocysteine [Moles/volume] in Serum or Plasma,LOINC,13965-9,S,14375
+62290-2,40765038,40765038,"1,25-Dihydroxyvitamin D [Mass/volume] in Serum or Plasma",LOINC,62290-2,S,14322
+33944-0,3047169,3047169,Lambda light chains.free [Mass/volume] in Serum or Plasma,LOINC,33944-0,S,14300
+40844-3,3041030,3053209,Kappa light chains.free/Lambda light chains.free [Mass Ratio] in Serum,LOINC,48378-4,S,14300
+36916-5,3034860,3034860,Kappa light chains.free [Mass/volume] in Serum,LOINC,36916-5,S,14300
+1649-3,3014173,3014173,Calcitriol [Mass/volume] in Serum or Plasma,LOINC,1649-3,S,14294
+62291-0,40765039,40765039,"1,25-Dihydroxyvitamin D2 [Mass/volume] in Serum or Plasma",LOINC,62291-0,S,14273
+1795-4,3012133,3012133,Amylase [Enzymatic activity/volume] in Body fluid,LOINC,1795-4,S,14260
+1952-1,3013201,3013201,Beta-2-Microglobulin [Mass/volume] in Serum or Plasma,LOINC,1952-1,S,14221
+3714-3,3004944,3004944,Lidocaine [Mass/volume] in Serum or Plasma,LOINC,3714-3,S,14098
+53529-4,3038609,3038609,Microalbumin [Mass/volume] in Body fluid by Detection limit <= 1.0 mg/L,LOINC,53529-4,S,14081
+16135-6,3018658,3018658,Beta 2 glycoprotein 1 IgG Ab [Units/volume] in Serum,LOINC,16135-6,S,13806
+16136-4,3014300,3014300,Beta 2 glycoprotein 1 IgM Ab [Units/volume] in Serum,LOINC,16136-4,S,13664
+8098-6,3025547,3025547,Thyroglobulin Ab [Units/volume] in Serum or Plasma,LOINC,8098-6,S,13591
+6357-8,3024950,3024950,Chlamydia trachomatis DNA [Presence] in Urine by NAA with probe detection,LOINC,6357-8,S,13571
+3013-0,3036535,3036535,Thyroglobulin [Mass/volume] in Serum or Plasma,LOINC,3013-0,S,13560
+4532-8,3028461,3028461,Complement total hemolytic CH50 [Units/volume] in Serum or Plasma,LOINC,4532-8,S,13513
+43730-1,3043849,3043849,Epstein Barr virus DNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection,LOINC,43730-1,S,13458
+21416-3,3003510,3003510,Neisseria gonorrhoeae DNA [Presence] in Urine by NAA with probe detection,LOINC,21416-3,S,13441
+19239-3,3028271,3028271,Lactate [Moles/volume] in Capillary blood,LOINC,19239-3,S,13370
+14334-7,3024666,3024666,Lithium [Moles/volume] in Serum or Plasma,LOINC,14334-7,S,13095
+27811-9,3000515,3000515,Antithrombin actual/normal in Platelet poor plasma by Chromogenic method,LOINC,27811-9,S,13072
+48407-1,3051741,3051741,Pregnancy associated plasma protein A [Mass/volume] in Serum or Plasma,LOINC,48407-1,S,12906
+1857-2,3036335,3036335,Angiotensin converting enzyme [Enzymatic activity/volume] in Blood,LOINC,1857-2,S,12587
+14135-8,3001405,3001405,CD3+CD8+ (T8 suppressor) cells [#/volume] in Blood,LOINC,14135-8,S,12535
+8101-8,3007449,3007449,CD3+CD8+ (T8 suppressor) cells/100 cells in Blood,LOINC,8101-8,S,12531
+17146-2,3037816,3037816,CD4+CD8+ cells/100 cells in Blood,LOINC,17146-2,S,12530
+20785-2,3019917,3019917,Drugs identified in Serum or Plasma by Screen method,LOINC,20785-2,S,12450
+2078-4,3007733,3007733,Chloride [Moles/volume] in Urine,LOINC,2078-4,S,11998
+2484-4,3013273,3013273,Insulin-like growth factor-I [Mass/volume] in Serum or Plasma,LOINC,2484-4,S,11996
+34714-6,3032080,3032080,INR in Blood by Coagulation assay,LOINC,34714-6,S,11967
+3053-6,3010340,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma,LOINC,3053-6,S,11850
+12234-1,3000598,3000598,Mesothelial cells/100 leukocytes in Body fluid by Manual count,LOINC,12234-1,S,11785
+13527-7,3027528,3027528,Unidentified cells/100 leukocytes in Cerebral spinal fluid by Manual count,LOINC,13527-7,S,11711
+45391-0,3046825,3046825,Epithelial cells.renal [#/area] in Urine sediment by Microscopy low power field,LOINC,45391-0,S,11656
+5404-9,3024489,3024489,Varicella zoster virus IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,5404-9,S,11561
+14836-1,3017115,3017115,Methotrexate [Moles/volume] in Serum or Plasma,LOINC,14836-1,S,11277
+5388-4,3006957,3006957,Toxoplasma gondii IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,5388-4,S,11153
+36923-1,3037329,3037329,Epstein Barr virus DNA [#/volume] (viral load) in Blood by NAA with probe detection,LOINC,36923-1,S,11009
+32286-7,3002653,3002653,Hepatitis C virus genotype [Identifier] in Serum or Plasma by NAA with probe detection,LOINC,32286-7,S,10878
+12228-3,3000637,3000637,Triglyceride [Mass/volume] in Body fluid,LOINC,12228-3,S,10746
+2881-1,3005029,3005029,Protein [Mass/volume] in Body fluid,LOINC,2881-1,S,10732
+21723-2,3003648,3003648,SERPINA1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,21723-2,S,10638
+94533-7,706161,706161,SARS-CoV-2 (COVID-19) N gene [Presence] in Respiratory system specimen by NAA with probe detection,LOINC,94533-7,S,10595
+14803-1,3018994,3018994,Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Lactate to pyruvate reaction,LOINC,14803-1,S,10537
+34701-3,3032948,3032948,Heparin induced platelet Ab [Presence] in Serum,LOINC,34701-3,S,10507
+35670-9,3035509,3035509,Tobramycin [Mass/volume] in Serum or Plasma,LOINC,35670-9,S,10494
+94499-1,706162,706162,Respiratory viral pathogens DNA and RNA panel - Respiratory system specimen Qualitative by NAA with probe detection,LOINC,94499-1,S,10436
+2956-1,3002079,3002079,Sodium [Moles/time] in 24 hour Urine,LOINC,2956-1,S,10412
+49300-7,3048933,3048933,Protein Fractions [Interpretation] in Urine by Immunofixation Narrative,LOINC,49300-7,S,10355
+2842-3,3004722,3004722,Prolactin [Mass/volume] in Serum or Plasma,LOINC,2842-3,S,10264
+69380-4,40771901,40771901,"t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript/control transcript (International Scale) [# Ratio] in Blood or Tissue by Molecular genetics method",LOINC,69380-4,S,10230
+2839-9,3027144,3027144,Progesterone [Mass/volume] in Serum or Plasma,LOINC,2839-9,S,10221
+4057-6,3004090,3004090,Tobramycin [Mass/volume] in Serum or Plasma --peak,LOINC,4057-6,S,9968
+13884-2,3014102,3014102,Estradiol (E2).bioavailable [Mass/volume] in Serum or Plasma,LOINC,13884-2,S,9967
+1681-6,3025921,3025921,Beta hydroxybutyrate dehydrogenase [Enzymatic activity/volume] in Blood,LOINC,1681-6,S,9794
+2141-0,3035637,3035637,Corticotropin [Mass/volume] in Plasma,LOINC,2141-0,S,9760
+43180-9,3045041,3045041,Herpes simplex virus 2 IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,43180-9,S,9691
+51916-5,3039971,3039971,Herpes simplex virus 1 IgG Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,51916-5,S,9688
+1755-8,3027035,3027035,Albumin [Mass/time] in 24 hour Urine,LOINC,1755-8,S,9512
+48952-6,3048918,3048918,Histoplasma capsulatum Ag [Mass/volume] in Urine,LOINC,48952-6,S,9473
+74661-0,44816559,44816559,Phosphatidylethanol [Mass/volume] in Blood,LOINC,74661-0,S,9452
+103227-5,3966536,3966536,Testosterone Free [Mass/volume] in Serum or Plasma by Calculation,LOINC,103227-5,S,9374
+38476-8,3047826,3047826,Mullerian inhibiting substance [Mass/volume] in Serum or Plasma,LOINC,38476-8,S,9354
+1763-2,3011337,3011337,Aldosterone [Mass/volume] in Serum or Plasma,LOINC,1763-2,S,9273
+75932-4,21490725,21490725,Inspiratory time percent,LOINC,75932-4,S,9272
+19659-2,3013184,3013184,Phencyclidine [Presence] in Urine by Screen method,LOINC,19659-2,S,9257
+19261-7,3023596,3023596,Amphetamines [Presence] in Urine by Screen method,LOINC,19261-7,S,9257
+14316-4,3007682,3007682,Benzodiazepines [Presence] in Urine by Screen method,LOINC,14316-4,S,9257
+19270-8,3005058,3005058,Barbiturates [Presence] in Urine by Screen method,LOINC,19270-8,S,9257
+19554-5,3011402,3011402,Methamphetamine [Presence] in Urine by Screen method,LOINC,19554-5,S,9257
+19312-8,3006006,3006006,Tricyclic antidepressants [Presence] in Urine by Screen method,LOINC,19312-8,S,9257
+19359-9,3018060,3018060,Cocaine [Presence] in Urine by Screen method,LOINC,19359-9,S,9257
+19550-3,3028707,3028707,Methadone [Presence] in Urine by Screen method,LOINC,19550-3,S,9240
+6948-4,3023261,3023261,lamoTRIgine [Mass/volume] in Serum or Plasma,LOINC,6948-4,S,9173
+9271-8,3016162,3016162,10 minute Apgar Score,LOINC,9271-8,S,9160
+29590-7,3011916,3011916,Cytomegalovirus DNA [Mass/volume] (viral load) in Blood by Probe,LOINC,29590-7,S,9094
+5334-8,3011564,3011564,Rubella virus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,5334-8,S,9056
+40851-8,3042027,3042027,Normetanephrine Free [Moles/volume] in Serum or Plasma,LOINC,40851-8,S,8977
+20434-7,3022976,3022976,Prolactin [Units/volume] in Serum or Plasma by 3rd IS,LOINC,20434-7,S,8881
+42916-7,3031957,3031957,Histoplasma capsulatum Ag [Units/volume] in Specimen by Immunoassay,LOINC,42916-7,S,8860
+49700-8,3032155,3032155,Metanephrine Free [Moles/volume] in Serum or Plasma,LOINC,49700-8,S,8856
+17862-4,3006661,3006661,Calcium [Mass/volume] in Urine,LOINC,17862-4,S,8788
+13995-6,3010157,3010157,Gamma globulin/Protein.total in Urine by Electrophoresis,LOINC,13995-6,S,8740
+13994-9,3009565,3009565,Beta globulin/Protein.total in Urine by Electrophoresis,LOINC,13994-9,S,8740
+13990-7,3026665,3026665,Alpha 1 globulin/Protein.total in Urine by Electrophoresis,LOINC,13990-7,S,8740
+13992-3,3010926,3010926,Albumin/Protein.total in Urine by Electrophoresis,LOINC,13992-3,S,8740
+13993-1,3028558,3028558,Alpha 2 globulin/Protein.total in Urine by Electrophoresis,LOINC,13993-1,S,8740
+41746-9,3032014,3032014,Blastomyces dermatitidis Ag [Presence] in Urine by Immunoassay,LOINC,41746-9,S,8709
+890-4,3001079,3001079,Blood group antibody screen [Presence] in Serum or Plasma,LOINC,890-4,S,8677
+68961-2,40771495,40771495,"HIV 1 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",LOINC,68961-2,S,8622
+4059-2,3006638,3006638,Tobramycin [Mass/volume] in Serum or Plasma --trough,LOINC,4059-2,S,8605
+21027-8,3020174,3020174,Platelet aggregation [Interpretation] in Platelet poor plasma,LOINC,21027-8,S,8557
+2915-7,3007808,3007808,Renin [Enzymatic activity/volume] in Plasma,LOINC,2915-7,S,8454
+46267-1,3051669,3051669,Proteinase 3 Ab [Units/volume] in Serum by Immunoassay,LOINC,46267-1,S,8328
+33905-1,3029154,3029154,Trichomonas sp [#/area] in Urine sediment by Microscopy high power field,LOINC,33905-1,S,8294
+46266-3,3049398,3049398,Myeloperoxidase Ab [Units/volume] in Serum by Immunoassay,LOINC,46266-3,S,8271
+883-9,3002529,3002529,ABO group [Type] in Blood,LOINC,883-9,S,8237
+2283-0,3035569,3035569,Folate [Mass/volume] in Red Blood Cells,LOINC,2283-0,S,8198
+6825-4,3019347,3019347,Crystals [type] in Body fluid by Light microscopy,LOINC,6825-4,S,8151
+27816-8,3036035,3036035,von Willebrand factor (vWf) Ag actual/normal in Platelet poor plasma by Immunoassay,LOINC,27816-8,S,8107
+52750-7,3040976,3040976,Activated protein C resistance [Presence] in Platelet poor plasma by Coagulation assay,LOINC,52750-7,S,8087
+32680-1,3044844,3044844,Fine Granular Casts [#/area] in Urine sediment by Microscopy low power field,LOINC,32680-1,S,8077
+33910-1,3043745,3043745,Rheumatoid factor [Presence] in Serum,LOINC,33910-1,S,8070
+31625-7,3021871,3021871,Sjogrens syndrome-A extractable nuclear IgG Ab [Presence] in Serum,LOINC,31625-7,S,8047
+14030-1,3027113,3027113,Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear Ab [Units/volume] in Serum by Immunoassay,LOINC,14030-1,S,8038
+31562-2,3000307,3000307,PM-SCL extractable nuclear Ab [Units/volume] in Serum,LOINC,31562-2,S,8037
+18485-3,3013637,3013637,Mi-2 Ab [Presence] in Serum,LOINC,18485-3,S,8034
+82425-0,42529583,42529583,Mj Ab [Units/volume] in Serum by Line blot,LOINC,82425-0,S,8034
+33771-7,3030939,3030939,PL-12 Ab [Presence] in Serum,LOINC,33771-7,S,8032
+88725-7,36306115,36306115,MDA5 Ab [Units/volume] in Serum by Line blot,LOINC,88725-7,S,8032
+68549-5,40771132,40771132,U2 small nuclear ribonucleoprotein Ab [Presence] in Serum,LOINC,68549-5,S,8032
+18484-6,3022761,3022761,Ku Ab [Presence] in Serum,LOINC,18484-6,S,8032
+49963-2,3029569,3029569,Fibrillarin Ab [Presence] in Serum,LOINC,49963-2,S,8032
+88739-8,36305608,36305608,TIF1-gamma Ab [Units/volume] in Serum by Line blot,LOINC,88739-8,S,8031
+45152-6,3046209,3046209,OJ Ab [Presence] in Serum,LOINC,45152-6,S,8031
+33772-5,3030635,3030635,PL-7 Ab [Presence] in Serum,LOINC,33772-5,S,8031
+33921-8,3033229,3033229,Signal Recognition Particle (SRP) Ab [Presence] in Serum or Plasma,LOINC,33921-8,S,8031
+45149-2,3046519,3046519,Ej Ab [Presence] in Serum,LOINC,45149-2,S,8031
+9110-8,3021505,3021505,Blood loss.total intraoperative [Volume] Estimated,LOINC,9110-8,S,8006
+2923-1,3022338,3022338,Retinol [Mass/volume] in Serum or Plasma,LOINC,2923-1,S,7984
+33980-4,3043147,3043147,Voltage-gated calcium channel P/Q type binding Ab [Moles/volume] in Serum,LOINC,33980-4,S,7935
+2748-2,3018672,3018672,pH of Body fluid,LOINC,2748-2,S,7894
+93812-6,1001830,1001830,"1,3 beta glucan [Presence] in Serum",LOINC,93812-6,S,7894
+32585-2,3000453,3000453,Epstein Barr virus DNA [#/volume] (viral load) in Specimen by NAA with probe detection,LOINC,32585-2,S,7860
+39017-9,3040373,3040373,Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon in Blood,LOINC,39017-9,S,7802
+2756-5,3015736,3015736,pH of Urine,LOINC,2756-5,S,7720
+97204-2,1616808,1616808,Oxidants [Mass/volume] in Urine,LOINC,97204-2,S,7703
+50551-1,3030477,3030477,Bilirubin.total [Presence] in Urine by Automated test strip,LOINC,50551-1,S,7655
+22587-0,3019832,3019832,Treponema pallidum Ab [Presence] in Serum,LOINC,22587-0,S,7629
+11610-3,3008797,3008797,Heterophile Ab [Units/volume] in Serum,LOINC,11610-3,S,7612
+2344-0,3019210,3019210,Glucose [Mass/volume] in Body fluid,LOINC,2344-0,S,7535
+19295-5,3015208,3015208,Opiates [Presence] in Urine by Screen method,LOINC,19295-5,S,7516
+62467-6,40765204,40765204,Galactomannan Ag [Units/volume] in Specimen by Immunoassay,LOINC,62467-6,S,7456
+13997-2,3019041,3019041,Neuronal nuclear type 1 Ab [Titer] in Serum,LOINC,13997-2,S,7361
+35386-2,3034901,3034901,CV2 IgG Ab [Titer] in Serum,LOINC,35386-2,S,7361
+33925-9,3030026,3030026,PCA-2 Ab [Titer] in Serum,LOINC,33925-9,S,7361
+2191-5,3015884,3015884,Dehydroepiandrosterone sulfate (DHEA-S) [Mass/volume] in Serum or Plasma,LOINC,2191-5,S,7332
+72203-3,43054946,43054946,Parathyrin.intact intraoperative panel - Serum or Plasma,LOINC,72203-3,S,7302
+18282-4,3006932,3006932,Cannabinoids [Presence] in Urine by Screen method,LOINC,18282-4,S,7265
+91027-3,1175818,1175818,Buprenorphine-3-glucuronide [Presence] in Urine by Screen method,LOINC,91027-3,S,7264
+5244-9,3006573,3006573,Measles virus IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,5244-9,S,7206
+2164-2,3005770,3005770,Creatinine renal clearance in 24 hour Urine and Serum or Plasma,LOINC,2164-2,S,7203
+48591-2,3048887,3048887,Activated protein C resistance [Interpretation] in Platelet poor plasma,LOINC,48591-2,S,7176
+27038-9,3019583,3019583,Endomysium IgA Ab [Titer] in Serum by Immunofluorescence,LOINC,27038-9,S,7157
+7795-8,3019761,3019761,Pappenheimer bodies [Presence] in Blood by Light microscopy,LOINC,7795-8,S,7141
+53709-2,3040039,3040039,Glial nuclear type 1 Ab [Titer] in Serum,LOINC,53709-2,S,7109
+33927-5,3030080,3030080,Amphiphysin Ab [Titer] in Serum,LOINC,33927-5,S,7109
+53717-5,3038593,3038593,PCA-1 Ab [Titer] in Serum,LOINC,53717-5,S,7109
+56550-7,40759670,40759670,PCA-Tr Ab [Titer] in Serum by Immunofluorescence,LOINC,56550-7,S,7109
+33924-2,3029774,3029774,Neuronal nuclear type 3 Ab [Titer] in Serum,LOINC,33924-2,S,7109
+43188-2,3047082,3047082,Neuronal nuclear type 2 Ab [Titer] in Serum by Immunofluorescence,LOINC,43188-2,S,7109
+3432-2,3028639,3028639,carBAMazepine [Mass/volume] in Serum or Plasma,LOINC,3432-2,S,7108
+25418-5,3025709,3025709,Mumps virus IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,25418-5,S,7087
+38445-3,3048689,3048689,Calprotectin [Mass/mass] in Stool,LOINC,38445-3,S,6955
+33863-2,3030366,3030366,Cystatin C [Mass/volume] in Serum or Plasma,LOINC,33863-2,S,6847
+27822-6,3036669,3036669,Protein S actual/normal in Platelet poor plasma by Coagulation assay,LOINC,27822-6,S,6736
+86059-3,36204089,36204089,Streptococcus pneumoniae Danish serotype 23F Ab [Units/volume] in Serum,LOINC,86059-3,S,6728
+32681-9,3044870,3044870,Hemoglobin C/Hemoglobin.total in Blood by Electrophoresis,LOINC,32681-9,S,6722
+27819-2,3020287,3020287,Protein C actual/normal in Platelet poor plasma by Coagulation assay,LOINC,27819-2,S,6676
+19049-6,3019965,3019965,Metanephrine [Mass/time] in 24 hour Urine,LOINC,19049-6,S,6661
+35275-7,3032029,3032029,Measles virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,35275-7,S,6630
+56540-8,40759660,40759660,Glutamate decarboxylase 65 Ab [Units/volume] in Serum by Immunoassay,LOINC,56540-8,S,6569
+97560-7,1617124,1617124,Voltage-gated potassium channel IgG+IgM Ab [Moles/volume] in Serum by Immunoassay,LOINC,97560-7,S,6503
+94507-1,706181,706181,"SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",LOINC,94507-1,S,6437
+43215-3,3046210,3046210,Cortisol [Mass/volume] in Serum or Plasma --baseline,LOINC,43215-3,S,6179
+11034-6,3010454,3010454,Acetylcholine receptor binding Ab [Moles/volume] in Serum,LOINC,11034-6,S,6164
+9811-1,3006407,3006407,Chromogranin A [Mass/volume] in Serum or Plasma,LOINC,9811-1,S,6131
+49111-8,3049137,3049137,Spermatozoa [#/area] in Urine sediment by Microscopy high power field,LOINC,49111-8,S,6083
+94694-7,36660189,36660189,Acetylcholine receptor ganglionic neuronal Ab [Moles/volume] in Serum by Immunoassay,LOINC,94694-7,S,6063
+33979-6,3029197,3029197,Voltage-gated calcium channel N type binding Ab [Moles/volume] in Serum,LOINC,33979-6,S,5929
+8097-8,3023296,3023296,Striated muscle Ab [Titer] in Serum,LOINC,8097-8,S,5873
+9804-6,3007527,3007527,Weight of Stone,LOINC,9804-6,S,5814
+94505-5,706177,706177,SARS-CoV-2 (COVID-19) IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,94505-5,S,5812
+26528-0,3028305,3028305,Cortisol [Mass/volume] in Serum or Plasma --1 hour post dose corticotropin,LOINC,26528-0,S,5766
+31146-4,3006157,3006157,Reagin Ab [Titer] in Cerebral spinal fluid by VDRL,LOINC,31146-4,S,5726
+7905-3,3025267,3025267,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Neutralization test,LOINC,7905-3,S,5694
+43218-7,3044690,3044690,Nicotine+Cotinine [Presence] in Urine,LOINC,43218-7,S,5569
+12190-5,3016662,3016662,Creatinine [Mass/volume] in Body fluid,LOINC,12190-5,S,5525
+24312-1,3004786,3004786,Treponema pallidum Ab [Presence] in Serum by Agglutination,LOINC,24312-1,S,5504
+1558-6,3037110,3037110,Fasting glucose [Mass/volume] in Serum or Plasma,LOINC,1558-6,S,5495
+3243-3,3036489,3036489,Thrombin time,LOINC,3243-3,S,5492
+19429-0,3009956,3009956,Propoxyphene [Presence] in Urine by Screen method,LOINC,19429-0,S,5490
+89365-1,36306193,36306193,"HIV 1 and 2 Ab panel - Serum, Plasma or Blood by Rapid immunoassay",LOINC,89365-1,S,5457
+20436-2,3026300,3026300,Glucose [Mass/volume] in Serum or Plasma --2 hours post dose glucose,LOINC,20436-2,S,5450
+30351-1,3007302,3007302,Hemoglobin [Mass/volume] in Mixed venous blood,LOINC,30351-1,S,5423
+40485-5,3042149,3042149,Urate crystals [#/area] in Urine sediment by Microscopy low power field,LOINC,40485-5,S,5215
+12202-8,3027574,3027574,Cryoglobulin [Presence] in Serum by 2 day cold incubation,LOINC,12202-8,S,5188
+12207-7,3011105,3011105,Cryoglobulin [Presence] in Serum by 1 week cold incubation,LOINC,12207-7,S,5182
+6014-5,3037533,3037533,von Willebrand factor (vWf) ristocetin cofactor actual/normal in Platelet poor plasma by Platelet aggregation,LOINC,6014-5,S,5042
+15061-5,3024172,3024172,Erythropoietin (EPO) [Units/volume] in Serum or Plasma,LOINC,15061-5,S,5001
+77307-7,46236017,46236017,Lead [Mass/volume] in Venous blood,LOINC,77307-7,S,4946
+3948-7,3025411,3025411,PHENobarbital [Mass/volume] in Serum or Plasma,LOINC,3948-7,S,4891
+5060-9,3003645,3003645,Borrelia burgdorferi Ab [Units/volume] in Serum by Immunoassay,LOINC,5060-9,S,4819
+14563-1,3024098,3024098,Hemoglobin.gastrointestinal [Presence] in Stool --1st specimen,LOINC,14563-1,S,4665
+2829-0,3016330,3016330,Potassium [Moles/time] in 24 hour Urine,LOINC,2829-0,S,4649
+40678-5,3038943,3038943,Toxoplasma gondii IgM Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,40678-5,S,4609
+18908-4,3019813,3019813,Clindamycin [Susceptibility],LOINC,18908-4,S,4608
+18964-7,3025242,3025242,Penicillin [Susceptibility],LOINC,18964-7,S,4608
+18919-1,3000661,3000661,Erythromycin [Susceptibility],LOINC,18919-1,S,4608
+56536-6,40759656,40759656,Thyroglobulin Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,56536-6,S,4546
+26530-6,3026147,3026147,Cortisol [Mass/volume] in Serum or Plasma --30 minutes post dose corticotropin,LOINC,26530-6,S,4510
+3663-2,3009917,3009917,Gentamicin [Mass/volume] in Serum or Plasma --peak,LOINC,3663-2,S,4492
+3665-7,3016254,3016254,Gentamicin [Mass/volume] in Serum or Plasma --trough,LOINC,3665-7,S,4386
+30347-9,3026156,3026156,Glutamate decarboxylase 65 Ab [Moles/volume] in Serum,LOINC,30347-9,S,4343
+96803-2,1617538,1617538,24 hour predicted protein [Mass/time] based on random Urine by calculation,LOINC,96803-2,S,4309
+5195-3,3019284,3019284,Hepatitis B virus surface Ag [Presence] in Serum,LOINC,5195-3,S,4176
+6874-2,3007687,3007687,Calcium [Mass/time] in 24 hour Urine,LOINC,6874-2,S,4167
+97936-9,1616908,1616908,Candida auris DNA [Presence] in Specimen by NAA with probe detection,LOINC,97936-9,S,4125
+49431-0,3032993,3032993,Parvovirus B19 DNA [#/volume] (viral load) in Blood by NAA with probe detection,LOINC,49431-0,S,3991
+1668-3,3028718,3028718,17-Hydroxyprogesterone [Mass/volume] in Serum or Plasma,LOINC,1668-3,S,3975
+31019-3,3005839,3005839,10-Hydroxycarbazepine [Mass/volume] in Serum or Plasma,LOINC,31019-3,S,3948
+22362-8,3014389,3014389,HTLV I+II Ab [Presence] in Serum,LOINC,22362-8,S,3935
+58088-6,40761189,40761189,Acylcarnitine newborn screen interpretation,LOINC,58088-6,S,3803
+33287-4,3045989,3045989,Glucose-6-Phosphate dehydrogenase [Presence] in DBS,LOINC,33287-4,S,3803
+86738-2,36203662,36203662,Toxoplasma gondii IgG Ab [Presence] in Specimen by Immunoassay,LOINC,86738-2,S,3751
+50956-2,3029589,3029589,HLA-B*57:01 [Presence],LOINC,50956-2,S,3749
+1746-7,3024474,3024474,Albumin [Mass/volume] in Cerebral spinal fluid,LOINC,1746-7,S,3701
+51586-6,3041543,3041543,Other cells/100 leukocytes in Blood by Manual count,LOINC,51586-6,S,3610
+32771-8,3045156,3045156,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Arterial blood,LOINC,32771-8,S,3602
+33254-4,3029473,3029473,pH of Arterial blood adjusted to patient's actual temperature,LOINC,33254-4,S,3602
+19255-9,3022803,3022803,Oxygen [Partial pressure] adjusted to patient's actual temperature in Arterial blood,LOINC,19255-9,S,3602
+51733-4,3039426,3039426,Oxygen saturation Calculated from oxygen partial pressure in Arterial blood,LOINC,51733-4,S,3601
+19235-1,3021421,3021421,Base excess standard in Arterial blood by calculation,LOINC,19235-1,S,3600
+20437-0,3027198,3027198,Glucose [Mass/volume] in Serum or Plasma --3 hours post dose glucose,LOINC,20437-0,S,3519
+12221-8,3010004,3010004,Heterophile Ab [Presence] in Serum by Sheep Cell Agglutination,LOINC,12221-8,S,3475
+49360-1,3033240,3033240,Hepatitis B virus DNA [Units/volume] (viral load) in Specimen by NAA with probe detection,LOINC,49360-1,S,3458
+99691-8,1989569,1989569,Pacemaker Ventricular sensitivity setting,LOINC,99691-8,S,3387
+20472-7,3002844,3002844,Eosinophils [Presence] in Specimen by Wright stain,LOINC,20472-7,S,3368
+27392-0,3017886,36204373,Streptococcus pneumoniae Danish serotype 9N IgG Ab [Mass/volume] in Serum,LOINC,86169-0,S,3348
+2671-6,3035015,3035015,Normetanephrine [Mass/time] in 24 hour Urine,LOINC,2671-6,S,3339
+2778-9,3026729,3026729,Phosphate [Mass/volume] in Urine,LOINC,2778-9,S,3308
+4090-7,3011461,3011461,Vancomycin [Mass/volume] in Serum or Plasma --peak,LOINC,4090-7,S,3231
+8014-3,3016999,3016999,Rubella virus IgG Ab [Units/volume] in Serum,LOINC,8014-3,S,3225
+2520-5,3035999,3035999,Lactate [Moles/volume] in Cerebral spinal fluid,LOINC,2520-5,S,2965
+35414-2,3035198,3035198,Specific gravity of Body fluid by Refractometry,LOINC,35414-2,S,2925
+94577-4,36659685,36659685,Maximum amplitude arachidonate induced [Length] in Blood by Resonance TEG,LOINC,94577-4,S,2908
+91125-5,1175928,1175928,Maximum amplitude kaolin induced [Length] in Blood by Resonance TEG --after addition of heparinase,LOINC,91125-5,S,2908
+91126-3,1176170,1176170,Maximum amplitude activator F induced [Length] in Blood by Resonance TEG,LOINC,91126-3,S,2908
+91127-1,1175759,1175759,Maximum amplitude ADP induced [Length] in Blood by Resonance TEG,LOINC,91127-1,S,2908
+33020-9,3029749,3029749,Triple phosphate crystals [#/area] in Urine sediment by Microscopy low power field,LOINC,33020-9,S,2884
+5583-0,3000138,3000138,Arsenic [Mass/volume] in Blood,LOINC,5583-0,S,2857
+5609-3,3005008,3005008,Cadmium [Mass/volume] in Blood,LOINC,5609-3,S,2835
+43583-4,3046664,3046664,Lipoprotein a [Moles/volume] in Serum or Plasma,LOINC,43583-4,S,2801
+22666-2,3005069,3005069,Busulfan [Moles/volume] in Serum or Plasma,LOINC,22666-2,S,2795
+73978-9,43534000,43534000,von Willebrand factor (vWf).activity [Units/volume] in Platelet poor plasma by Immunoassay,LOINC,73978-9,S,2771
+11580-8,3019170,3019170,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,LOINC,11580-8,S,2730
+69668-2,42870583,42870583,HIV 1 and 2 Ab [Identifier] in Serum or Plasma by Rapid immunoassay,LOINC,69668-2,S,2722
+14564-9,3024622,3024622,Hemoglobin.gastrointestinal [Presence] in Stool --2nd specimen,LOINC,14564-9,S,2707
+32688-4,3045705,3045705,Herpes simplex virus 2 IgM Ab [Presence] in Serum,LOINC,32688-4,S,2691
+32687-6,3045164,3045164,Herpes simplex virus 1 IgM Ab [Presence] in Serum,LOINC,32687-6,S,2691
+12480-0,3009991,3009991,Angiotensin converting enzyme [Enzymatic activity/volume] in Cerebral spinal fluid,LOINC,12480-0,S,2668
+44873-8,3043837,3043837,HIV 1+2 Ab [Presence] in Serum by Immunoblot,LOINC,44873-8,S,2658
+14565-6,3011473,3011473,Hemoglobin.gastrointestinal [Presence] in Stool --3rd specimen,LOINC,14565-6,S,2658
+31209-0,3016273,3016273,Islet cell 512 Ab [Units/volume] in Serum,LOINC,31209-0,S,2645
+35668-3,3035510,3035510,Gentamicin [Mass/volume] in Serum or Plasma,LOINC,35668-3,S,2616
+59806-0,40762867,46235123,aPTT.lupus sensitive with 1:1 PNP (LA mix),LOINC,75510-8,S,2562
+34572-8,3044947,3044947,aPTT.lupus sensitive in Control Platelet poor plasma by Coagulation assay,LOINC,34572-8,S,2562
+53570-8,3038606,3038606,aPTT.lupus insensitive in Platelet poor plasma by Coagulation assay,LOINC,53570-8,S,2562
+50210-4,3029859,3029859,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Cystatin C-based formula",LOINC,50210-4,S,2516
+99677-7,1989128,1989128,Pacemaker Atrial sensitivity setting,LOINC,99677-7,S,2447
+53221-8,3039363,3039363,dRVVT in Control Platelet poor plasma by Coagulation assay,LOINC,53221-8,S,2433
+59789-8,40762850,46235126,dRVVT with 1:1 PNP (LA mix),LOINC,75513-2,S,2433
+35559-4,3035797,3035797,Protein.monoclonal band 2 [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,35559-4,S,2374
+48795-9,3048264,3048264,Fibrosis score,LOINC,48795-9,S,2371
+48794-2,3048563,3048563,Fibrosis stage,LOINC,48794-2,S,2368
+34720-3,3030558,3030558,Cytomegalovirus DNA [Units/volume] (viral load) in Specimen by NAA with probe detection,LOINC,34720-3,S,2332
+3086-6,3033526,3033526,Urate [Mass/volume] in Urine,LOINC,3086-6,S,2305
+3187-2,3006109,3006109,Coagulation factor IX activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3187-2,S,2204
+89269-5,36304231,36304231,Body height Measured --at birth,LOINC,89269-5,S,2177
+9802-0,3014188,3014188,Size [Entitic volume] of Stone,LOINC,9802-0,S,2174
+14638-1,3011692,3011692,Calculus analysis [Interpretation] in Stone,LOINC,14638-1,S,2166
+9800-4,3018031,3018031,Number of Stones,LOINC,9800-4,S,2161
+43638-6,3046426,3046426,Aquaporin 4 water channel IgG Ab [Presence] in Serum or Plasma,LOINC,43638-6,S,2145
+33548-9,3045399,3045399,Abnormal lymphocytes/100 leukocytes in Body fluid by Manual count,LOINC,33548-9,S,2132
+2333-3,3009927,3009927,Gastrin [Mass/volume] in Serum or Plasma,LOINC,2333-3,S,2120
+85368-9,36203199,36203199,HIV 1+2 RNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,85368-9,S,2120
+69353-1,40771874,40771874,HIV 2 RNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,69353-1,S,2114
+3204-5,3024942,3024942,Coagulation factor VIII inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay,LOINC,3204-5,S,2090
+33393-0,3029741,3029741,Coarse Granular Casts [#/area] in Urine sediment by Microscopy low power field,LOINC,33393-0,S,2059
+8339-4,3011043,3011043,Birth weight Measured,LOINC,8339-4,S,2057
+94309-2,706170,706170,SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen by NAA with probe detection,LOINC,94309-2,S,2048
+3319-1,3008977,3008977,Amikacin [Mass/volume] in Serum or Plasma --peak,LOINC,3319-1,S,2043
+69048-7,40771569,40771569,Immunologist review of results,LOINC,69048-7,S,2012
+19415-9,3000201,3000201,Tetrahydrocannabinol [Presence] in Urine by Screen method,LOINC,19415-9,S,1992
+25835-0,3000685,3000685,HIV 1 RNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,25835-0,S,1990
+30568-0,3006487,3006487,Toxoplasma gondii IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay,LOINC,30568-0,S,1985
+3321-7,3037123,3037123,Amikacin [Mass/volume] in Serum or Plasma --trough,LOINC,3321-7,S,1929
+5809-9,3020029,3020029,Reducing substances [Presence] in Urine,LOINC,5809-9,S,1923
+54363-7,40757494,40757494,Bilirubin.total [Moles/volume] in Blood,LOINC,54363-7,S,1823
+5820-6,3002052,3002052,WBC casts [#/area] in Urine sediment by Microscopy low power field,LOINC,5820-6,S,1775
+33930-9,3030675,3030675,aPTT W excess hexagonal phospholipid (StaClot LA confirm),LOINC,33930-9,S,1767
+35669-1,3036152,3036152,Amikacin [Mass/volume] in Serum or Plasma,LOINC,35669-1,S,1753
+8251-1,3004691,3004691,Service comment,LOINC,8251-1,S,1752
+19597-4,3015454,3015454,Morphine [Presence] in Urine by Screen method,LOINC,19597-4,S,1741
+19568-5,3002148,3002148,Methylenedioxymethamphetamine [Presence] in Urine by Screen method,LOINC,19568-5,S,1741
+32850-0,3047188,36204285,Streptococcus pneumoniae Danish serotype 5 IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86129-4,S,1683
+40908-6,3038665,36204188,Streptococcus pneumoniae Danish serotype 4 IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86108-8,S,1683
+27092-6,3004708,36203821,Streptococcus pneumoniae Danish serotype 1 IgG Ab [Mass/volume] in Serum,LOINC,85954-6,S,1683
+30561-5,3012245,36204294,Streptococcus pneumoniae Danish serotype 6A IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86138-5,S,1683
+27229-4,3017571,36203923,Streptococcus pneumoniae Danish serotype 14 IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,85992-6,S,1683
+27228-6,3017335,36204111,Streptococcus pneumoniae Danish serotype 3 IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86081-7,S,1683
+27230-2,3012992,36204002,Streptococcus pneumoniae Danish serotype 19F IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86021-3,S,1683
+40903-7,3044520,36203909,Streptococcus pneumoniae Danish serotype 12F IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,85974-4,S,1683
+27113-0,3012917,36204351,Streptococcus pneumoniae Danish serotype 8 IgG Ab [Mass/volume] in Serum,LOINC,86147-6,S,1683
+32849-2,3046566,36203998,Streptococcus pneumoniae Danish serotype 18F IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86017-1,S,1683
+27231-0,3011650,36204091,Streptococcus pneumoniae Danish serotype 23F IgG Ab [Mass/volume] in Serum by Immunoassay,LOINC,86061-9,S,1682
+1974-5,3028193,3028193,Bilirubin.total [Mass/volume] in Body fluid,LOINC,1974-5,S,1655
+1721-0,3035902,3035902,Adenosine triphosphate [Mass/volume] in Blood,LOINC,1721-0,S,1553
+12262-2,3016719,3016719,Toxoplasma gondii IgM Ab [Titer] in Serum by Immunoassay,LOINC,12262-2,S,1548
+5393-4,3004772,3004772,Treponema pallidum Ab [Presence] in Serum by Immunofluorescence,LOINC,5393-4,S,1536
+15212-4,3026286,3026286,Lipase [Enzymatic activity/volume] in Body fluid,LOINC,15212-4,S,1512
+40466-5,3041612,3041612,Herpes simplex virus 1 IgM Ab [Presence] in Serum by Immunofluorescence,LOINC,40466-5,S,1512
+45210-2,3044473,3044473,Herpes simplex virus 2 IgM Ab [Presence] in Serum by Immunofluorescence,LOINC,45210-2,S,1510
+2779-7,3012636,3012636,Phosphate [Mass/time] in 24 hour Urine,LOINC,2779-7,S,1488
+1992-7,3010989,3010989,Calcitonin [Mass/volume] in Serum or Plasma,LOINC,1992-7,S,1472
+52756-4,3039696,40760947,dRVVT W excess phospholipid (LA confirm),LOINC,57838-5,S,1397
+38997-3,3040571,3040571,West Nile virus IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,38997-3,S,1380
+38166-5,3035505,3035505,West Nile virus IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,38166-5,S,1380
+3193-0,3005757,3005757,Coagulation factor V activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3193-0,S,1348
+6476-6,3011781,3011781,Mumps virus IgG Ab [Presence] in Serum by Immunoassay,LOINC,6476-6,S,1346
+5012-0,3015451,3015451,Hepatitis C virus RNA [Presence] in Specimen by NAA with probe detection,LOINC,5012-0,S,1341
+5018-7,3027287,3027287,HIV 1 RNA [Presence] in Specimen by NAA with probe detection,LOINC,5018-7,S,1315
+38370-3,3050218,3050218,Voriconazole [Mass/volume] in Serum or Plasma,LOINC,38370-3,S,1293
+20439-6,3028247,3028247,Glucose [Mass/volume] in Serum or Plasma --30 minutes post dose glucose,LOINC,20439-6,S,1211
+5009-6,3006559,3006559,Hepatitis B virus DNA [Presence] in Specimen by NAA with probe detection,LOINC,5009-6,S,1198
+1836-6,3015330,3015330,Retinol binding protein [Mass/volume] in Serum or Plasma,LOINC,1836-6,S,1192
+48792-6,3048578,3048578,Necroinflammatory activity score,LOINC,48792-6,S,1184
+48793-4,3052980,3052980,Necroinflammatory activity grade,LOINC,48793-4,S,1184
+731-0,3004327,3004327,Lymphocytes [#/volume] in Blood by Automated count,LOINC,731-0,S,1183
+76651-9,46235190,46235190,Zinc transporter 8 Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,76651-9,S,1181
+39803-2,3042299,3042299,inFLIXimab [Mass/volume] in Serum or Plasma,LOINC,39803-2,S,1154
+12782-9,3012901,3012901,Oligoclonal bands [Interpretation] in Cerebral spinal fluid by Electrophoresis,LOINC,12782-9,S,1136
+12783-7,3018127,3018127,Oligoclonal bands [Interpretation] in Serum or Plasma,LOINC,12783-7,S,1135
+3198-9,3011547,3011547,Coagulation factor VII activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3198-9,S,1128
+44828-2,3046168,3046168,Teriflunomide [Mass/volume] in Serum or Plasma,LOINC,44828-2,S,1106
+49625-7,3029231,3029231,CD59 Granulocytes [Interpretation] in Blood Qualitative,LOINC,49625-7,S,1092
+54447-8,40757578,40757578,FLT3 gene targeted mutation analysis in Bone marrow by Molecular genetics method,LOINC,54447-8,S,1084
+5671-3,3020331,3020331,Lead [Mass/volume] in Blood,LOINC,5671-3,S,1084
+35088-4,3032652,3032652,Glasgow coma scale,LOINC,35088-4,S,1084
+33193-4,3045702,3045702,Viable cells/100 cells in Blood,LOINC,33193-4,S,1077
+60554-3,40763608,40763608,CD59 deficient monocytes/100 cells in Blood,LOINC,60554-3,S,1076
+53831-4,3038926,3038926,CD59 deficient Granulocytes/100 cells in Blood,LOINC,53831-4,S,1076
+33662-8,3042846,3042846,Erythrocytes.CD59 deficient/100 erythrocytes in Blood,LOINC,33662-8,S,1076
+19124-7,3019738,3019738,Magnesium [Mass/volume] in Urine,LOINC,19124-7,S,1073
+2464-6,3007368,3007368,IgG [Mass/volume] in Cerebral spinal fluid,LOINC,2464-6,S,1073
+47363-7,3052547,3052547,Cytomegalovirus Ab [Presence] in Serum from Donor by Hemagglutination,LOINC,47363-7,S,1058
+14117-6,3020222,3020222,IgG clearance/Albumin clearance [Ratio] in Serum and CSF,LOINC,14117-6,S,1052
+14116-8,3014078,3014078,IgG synthesis rate [Mass/time] in Serum and CSF by calculation,LOINC,14116-8,S,1052
+47255-5,3049714,3049714,Procollagen type I.N-terminal propeptide [Mass/volume] in Serum,LOINC,47255-5,S,1039
+4049-3,3016072,3016072,Theophylline [Mass/volume] in Serum or Plasma,LOINC,4049-3,S,1034
+20433-9,3006361,3006361,Follitropin [Units/volume] in Serum or Plasma by 2nd IRP,LOINC,20433-9,S,1001
+32999-5,3042809,3042809,Rickettsia spotted fever group IgG Ab [Presence] in Serum,LOINC,32999-5,S,988
+33000-1,3028885,3028885,Rickettsia spotted fever group IgM Ab [Presence] in Serum,LOINC,33000-1,S,988
+2079-2,3006567,3006567,Chloride [Moles/time] in 24 hour Urine,LOINC,2079-2,S,962
+3487-6,3007218,3007218,cloBAZam [Mass/volume] in Serum or Plasma,LOINC,3487-6,S,957
+35107-2,3032341,3032341,Norclobazam [Mass/volume] in Serum or Plasma,LOINC,35107-2,S,954
+82180-1,21493346,21493346,Meningitis+Encephalitis pathogens panel - Cerebral spinal fluid by NAA with non-probe detection,LOINC,82180-1,S,939
+72623-2,43055457,43055457,inFLIXimab Ab [Mass/volume] in Serum or Plasma,LOINC,72623-2,S,930
+60024-7,40763084,40763084,Lactate dehydrogenase [Enzymatic activity/volume] in Cerebral spinal fluid by Lactate to pyruvate reaction,LOINC,60024-7,S,925
+39572-3,3044525,3044525,West Nile virus IgG Ab [Units/volume] in Cerebral spinal fluid by Immunoassay,LOINC,39572-3,S,909
+39573-1,3041307,3041307,West Nile virus IgM Ab [Units/volume] in Cerebral spinal fluid by Immunoassay,LOINC,39573-1,S,908
+1832-5,3010296,3010296,Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid,LOINC,1832-5,S,893
+30192-9,3014512,3014512,Acetylcholine receptor modulation Ab/Acetylcholine Ab.total in Serum,LOINC,30192-9,S,867
+75666-8,46235448,46235448,"HIV 1+2 Ab and HIV1 p24 Ag [Identifier] in Serum, Plasma or Blood by Rapid immunoassay",LOINC,75666-8,S,827
+4644-1,3036265,3036265,Hemosiderin [Presence] in Urine,LOINC,4644-1,S,819
+73737-9,43533761,43533761,Phospholipase A2 receptor IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,73737-9,S,782
+101981-9,3966222,3966222,Maximum amplitude kaolin induced [Length] in Blood by Resonance TEG,LOINC,101981-9,S,781
+99761-9,1988714,1988714,Clot initiation.kaolin induced [Time] in Blood by Resonance TEG,LOINC,99761-9,S,781
+97007-9,1616743,1616743,Clot initiation.kaolin induced [Time] in Blood by Resonance TEG --post heparin neutralization,LOINC,97007-9,S,781
+30321-4,3038179,3038179,aPTT.factor substitution in Control Platelet poor plasma by Coagulation assay --1 hour post incubation,LOINC,30321-4,S,766
+30323-0,3034113,3034113,aPTT.factor substitution in Platelet poor plasma by Coagulation assay --1H post incubation with normal plasma,LOINC,30323-0,S,766
+30322-2,3033865,3033865,aPTT.factor substitution in Platelet poor plasma --1 hour post incubation,LOINC,30322-2,S,766
+97099-6,36033643,36033643,Influenza virus A and B and SARS-CoV-2 (COVID-19) Ag panel - Upper respiratory specimen by Rapid immunoassay,LOINC,97099-6,S,764
+10886-0,3005013,3005013,Prostate Specific Ag Free [Mass/volume] in Serum or Plasma,LOINC,10886-0,S,746
+12841-3,3001784,3001784,Prostate Specific Ag Free/Prostate specific Ag.total in Serum or Plasma,LOINC,12841-3,S,744
+95921-3,36031303,36031303,Hydroxychloroquine [Mass/volume] in Blood,LOINC,95921-3,S,736
+2087-5,3026453,3026453,Cholesterol in IDL [Mass/volume] in Serum or Plasma,LOINC,2087-5,S,725
+46986-6,3052261,3052261,Cholesterol in VLDL 3 [Mass/volume] in Serum or Plasma,LOINC,46986-6,S,725
+35388-8,3035774,3035774,Cholesterol. in Lipoprotein (a) [Mass/volume] in Serum or Plasma,LOINC,35388-8,S,725
+18262-6,3009966,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,LOINC,18262-6,S,725
+9833-5,3023574,3023574,Cholesterol in HDL 3 [Mass/volume] in Serum or Plasma,LOINC,9833-5,S,725
+43396-1,3044491,3044491,Cholesterol non HDL [Mass/volume] in Serum or Plasma,LOINC,43396-1,S,725
+2091-7,3007352,3007352,Cholesterol in VLDL [Mass/volume] in Serum or Plasma,LOINC,2091-7,S,725
+50194-0,3032800,3032800,Cholesterol in IDL+Cholesterol in VLDL 3 [Mass/volume] in Serum or Plasma,LOINC,50194-0,S,725
+55440-2,40758569,40758569,Cholesterol.in LDL (real) [Mass/volume] in Serum or Plasma by VAP,LOINC,55440-2,S,725
+9832-7,3009718,3009718,Cholesterol in HDL 2 [Mass/volume] in Serum or Plasma,LOINC,9832-7,S,724
+82991-1,42528688,42528688,Phospholipase A2 receptor IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,LOINC,82991-1,S,723
+47213-4,3053190,3053190,Cholesterol in LDL real size pattern [Identifier] in Serum or Plasma,LOINC,47213-4,S,723
+6479-0,3016120,3016120,Mumps virus IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,6479-0,S,718
+5370-2,3021236,3021236,Streptolysin O Ab [Units/volume] in Serum or Plasma,LOINC,5370-2,S,709
+5156-5,3017612,3017612,Epstein Barr virus nuclear IgG Ab [Presence] in Serum by Immunoassay,LOINC,5156-5,S,704
+41607-3,3031282,3031282,Methemoglobin/Hemoglobin.total in Mixed venous blood,LOINC,41607-3,S,701
+5245-6,3022711,3022711,Measles virus IgM Ab [Titer] in Serum by Immunofluorescence,LOINC,5245-6,S,700
+1871-3,3034387,3034387,Apolipoprotein B-100 [Mass/volume] in Serum or Plasma,LOINC,1871-3,S,700
+82976-2,42529107,42529107,Dipeptidyl aminopeptidase-like protein 6 IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,LOINC,82976-2,S,692
+2200-4,3005151,3005151,Delta aminolevulinate [Mass/time] in 24 hour Urine,LOINC,2200-4,S,690
+12515-3,3013735,3013735,Carcinoembryonic Ag [Mass/volume] in Body fluid,LOINC,12515-3,S,690
+19258-3,3004529,3004529,Oxygen [Partial pressure] adjusted to patient's actual temperature in Venous blood,LOINC,19258-3,S,686
+51731-8,3041253,3041253,Oxygen saturation Calculated from oxygen partial pressure in Venous blood,LOINC,51731-8,S,686
+40396-4,3039542,3039542,Porphyrins [Moles/time] in 24 hour Urine,LOINC,40396-4,S,685
+10885-2,3014521,3014521,Porphyrins [Mass/time] in 24 hour Urine,LOINC,10885-2,S,685
+44871-2,3047064,3047064,HIV 1 proviral DNA [Presence] in Blood by NAA with probe detection,LOINC,44871-2,S,685
+74715-4,44816613,44816613,Vendor serial number,LOINC,74715-4,S,680
+29893-5,3017675,3017675,HIV 1 Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,29893-5,S,674
+30361-0,3024449,3024449,HIV 2 Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,30361-0,S,674
+51716-9,3041276,3041276,Muscle specific receptor tyrosine kinase Ab [Moles/volume] in Serum,LOINC,51716-9,S,669
+25667-7,3022314,3022314,Glucose [Mass/volume] in Urine --2 hours post dose glucose,LOINC,25667-7,S,658
+25428-4,3009261,3009261,Glucose [Presence] in Urine by Test strip,LOINC,25428-4,S,650
+3218-5,3004409,3004409,Coagulation factor X activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3218-5,S,650
+54247-2,40757378,40757378,Drug screen comment [Interpretation] in Urine,LOINC,54247-2,S,648
+25670-1,3011088,3011088,Glucose [Mass/volume] in Urine --30 minutes post dose glucose,LOINC,25670-1,S,642
+25664-4,3010115,3010115,Glucose [Mass/volume] in Urine --1 hour post dose glucose,LOINC,25664-4,S,638
+5232-4,3017177,3017177,Insulin Ab [Units/volume] in Serum by Radioimmunoassay (RIA),LOINC,5232-4,S,612
+742-7,3033575,3033575,Monocytes [#/volume] in Blood by Automated count,LOINC,742-7,S,592
+33884-8,3046564,3046564,Prothrombin time (PT) factor substitution in Control Platelet poor plasma by Coagulation assay --1H post incubation with normal plasma,LOINC,33884-8,S,578
+33357-5,3046272,3046272,Prothrombin time (PT) factor substitution in Platelet poor plasma by Coagulation assay --1 hour post incubation,LOINC,33357-5,S,578
+33356-7,3046608,3046608,Prothrombin time (PT) factor substitution in Platelet poor plasma by Coagulation assay --1H post incubation with normal plasma,LOINC,33356-7,S,578
+57320-4,40760439,40760439,Trypanosoma cruzi Ab [Presence] in Serum or Plasma by Immunoassay,LOINC,57320-4,S,575
+3185-6,3004009,3004009,Coagulation factor IX inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay,LOINC,3185-6,S,575
+47958-4,3049135,3049135,FLT3 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method,LOINC,47958-4,S,572
+93339-0,1001604,1001604,THSD7A IgG Ab [Presence] in Serum or Plasma by Immunofluorescence,LOINC,93339-0,S,571
+79420-6,21492784,21492784,Miscellaneous allergen IgE Ab [Units/volume] in Serum,LOINC,79420-6,S,568
+6875-9,3006588,3006588,Cancer Ag 15-3 [Units/volume] in Serum or Plasma,LOINC,6875-9,S,562
+2963-7,3023709,3023709,Somatotropin [Mass/volume] in Serum or Plasma,LOINC,2963-7,S,560
+44448-9,3044355,3044355,Beta 2 glycoprotein 1 IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,44448-9,S,559
+44449-7,3046171,3046171,Beta 2 glycoprotein 1 IgM Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,44449-7,S,555
+30541-7,3002299,3002299,Octenoylcarnitine (C8:1) [Moles/volume] in Serum or Plasma,LOINC,30541-7,S,538
+43243-5,3044072,3044072,Isobutyrylcarnitine (C4) [Moles/volume] in Serum or Plasma,LOINC,43243-5,S,538
+30566-4,3005018,3005018,Tetradecenoylcarnitine (C14:1) [Moles/volume] in Serum or Plasma,LOINC,30566-4,S,538
+30235-6,3001111,3001111,3-Hydroxypalmitoleylcarnitine (C16:1-OH) [Moles/volume] in Serum or Plasma,LOINC,30235-6,S,538
+30531-8,3023211,3023211,Isovalerylcarnitine+Methylbutyrylcarnitine (C5) [Moles/volume] in Serum or Plasma,LOINC,30531-8,S,538
+30190-3,3018039,3018039,3-Hydroxytetradecenoylcarnitine (C14:1-OH) [Moles/volume] in Serum or Plasma,LOINC,30190-3,S,538
+30327-1,3017126,3017126,Decanoylcarnitine (C10) [Moles/volume] in Serum or Plasma,LOINC,30327-1,S,538
+30332-1,3012598,3012598,Dodecenoylcarnitine (C12:1) [Moles/volume] in Serum or Plasma,LOINC,30332-1,S,538
+30191-1,3018524,3018524,Acetylcarnitine (C2) [Moles/volume] in Serum or Plasma,LOINC,30191-1,S,538
+30356-0,3024674,3024674,Palmitoylcarnitine (C16) [Moles/volume] in Serum or Plasma,LOINC,30356-0,S,538
+30551-6,3038126,3038126,Propionylcarnitine (C3) [Moles/volume] in Serum or Plasma,LOINC,30551-6,S,538
+30328-9,3017721,3017721,Decenoylcarnitine (C10:1) [Moles/volume] in Serum or Plasma,LOINC,30328-9,S,538
+30358-6,3011508,3011508,Hexanoylcarnitine (C6) [Moles/volume] in Serum or Plasma,LOINC,30358-6,S,538
+30349-5,3028150,3028150,Glutarylcarnitine (C5-DC) [Moles/volume] in Serum or Plasma,LOINC,30349-5,S,538
+30357-8,3010966,3010966,Palmitoleylcarnitine (C16:1) [Moles/volume] in Serum or Plasma,LOINC,30357-8,S,538
+30564-9,3018590,3018590,Tetradecadienoylcarnitine (C14:2) [Moles/volume] in Serum or Plasma,LOINC,30564-9,S,538
+30331-3,3013947,3013947,Dodecanoylcarnitine (C12) [Moles/volume] in Serum or Plasma,LOINC,30331-3,S,538
+30234-9,3002212,3002212,3-Hydroxypalmitoylcarnitine (C16-OH) [Moles/volume] in Serum or Plasma,LOINC,30234-9,S,538
+30236-4,3021288,3021288,3-Hydroxyhexanoylcarnitine (C6-OH) [Moles/volume] in Serum or Plasma,LOINC,30236-4,S,538
+30540-9,3003480,3003480,Octanoylcarnitine (C8) [Moles/volume] in Serum or Plasma,LOINC,30540-9,S,538
+30565-6,3014524,3014524,Tetradecanoylcarnitine (C14) [Moles/volume] in Serum or Plasma,LOINC,30565-6,S,538
+30238-0,3036864,3036864,3-Hydroxytetradecanoylcarnitine (C14-OH) [Moles/volume] in Serum or Plasma,LOINC,30238-0,S,538
+30233-1,3003809,3003809,3-Hydroxydodecanoylcarnitine (C12-OH) [Moles/volume] in Serum or Plasma,LOINC,30233-1,S,538
+3128-6,3010493,3010493,Viscosity of Serum,LOINC,3128-6,S,532
+74116-5,44786773,44786773,Adalimumab Ab [Mass/volume] in Serum or Plasma,LOINC,74116-5,S,530
+20404-0,3036848,3036848,Fibronectin.fetal [Presence] in Vaginal fluid,LOINC,20404-0,S,525
+33536-4,3028863,3966278,Miscellaneous allergen IgE Ab [Presence] in Serum by Radioallergosorbent test (RAST),LOINC,102969-3,S,507
+57800-5,40760909,40760909,Oxygen content in Blood by calculation,LOINC,57800-5,S,493
+20563-3,3023081,3023081,Carboxyhemoglobin/Hemoglobin.total in Blood,LOINC,20563-3,S,493
+2614-6,3007930,3007930,Methemoglobin/Hemoglobin.total in Blood,LOINC,2614-6,S,492
+40619-9,3041290,3041290,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Venous blood,LOINC,40619-9,S,484
+8266-9,3013557,3013557,Service comment 05,LOINC,8266-9,S,475
+32660-3,3030951,3030951,6-Thioguanine [Entitic substance] in Red Blood Cells,LOINC,32660-3,S,467
+39486-6,3038999,3038999,pH of Venous blood adjusted to patient's actual temperature,LOINC,39486-6,S,467
+32654-6,3029161,3029161,6-Methylmercaptopurine [Entitic substance] in Red Blood Cells,LOINC,32654-6,S,467
+19237-7,3027215,3027215,Base excess standard in Venous blood by calculation,LOINC,19237-7,S,466
+4087-3,3021600,3021600,Valproate Free [Mass/volume] in Serum or Plasma,LOINC,4087-3,S,464
+53165-7,3041563,3041563,Formiminoglutamate [Moles/volume] in DBS,LOINC,53165-7,S,455
+30542-5,3002051,3002051,Oleoylcarnitine (C18:1) [Moles/volume] in Serum or Plasma,LOINC,30542-5,S,455
+39002-1,3040650,3040650,Adipoylcarnitine (C6-DC) [Moles/volume] in Serum or Plasma,LOINC,39002-1,S,455
+51415-8,3031935,3031935,Methylmalonylcarnitine+Succinylcarnitine (C4-DC) [Moles/volume] in Serum or Plasma,LOINC,51415-8,S,455
+30312-3,3003209,3003209,3-Hydroxyoleoylcarnitine (C18:1-OH) [Moles/volume] in Serum or Plasma,LOINC,30312-3,S,455
+30534-2,3003816,3003816,Linoleoylcarnitine (C18:2) [Moles/volume] in Serum or Plasma,LOINC,30534-2,S,455
+55940-1,40759061,40759061,Malonylcarnitine (C3-DC) [Moles/volume] in Serum or Plasma,LOINC,55940-1,S,455
+53471-9,3042556,3042556,Decadienoylcarnitine (C10:2) [Moles/volume] in Serum or Plasma,LOINC,53471-9,S,455
+35656-8,3033951,3033951,3-Hydroxystearoylcarnitine (C18-OH) [Moles/volume] in Serum or Plasma,LOINC,35656-8,S,455
+39014-6,3041014,3041014,Suberylcarnitine (C8-DC) [Moles/volume] in Serum or Plasma,LOINC,39014-6,S,455
+39000-5,3041597,3041597,3-Hydroxybutyrylcarnitine (C4-OH) [Moles/volume] in Serum or Plasma,LOINC,39000-5,S,455
+53203-6,3041666,3041666,Hexenoylcarnitine (C6:1) [Moles/volume] in DBS,LOINC,53203-6,S,455
+39615-0,3038254,3038254,Benzoylcarnitine (BzCn) [Moles/volume] in Serum or Plasma,LOINC,39615-0,S,455
+55871-8,40758992,40758992,Heptanoylcarnitine (C7) [Moles/volume] in Serum or Plasma,LOINC,55871-8,S,455
+30560-7,3013347,3013347,Stearoylcarnitine (C18) [Moles/volume] in Serum or Plasma,LOINC,30560-7,S,455
+55855-1,40758976,40758976,Dicarboxydodecanoylcarnitine (C12-DC) [Moles/volume] in Serum or Plasma,LOINC,55855-1,S,455
+51416-6,3029832,3029832,Tiglylcarnitine (C5:1) [Moles/volume] in Serum or Plasma,LOINC,51416-6,S,455
+39001-3,3041194,3041194,3-Hydroxyisovalerylcarnitine (C5-OH) [Moles/volume] in Serum or Plasma,LOINC,39001-3,S,455
+46252-3,3050001,3050001,Acylcarnitine pattern [Interpretation] in Serum or Plasma,LOINC,46252-3,S,455
+30237-2,3036343,3036343,3-Hydroxylinoleoylcarnitine (C18:2-OH) [Moles/volume] in Serum or Plasma,LOINC,30237-2,S,455
+59195-8,40762286,40762286,3-Hydroxydodecenoylcarnitine (C12:1-OH) [Moles/volume] in Serum or Plasma,LOINC,59195-8,S,455
+43235-1,3047112,3047112,Acrylylcarnitine (C3:1) [Moles/volume] in Serum or Plasma,LOINC,43235-1,S,455
+3226-8,3001850,3001850,Coagulation factor XI activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3226-8,S,450
+21654-9,3019398,3019398,CFTR gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,21654-9,S,447
+21656-4,3035686,3035686,CFTR gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal,LOINC,21656-4,S,447
+38404-0,3050252,3050252,CFTR gene targeted mutation analysis in Blood or Tissue by Molecular genetics method,LOINC,38404-0,S,447
+49412-0,3031287,3031287,JC virus DNA [#/volume] (viral load) in Specimen by NAA with probe detection,LOINC,49412-0,S,446
+13248-0,3004347,3004347,Hepatitis D virus Ab [Presence] in Serum,LOINC,13248-0,S,432
+69047-9,40771568,40771568,Geneticist review of results,LOINC,69047-9,S,424
+1869-7,3008364,3008364,Apolipoprotein A-I [Mass/volume] in Serum or Plasma,LOINC,1869-7,S,395
+33225-4,3030946,3030946,Fine Granular Casts [#/area] in Urine sediment by Automated count,LOINC,33225-4,S,392
+90780-8,1175556,1175556,inFLIXimab Ab [Units/volume] in Serum by Immunoassay,LOINC,90780-8,S,387
+3087-4,3021835,3021835,Urate [Mass/time] in 24 hour Urine,LOINC,3087-4,S,386
+79714-2,21491537,21491537,CYP2C19 gene product metabolic activity interpretation in Blood or Tissue Qualitative by Molecular genetics method,LOINC,79714-2,S,380
+57132-3,40760251,40760251,CYP2C19 gene allele [Genotype] in Blood or Tissue by Molecular genetics method Nominal,LOINC,57132-3,S,380
+85069-3,42527891,42527891,Lab test method [Type],LOINC,85069-3,S,379
+62364-5,40765105,40765105,Test performance information in Specimen Narrative,LOINC,62364-5,S,379
+18309-5,3003311,3003311,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood by Manual count,LOINC,18309-5,S,374
+1953-9,3018081,3018081,Beta-2-Microglobulin [Mass/volume] in Urine,LOINC,1953-9,S,373
+14976-5,3035904,3035904,Lecithin/Sphingomyelin [Ratio] in Amniotic fluid,LOINC,14976-5,S,362
+6598-7,3019800,3019800,Troponin T.cardiac [Mass/volume] in Serum or Plasma,LOINC,6598-7,S,352
+53814-0,3039998,3039998,Platelet aggregation arachidonate induced [Units/volume] in Blood,LOINC,53814-0,S,349
+52773-9,3041111,3041111,Clotting time.extrinsic coagulation system activated of Blood by Rotational TEG,LOINC,52773-9,S,349
+53813-2,3042234,3042234,Platelet aggregation ADP induced [Units/volume] in Blood,LOINC,53813-2,S,349
+52780-4,3040782,3040782,Maximum clot firmness.extrinsic coagulation system activated.platelets inhibited [Length] in Blood by Rotational TEG,LOINC,52780-4,S,349
+53568-2,3038629,3038629,Platelet aggregation arachidonate induced in Platelet rich plasma --500 ug/mL,LOINC,53568-2,S,349
+5992-3,3017055,3017055,Platelet aggregation ADP induced in Platelet rich plasma,LOINC,5992-3,S,349
+7974-9,3008909,3008909,Norovirus RNA [Presence] in Stool by NAA with probe detection,LOINC,7974-9,S,340
+15202-5,3005819,3005819,Potassium [Moles/volume] in Stool,LOINC,15202-5,S,337
+41853-3,3034305,3034305,Orthopoxvirus DNA [Presence] in Specimen by NAA with probe detection,LOINC,41853-3,S,328
+50795-4,3030510,3030510,Osmotic fragility full hemolysis of Red Blood Cells,LOINC,50795-4,S,324
+50794-7,3030301,3030301,Osmotic fragility beginning hemolysis of Red Blood Cells,LOINC,50794-7,S,324
+10989-2,3019885,3019885,Itraconazole [Mass/volume] in Serum or Plasma,LOINC,10989-2,S,313
+73837-7,43533860,43533860,"Galactose-alpha-1,3-galactose (Alpha-Gal) IgE Ab [Units/volume] in Serum",LOINC,73837-7,S,312
+2895-1,3021535,3021535,Protoporphyrin.zinc [Mass/volume] in Red Blood Cells,LOINC,2895-1,S,306
+2053-7,3001599,3001599,Carotene [Mass/volume] in Serum or Plasma,LOINC,2053-7,S,306
+94491-8,36659815,36659815,Protoporphyrin Free [Mass/volume] in Red Blood Cells,LOINC,94491-8,S,306
+43010-8,3032287,3032287,HIV 1+2 Ab [Presence] in Specimen,LOINC,43010-8,S,304
+3969-3,3005893,3005893,Phenytoin Free [Mass/volume] in Serum or Plasma,LOINC,3969-3,S,298
+93493-5,1002162,1002162,3-Hydroxy-3-Methylglutaryl-coenzyme A reductase IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,93493-5,S,292
+9361-7,3022341,3022341,Bartonella quintana IgM Ab [Titer] in Serum,LOINC,9361-7,S,286
+46746-4,3051960,3051960,Phenylketonuria and variants/Biopterin defects newborn screen interpretation,LOINC,46746-4,S,285
+1813-5,3004671,3004671,Alpha galactosidase A [Enzymatic activity/volume] in Serum or Plasma,LOINC,1813-5,S,278
+2785-4,3013297,3013297,Phosphatidylglycerol [Presence] in Amniotic fluid,LOINC,2785-4,S,278
+9593-5,3026535,3026535,Borrelia burgdorferi 41kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9593-5,S,272
+9590-1,3021767,3021767,Borrelia burgdorferi 28kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9590-1,S,272
+9598-4,3014671,3014671,Borrelia burgdorferi 23kD IgM Ab [Presence] in Serum by Immunoblot,LOINC,9598-4,S,272
+9591-9,3025787,3025787,Borrelia burgdorferi 30kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9591-9,S,272
+9594-3,3012830,3012830,Borrelia burgdorferi 45kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9594-3,S,272
+9597-6,3010980,3010980,Borrelia burgdorferi 93kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9597-6,S,272
+9588-5,3012152,3012152,Borrelia burgdorferi 18kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9588-5,S,272
+9595-0,3027354,3027354,Borrelia burgdorferi 58kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9595-0,S,272
+9589-3,3026699,3026699,Borrelia burgdorferi 23kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9589-3,S,272
+9587-7,3025619,3025619,Borrelia burgdorferi 41kD IgM Ab [Presence] in Serum by Immunoblot,LOINC,9587-7,S,272
+9599-2,3020816,3020816,Borrelia burgdorferi 39kD IgM Ab [Presence] in Serum by Immunoblot,LOINC,9599-2,S,272
+9596-8,3013556,3013556,Borrelia burgdorferi 66kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9596-8,S,272
+9592-7,3025396,3025396,Borrelia burgdorferi 39kD IgG Ab [Presence] in Serum by Immunoblot,LOINC,9592-7,S,272
+24447-5,3018601,3018601,Magnesium [Mass/time] in 24 hour Urine,LOINC,24447-5,S,271
+50737-6,3032229,3032229,Serotonin release.heparin.porcine panel - Serum,LOINC,50737-6,S,267
+22239-8,3016472,3016472,Cytomegalovirus Ab [Presence] in Serum or Plasma,LOINC,22239-8,S,263
+40824-5,3042349,3042349,von Willebrand factor (vWf) cleaving protease inhibitor [Units/volume] in Platelet poor plasma,LOINC,40824-5,S,263
+41656-0,3031219,3031219,Potassium [Moles/volume] in Mixed venous blood,LOINC,41656-0,S,262
+34437-4,3045232,3045232,Coxsackievirus B Ab [Titer] in Serum,LOINC,34437-4,S,260
+51978-5,3038450,3038450,Coxsackievirus A Ab [Titer] in Serum,LOINC,51978-5,S,260
+5292-8,3019428,3019428,Reagin Ab [Presence] in Serum by VDRL,LOINC,5292-8,S,257
+21739-8,3009106,3009106,TP53 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,21739-8,S,253
+48558-1,3048236,3048236,HIV genotype [Susceptibility],LOINC,48558-1,S,248
+49060-7,3053342,3053342,Fondaparinux [Mass/volume] in Serum or Plasma,LOINC,49060-7,S,244
+3982-6,3004653,3004653,Procainamide [Mass/volume] in Serum or Plasma,LOINC,3982-6,S,243
+88894-1,36305487,36305487,Brivaracetam [Mass/volume] in Serum or Plasma,LOINC,88894-1,S,233
+1799-6,3017315,3017315,Amylase [Enzymatic activity/volume] in Urine,LOINC,1799-6,S,232
+50932-3,3029917,3029917,Uroporphyrin/Porphyrins.total in 24 hour Urine,LOINC,50932-3,S,231
+51417-4,3032415,3032415,Coproporphyrin/Porphyrins.total in 24 hour Urine,LOINC,51417-4,S,229
+2750-8,3035880,3035880,pH of Pleural fluid,LOINC,2750-8,S,225
+59052-1,40762145,40762145,HIV 1+Hepatitis C virus RNA+Hepatitis B virus DNA [Presence] in Serum or Plasma by NAA with probe detection,LOINC,59052-1,S,223
+3232-6,3002348,3002348,Coagulation factor XII activity actual/normal in Platelet poor plasma by Coagulation assay,LOINC,3232-6,S,217
+87408-1,36305790,36305790,Ustekinumab [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,87408-1,S,213
+87409-9,36305036,36305036,Ustekinumab Ab [Units/volume] in Serum or Plasma by Immunoassay,LOINC,87409-9,S,213
+50796-2,3029338,3029338,Protein.monoclonal band 3 [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,50796-2,S,212
+57723-9,40760834,40760834,Unique bar code number of Current sample,LOINC,57723-9,S,210
+49549-9,3033053,3033053,Referral lab test method,LOINC,49549-9,S,210
+2694-8,3006147,3006147,Osmolality of 24 hour Urine,LOINC,2694-8,S,207
+49429-4,3029538,3029538,Parvovirus B19 DNA [#/volume] (viral load) in Bone marrow by NAA with probe detection,LOINC,49429-4,S,205
+82964-8,42529095,42529095,"Cannabidiol [Mass/volume] in Serum, Plasma or Blood by Confirmatory method",LOINC,82964-8,S,196
+15112-6,3008548,3008548,Leukocyte phosphatase [Units/volume] in Leukocytes,LOINC,15112-6,S,189
+47414-8,3050351,3050351,Pregabalin [Mass/volume] in Serum or Plasma,LOINC,47414-8,S,188
+41657-8,3031579,3031579,Sodium [Moles/volume] in Mixed venous blood,LOINC,41657-8,S,187
+93244-2,1001960,1001960,Complement Sc5b-9 [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,93244-2,S,185
+82207-2,21493475,21493475,Entamoeba histolytica DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82207-2,S,177
+80349-4,21492843,21492843,Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool by NAA with non-probe detection,LOINC,80349-4,S,177
+82204-9,21493472,21493472,Escherichia coli O157 DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82204-9,S,177
+82196-7,21493362,21493362,Campylobacter coli+jejuni+upsaliensis DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82196-7,S,177
+82205-6,21493473,21493473,Cryptosporidium sp DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82205-6,S,177
+82206-4,21493474,21493474,Cyclospora cayetanensis DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82206-4,S,177
+82211-4,21493479,21493479,Norovirus genogroup I+II RNA [Presence] in Stool by NAA with non-probe detection,LOINC,82211-4,S,177
+80348-6,21492842,21492842,Escherichia coli enteropathogenic eae gene [Presence] in Stool by NAA with non-probe detection,LOINC,80348-6,S,177
+82203-1,21493471,21493471,Escherichia coli Stx1 and Stx2 toxin stx1+stx2 genes [Presence] in Stool by NAA with non-probe detection,LOINC,82203-1,S,177
+82213-0,21493481,21493481,Sapovirus genogroups I+II+IV+V RNA [Presence] in Stool by NAA with non-probe detection,LOINC,82213-0,S,177
+80350-2,21492844,21492844,Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Stool by NAA with non-probe detection,LOINC,80350-2,S,177
+49545-7,3029830,3029830,JC virus DNA [Units/volume] (viral load) in Cerebral spinal fluid by NAA with probe detection,LOINC,49545-7,S,177
+82199-1,21493467,21493467,Salmonella enterica+bongori DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82199-1,S,177
+82208-0,21493476,21493476,Giardia lamblia DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82208-0,S,177
+80351-0,21492845,21492845,Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool by NAA with non-probe detection,LOINC,80351-0,S,177
+82202-3,21493470,21493470,Yersinia enterocolitica DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82202-3,S,177
+82197-5,21493465,21493465,Clostridioides difficile toxin A+B tcdA+tcdB genes [Presence] in Stool by NAA with non-probe detection,LOINC,82197-5,S,177
+82200-7,21493468,21493468,Vibrio cholerae+parahaemolyticus+vulnificus DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82200-7,S,177
+82212-2,21493480,21493480,Rotavirus A RNA [Presence] in Stool by NAA with non-probe detection,LOINC,82212-2,S,177
+82201-5,21493469,21493469,Vibrio cholerae DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82201-5,S,177
+59464-8,40762527,40762527,Microbiologist review of results,LOINC,59464-8,S,177
+82198-3,21493466,21493466,Plesiomonas shigelloides DNA [Presence] in Stool by NAA with non-probe detection,LOINC,82198-3,S,177
+12810-8,3027609,3027609,Porphobilinogen deaminase [Enzymatic activity/volume] in Blood,LOINC,12810-8,S,170
+56718-0,40759837,40759837,Islet cell 512 Ab [Units/volume] in Serum by Immunoassay,LOINC,56718-0,S,166
+48327-1,3052586,3052586,glyBURIDE [Presence] in Serum or Plasma,LOINC,48327-1,S,165
+48325-5,3051388,3051388,Glimepride [Presence] in Serum or Plasma,LOINC,48325-5,S,165
+48328-9,3052691,3052691,Repaglinide [Presence] in Serum or Plasma,LOINC,48328-9,S,165
+21566-5,3004476,3004476,TOLAZamide [Presence] in Serum or Plasma,LOINC,21566-5,S,165
+48326-3,3051380,3051380,glipiZIDE [Presence] in Serum or Plasma,LOINC,48326-3,S,165
+21567-3,3002769,3002769,TOLBUTamide [Presence] in Serum or Plasma,LOINC,21567-3,S,165
+49487-2,3032725,3032725,Nateglinide [Presence] in Serum or Plasma,LOINC,49487-2,S,165
+48329-7,3052039,3052039,chlorproPAMIDE [Presence] in Serum or Plasma,LOINC,48329-7,S,165
+3950-3,3007487,3007487,PHENobarbital [Mass/volume] in Urine,LOINC,3950-3,S,159
+41212-2,3038432,3038432,West Nile virus RNA [Presence] in Serum from Donor by NAA with probe detection,LOINC,41212-2,S,148
+94495-9,36659966,36659966,HLA-DQA1 [Type],LOINC,94495-9,S,143
+53938-7,3038881,3038881,HLA-DQB1 [Type],LOINC,53938-7,S,143
+59323-6,40762414,40762414,Rufinamide [Mass/volume] in Serum or Plasma,LOINC,59323-6,S,143
+47401-5,3049706,3049706,CV2 IgG Ab [Presence] in Serum by Immunoblot,LOINC,47401-5,S,140
+27379-7,3016036,3016036,Insulin [Units/volume] in Serum or Plasma --1 hour post XXX challenge,LOINC,27379-7,S,139
+56482-3,40759603,40759603,Insulin [Units/volume] in Serum or Plasma --baseline,LOINC,56482-3,S,138
+27826-7,3012064,3012064,Insulin [Units/volume] in Serum or Plasma --2 hours post XXX challenge,LOINC,27826-7,S,131
+2072-7,3013194,3013194,Chloride [Moles/volume] in Body fluid,LOINC,2072-7,S,130
+27827-5,3015089,3015089,Insulin [Units/volume] in Serum or Plasma --30 minutes post XXX challenge,LOINC,27827-5,S,129
+90805-3,1175847,1175847,Vedolizumab [Mass/volume] in Serum or Plasma by LC/MS/MS --trough,LOINC,90805-3,S,124
+86899-2,36305882,36305882,Vedolizumab Ab [Mass/volume] in Serum or Plasma by Immunoassay,LOINC,86899-2,S,124
+77215-2,46237038,46237038,Parotid secretory protein IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,77215-2,S,119
+77211-1,46237034,46237034,Carbonic anhydrase 6 IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,77211-1,S,119
+77208-7,46237031,46237031,Salivary gland protein 1 IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,77208-7,S,119
+77216-0,46237039,46237039,Parotid secretory protein IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,77216-0,S,119
+77214-5,46237037,46237037,Parotid secretory protein IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,77214-5,S,119
+77213-7,46237036,46237036,Carbonic anhydrase 6 IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,77213-7,S,119
+77210-3,46237033,46237033,Salivary gland protein 1 IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,77210-3,S,119
+77212-9,46237035,46237035,Carbonic anhydrase 6 IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,77212-9,S,119
+77209-5,46237032,46237032,Salivary gland protein 1 IgM Ab [Units/volume] in Serum by Immunoassay,LOINC,77209-5,S,119
+3093-2,3019930,3019930,Urea nitrogen [Mass/volume] in Body fluid,LOINC,3093-2,S,114
+22488-1,3026032,3026032,Rickettsia typhi IgG Ab [Presence] in Serum,LOINC,22488-1,S,113
+49406-2,3029562,3029562,Herpes virus 8 DNA [#/volume] (viral load) in Blood by NAA with probe detection,LOINC,49406-2,S,112
+100684-0,1761475,1761475,Herpes virus 8 DNA [Log #/volume] (viral load) in Blood by NAA with probe detection,LOINC,100684-0,S,112
+38926-2,3043636,3043636,Macroprolactin [Mass/volume] in Serum or Plasma,LOINC,38926-2,S,106
+12183-0,3015232,3015232,Cholesterol [Mass/volume] in Body fluid,LOINC,12183-0,S,106
+51441-4,3030244,3030244,Macroprolactin/Prolactin [Mass] in Serum or Plasma,LOINC,51441-4,S,106
+2721-9,3023589,3023589,Pancreatic polypeptide [Mass/volume] in Serum or Plasma,LOINC,2721-9,S,99
+11211-0,3001288,3001288,"Carbon dioxide, total [Moles/volume] in Body fluid",LOINC,11211-0,S,98
+77174-1,46237016,46237016,CALR gene exon 9 mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal,LOINC,77174-1,S,98
+5627-5,3028447,3028447,Cobalt [Mass/volume] in Serum or Plasma,LOINC,5627-5,S,98
+72210-8,43054953,43054953,"inv(16)(p13.1;q22.1)(MYH11,CBFB) fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method",LOINC,72210-8,S,97
+3616-0,3036509,3036509,Ethosuximide [Mass/volume] in Serum or Plasma,LOINC,3616-0,S,97
+26541-3,3011161,3011161,Glucose [Mass/volume] in Serum or Plasma --4 hours post dose glucose,LOINC,26541-3,S,89
+3125-2,3028054,3028054,Vasoactive intestinal peptide [Mass/volume] in Serum or Plasma,LOINC,3125-2,S,87
+94756-4,586524,586524,SARS-CoV-2 (COVID-19) N gene [Presence] in Respiratory system specimen by Nucleic acid amplification using CDC primer-probe set N1,LOINC,94756-4,S,87
+88055-9,36305723,36305723,Liver fibrosis score in Serum or Plasma by Calculated by ELF,LOINC,88055-9,S,83
+5646-5,3020475,3020475,"Ethylene glycol [Mass/volume] in Serum, Plasma or Blood",LOINC,5646-5,S,82
+21074-0,3017872,3017872,Arsenic [Mass/volume] in 24 hour Urine,LOINC,21074-0,S,80
+26543-9,3009414,3009414,Glucose [Mass/volume] in Serum or Plasma --5 hours post dose glucose,LOINC,26543-9,S,73
+46718-3,3049741,3049741,Aquaporin 4 water channel IgG Ab [Presence] in Cerebral spinal fluid,LOINC,46718-3,S,70
+26540-5,3010956,3010956,Glucose [Mass/volume] in Urine --3 hours post dose glucose,LOINC,26540-5,S,65
+101732-6,3965270,3965270,JC virus DNA [log units/volume] (viral load) in Cerebral spinal fluid by NAA with probe detection,LOINC,101732-6,S,65
+2815-9,3035373,3035373,Porphyrins [Mass/volume] in Serum or Plasma,LOINC,2815-9,S,64
+28658-3,3024019,3024019,Plasmin inhibitor actual/normal in Platelet poor plasma by Immunoassay,LOINC,28658-3,S,63
+19257-5,3019464,3019464,Oxygen [Partial pressure] adjusted to patient's actual temperature in Mixed venous blood,LOINC,19257-5,S,58
+2070-1,3036172,3036172,Chloride [Moles/volume] in Cerebral spinal fluid,LOINC,2070-1,S,56
+50555-2,3030260,3030260,Glucose [Presence] in Urine by Automated test strip,LOINC,50555-2,S,51
+21793-5,3019799,3019799,"t(8;21)(q22;q22.3)(RUNX1T1,RUNX1) cells/Cells.total in Blood or Tissue by Molecular genetics method",LOINC,21793-5,S,46
+4484-2,3001793,3001793,Complement C2 [Mass/volume] in Serum or Plasma,LOINC,4484-2,S,44
+26924-1,3020472,3020472,Cancer Ag 19-9 [Units/volume] in Body fluid,LOINC,26924-1,S,43
+1800-2,3020579,3020579,Amylase [Enzymatic activity/time] in 24 hour Urine,LOINC,1800-2,S,42
+50981-0,3029306,3029306,Carbon dioxide [Partial pressure] adjusted to patient's actual temperature in Mixed venous blood,LOINC,50981-0,S,35
+3834-9,3001706,3001706,N-acetylprocainamide [Mass/volume] in Serum or Plasma,LOINC,3834-9,S,34
+29891-9,3011630,3011630,Helicobacter pylori [Presence] in Stomach by urea breath test,LOINC,29891-9,S,34
+50980-2,3030238,3030238,pH of Mixed venous blood adjusted to patient's actual temperature,LOINC,50980-2,S,30
+19238-5,3010329,3010329,Base excess standard in Mixed venous blood by calculation,LOINC,19238-5,S,30
+33001-9,3028913,3028913,Rickettsia typhi IgM Ab [Presence] in Serum,LOINC,33001-9,S,29
+14361-0,3000855,3000855,Microscopic observation [Identifier] in Vaginal fluid by Gram stain,LOINC,14361-0,S,29
+41648-7,3034030,3034030,Carboxyhemoglobin/Hemoglobin.total in Mixed venous blood,LOINC,41648-7,S,29
+48018-6,3052700,3052700,Gene studied [ID],LOINC,48018-6,S,28
+48005-3,3049805,3049805,Amino acid change (pHGVS),LOINC,48005-3,S,28
+50797-0,3029379,3029379,Protein.monoclonal band 4 [Mass/volume] in Serum or Plasma by Electrophoresis,LOINC,50797-0,S,28
+81258-6,21495016,21495016,Sample variant allelic frequency [NFr],LOINC,81258-6,S,28
+48004-6,3048796,3048796,DNA change (c.HGVS),LOINC,48004-6,S,28
+49865-9,3032768,3032768,Coagulation factor VIII activity actual/normal in Platelet poor plasma by Chromogenic method,LOINC,49865-9,S,27
+2352-3,3004378,3004378,Glucose in CSF/Glucose plas,LOINC,2352-3,S,25
+3244-1,3023055,3023055,Clot Lysis [Time] in Platelet poor plasma by Coagulation assay,LOINC,3244-1,S,23
+25675-0,3000272,3000272,Glucose [Mass/volume] in Urine --4 hours post dose glucose,LOINC,25675-0,S,22
+50690-7,3029634,3029634,Reagin Ab [Titer] in Serum by VDRL,LOINC,50690-7,S,21
+51732-6,3039986,3039986,Oxygen saturation Calculated from oxygen partial pressure in Capillary blood,LOINC,51732-6,S,20
+42198-2,3031827,3031827,Curvularia specifera IgE Ab [Units/volume] in Serum,LOINC,42198-2,S,20
+19236-9,3026613,3026613,Base excess standard in Capillary blood by calculation,LOINC,19236-9,S,20
+15200-9,3004663,3004663,Osmolality of Body fluid,LOINC,15200-9,S,19
+47393-4,3048403,3048403,Gliadin peptide IgA Ab [Presence] in Serum by Immunoassay,LOINC,47393-4,S,18
+3196-3,3024478,3024478,Coagulation factor VII inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay,LOINC,3196-3,S,16
+26542-1,3012009,3012009,Glucose [Mass/volume] in Urine --5 hours post dose glucose,LOINC,26542-1,S,16
+47394-2,3050371,3050371,Gliadin peptide IgG Ab [Presence] in Serum by Immunoassay,LOINC,47394-2,S,15
+3191-4,3004057,3004057,Coagulation factor V inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay,LOINC,3191-4,S,15
+6683-7,3005308,3005308,Reptilase time,LOINC,6683-7,S,15
+30352-9,3006184,3006184,Hemoglobin [Mass/volume] in Capillary blood,LOINC,30352-9,S,15
+9264-3,3008138,3008138,Apache II score,LOINC,9264-3,S,15
+13766-1,3010758,3010758,Isovalerylglycine/Creatinine [Mass Ratio] in Urine,LOINC,13766-1,S,14
+38417-2,3050196,3050196,Trans-cinnamoylglycine/Creatinine [Mass Ratio] in Urine,LOINC,38417-2,S,14
+13753-9,3022974,3022974,Hexanoylglycine/Creatinine [Mass Ratio] in Urine,LOINC,13753-9,S,14
+19219-5,3004097,3004097,Oxygen content in Capillary blood,LOINC,19219-5,S,14
+13777-8,3005040,3005040,Methylsuccinate/Creatinine [Mass Ratio] in Urine,LOINC,13777-8,S,14
+38367-9,3047939,3047939,N-octanoylglycine/Creatinine [Mass Ratio] in Urine,LOINC,38367-9,S,14
+50333-4,3029558,3029558,Tetradecanedioate/Creatinine [Mass Ratio] in Urine,LOINC,50333-4,S,14
+13793-5,3000715,3000715,Phenylpropionylglycine/Creatinine [Mass Ratio] in Urine,LOINC,13793-5,S,14
+13732-3,3012129,3012129,Dodecanedioate/Creatinine [Mass Ratio] in Urine,LOINC,13732-3,S,14
+27892-9,3001927,3001927,Butyrylglycine/Creatinine [Mass Ratio] in Urine,LOINC,27892-9,S,14
+13741-4,3017422,3017422,Ethylmalonate/Creatinine [Mass Ratio] in Urine,LOINC,13741-4,S,14
+13811-5,3011909,3011909,Suberylglycine/Creatinine [Mass Ratio] in Urine,LOINC,13811-5,S,14
+38360-4,3050885,3050885,Isobutyrylglycine/Creatinine [Mass Ratio] in Urine,LOINC,38360-4,S,14
+27097-5,3025120,3025120,2-Methylbutyrylglycine/Creatinine [Mass Ratio] in Urine,LOINC,27097-5,S,14
+56537-4,40759657,40759657,Tissue transglutaminase IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,56537-4,S,14
+13748-9,3025786,3025786,Glutarate/Creatinine [Mass Ratio] in Urine,LOINC,13748-9,S,14
+11881-0,3023791,3023791,Uterus Fundal height Tape measure,LOINC,11881-0,S,13
+50332-6,3030127,3030127,Hexadecanedioate/Creatinine [Mass Ratio] in Urine,LOINC,50332-6,S,13
+9447-4,3016227,3016227,Heptacarboxylporphyrin [Mass/volume] in Serum or Plasma,LOINC,9447-4,S,12
+17501-8,3010878,3010878,Protoporphyrin [Mass/volume] in Serum or Plasma,LOINC,17501-8,S,12
+49289-2,3052988,3052988,Porphyrins [Interpretation] in Serum or Plasma Narrative,LOINC,49289-2,S,12
+14157-2,3017039,3017039,Coproporphyrin [Mass/volume] in Serum or Plasma,LOINC,14157-2,S,12
+14274-5,3019881,3019881,Uroporphyrin [Mass/volume] in Serum or Plasma,LOINC,14274-5,S,12
+9451-6,3011494,3011494,Hexacarboxylporphyrin [Mass/volume] in Serum or Plasma,LOINC,9451-6,S,12
+10882-9,3017193,3017193,Pentacarboxylporphyrins [Mass/volume] in Serum or Plasma,LOINC,10882-9,S,12
+71693-6,42869450,42869450,Platelets reticulated/100 platelets in Blood by Automated count,LOINC,71693-6,S,11
+80221-5,21494813,21494813,NMDAR IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,80221-5,S,11
+43181-7,3045267,3045267,Arsenic organic [Mass/volume] in 24 hour Urine,LOINC,43181-7,S,10
+30106-9,3014625,3014625,Acetylcholinesterase [Presence] in Amniotic fluid,LOINC,30106-9,S,10
+48595-3,3052985,3052985,von Willebrand evaluation [Interpretation] in Platelet poor plasma,LOINC,48595-3,S,10
+41992-9,3031400,3031400,Arsenic.inorganic [Mass/volume] in 24 hour Urine,LOINC,41992-9,S,10
+47321-5,3049738,3049738,Baker's yeast IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,47321-5,S,9
+49308-0,3049503,3049503,Neutrophil cytoplasmic Ab pattern [Interpretation] in Serum by Immunofluorescence Narrative,LOINC,49308-0,S,9
+46126-9,3046839,3046839,Endomysium IgA Ab [Presence] in Serum by Immunofluorescence,LOINC,46126-9,S,9
+32466-5,3015434,3015434,Physical findings of Pupil,LOINC,32466-5,S,9
+17355-9,3022600,3022600,Neutrophil cytoplasmic IgG Ab [Presence] in Serum,LOINC,17355-9,S,9
+47320-7,3052881,3052881,Baker's yeast IgA Ab [Units/volume] in Serum by Immunoassay,LOINC,47320-7,S,9
+93424-0,1001593,1001593,Glial fibrillary acidic protein alpha subunit IgG Ab [Presence] in Serum by Cell binding immunofluorescent assay,LOINC,93424-0,S,8
+93423-2,1002112,1002112,Glial fibrillary acidic protein alpha subunit IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,93423-2,S,8
+93490-1,1001742,1001742,AMPAR2 IgG Ab [Titer] in Serum or Plasma by Immunofluorescence,LOINC,93490-1,S,7
+93427-3,1002201,1002201,GABABR IgG Ab [Titer] in Serum or Plasma by Immunofluorescence,LOINC,93427-3,S,6
+82999-4,42529127,42529127,PCA-Tr IgG Ab [Presence] in Serum or Plasma by Line blot,LOINC,82999-4,S,6
+93499-2,1001823,1001823,Metabotropic glutamate receptor 1 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,93499-2,S,6
+93498-4,1001983,1001983,Metabotropic glutamate receptor 1 IgG Ab [Presence] in Serum by Cell binding immunofluorescent assay,LOINC,93498-4,S,6
+94340-7,36659873,36659873,Amphiphysin IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94340-7,S,5
+51602-1,3039652,3039652,Methotrexate [Moles/volume] in Serum or Plasma --72 hours post dose,LOINC,51602-1,S,5
+94815-8,36660169,36660169,CV2 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94815-8,S,5
+94342-3,36660702,36660702,Neuronal nuclear type 1 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94342-3,S,5
+94351-4,36660246,36660246,PCA-2 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94351-4,S,3
+94363-9,36660429,36660429,PCA-1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94363-9,S,3
+3137-7,3023540,3023540,Body height Measured,LOINC,3137-7,S,3
+8863-3,3024841,3024841,Left ventricular stroke work index,LOINC,8863-3,S,2
+94355-5,36660639,36660639,Glial nuclear type 1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94355-5,S,2
+94356-3,36660140,36660140,Neuronal nuclear type 1 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94356-3,S,2
+94352-2,36659759,36659759,PCA-Tr IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94352-2,S,2
+59387-1,40762478,40762478,Trypanosoma cruzi IgG Ab [Units/volume] in Serum by Immunoassay,LOINC,59387-1,S,2
+94350-6,36660007,36660007,PCA-1 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94350-6,S,2
+94358-9,36660108,36660108,Neuronal nuclear type 3 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94358-9,S,2
+14759-5,3016701,3016701,Glucose [Moles/volume] in Serum or Plasma --2 hours post dose glucose,LOINC,14759-5,S,2
+26545-4,3019571,3019571,Glucose [Mass/volume] in Urine --6 hours post dose glucose,LOINC,26545-4,S,2
+94343-1,36660256,36660256,Neuronal nuclear type 2 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94343-1,S,2
+94344-9,36660678,36660678,Neuronal nuclear type 3 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94344-9,S,2
+94364-7,36660576,36660576,PCA-2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94364-7,S,2
+94341-5,36659969,36659969,Glial nuclear type 1 IgG Ab [Titer] in Serum by Immunofluorescence,LOINC,94341-5,S,2
+94357-1,36659640,36659640,Neuronal nuclear type 2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94357-1,S,2
+94706-9,36660555,36660555,CV2 IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94706-9,S,2
+94362-1,36660370,36660370,PCA-Tr IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94362-1,S,2
+94354-8,36660072,36660072,Amphiphysin IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence,LOINC,94354-8,S,2
+8280-0,3016258,3016258,Waist Circumference at umbilicus by Tape measure,LOINC,8280-0,S,1
+79646-6,21491311,21491311,Delta aminolevulinate [Moles/volume] in Serum or Plasma,LOINC,79646-6,S,1
+14756-1,3015024,3015024,Glucose [Moles/volume] in Serum or Plasma --1 hour post dose glucose,LOINC,14756-1,S,1
+17474-8,3008769,3008769,Porphobilinogen [Moles/volume] in Serum or Plasma,LOINC,17474-8,S,1
+14765-2,3017589,3017589,Glucose [Moles/volume] in Serum or Plasma --3 hours post dose glucose,LOINC,14765-2,S,1

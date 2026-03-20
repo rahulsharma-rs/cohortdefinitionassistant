@@ -1,0 +1,59 @@
+# OS files
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.settings/
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.mypy_cache/
+
+# Node/React (Frontend)
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+Frontend/.env*
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+Backend/database/cohort.db
+database/cohort.db
+
+# Logs
+*.log
+Backend/logs/
+
+# Misc
+.cache/
+.sass-cache/
+node_modules/
