@@ -13,7 +13,7 @@ import config from '../config';
  * @param {function} onError - Callback for errors: (error) => void
  * @returns {function} abort function to cancel the request
  */
-export function refineCohortStreaming(userInput, onStep, onResult, onError) {
+export function refineCohortStreaming(userInput, model, onStep, onResult, onError) {
   const controller = new AbortController();
 
   (async () => {
@@ -21,7 +21,7 @@ export function refineCohortStreaming(userInput, onStep, onResult, onError) {
       const response = await fetch(config.REFINE_ENDPOINT, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ user_input: userInput }),
+        body: JSON.stringify({ user_input: userInput, model: model }),
         signal: controller.signal,
       });
 
@@ -73,11 +73,11 @@ export function refineCohortStreaming(userInput, onStep, onResult, onError) {
 /**
  * Refine a cohort definition using the synchronous endpoint (fallback).
  */
-export async function refineCohortSync(userInput) {
+export async function refineCohortSync(userInput, model) {
   const response = await fetch(config.REFINE_SYNC_ENDPOINT, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ user_input: userInput }),
+    body: JSON.stringify({ user_input: userInput, model: model }),
   });
 
   if (!response.ok) {

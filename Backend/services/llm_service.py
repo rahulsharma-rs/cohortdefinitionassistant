@@ -7,21 +7,34 @@ from config import Config
 from langchain_core.messages import HumanMessage, SystemMessage
 
 
-def get_llm():
-    """Return a LangChain ChatModel based on configured provider."""
-    if Config.LLM_PROVIDER == "google":
-        from langchain_google_genai import ChatGoogleGenerativeAI
+from flask import has_request_context, g
 
+def get_llm():
+    """Return a LangChain ChatModel based on configured or requested provider."""
+    model_name = Config.LLM_MODEL
+    
+    # Override with frontend selection if available in current request context
+    if has_request_context() and getattr(g, "llm_model", None):
+        model_name = g.llm_model
+
+    # Auto-detect provider based on model name prefix
+    provider = Config.LLM_PROVIDER
+    if "gpt" in model_name or "o1" in model_name or "o3" in model_name:
+        provider = "openai"
+    elif "gemini" in model_name:
+        provider = "google"
+
+    if provider == "google":
+        from langchain_google_genai import ChatGoogleGenerativeAI
         return ChatGoogleGenerativeAI(
-            model=Config.LLM_MODEL,
+            model=model_name,
             google_api_key=Config.GOOGLE_API_KEY,
             temperature=0.2,
         )
     else:
         from langchain_openai import ChatOpenAI
-
         return ChatOpenAI(
-            model=Config.LLM_MODEL,
+            model=model_name,
             api_key=Config.OPENAI_API_KEY,
             temperature=0.2,
         )
@@ -50,7 +63,19 @@ def call_llm(prompt: str, system_prompt: str = "", expect_json: bool = False) ->
     print(f"User Prompt: {prompt[:100]}...")
     response = llm.invoke(messages)
     print("--- LLM Response Received ---")
-    text = response.content.strip()
+    
+    content = response.content
+    if isinstance(content, list):
+        # Handle multi-part responses occasionally returned by newer Google models
+        text_parts = []
+        for block in content:
+            if isinstance(block, dict):
+                text_parts.append(block.get("text", ""))
+            else:
+                text_parts.append(str(block))
+        text = "".join(text_parts).strip()
+    else:
+        text = str(content).strip()
 
     if expect_json:
         # Try to extract JSON from the response

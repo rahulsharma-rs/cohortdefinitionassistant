@@ -48,13 +48,15 @@ Frontend/yarn-error.log*
 *.sqlite3
 Backend/database/cohort.db
 database/cohort.db
+Backend/database/storage/
+database/storage/
+Backend/vector_db/
 
 # Logs
 *.log
 Backend/logs/
 
-# Misc
-.cache/
-.sass-cache/
-node_modules/
+# Clinical Data (Catalog)
 Backend/catelogue/
+Backend/catelogue/*.csv
+Backend/catelogue/*.txt

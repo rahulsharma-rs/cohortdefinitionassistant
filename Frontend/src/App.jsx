@@ -33,7 +33,7 @@ export default function App() {
     finalize: 'finalize',
   };
 
-  const handleSubmit = useCallback((userInput) => {
+  const handleSubmit = useCallback((userInput, model) => {
     // Reset state
     setIsLoading(true);
     setCompletedSteps([]);
@@ -48,6 +48,7 @@ export default function App() {
 
     const abort = refineCohortStreaming(
       userInput,
+      model,
       // onStep
       (stepData) => {
         const node = stepData.node;

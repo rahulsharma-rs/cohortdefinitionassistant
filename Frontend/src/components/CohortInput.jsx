@@ -5,11 +5,12 @@ import React, { useState } from 'react';
  */
 export default function CohortInput({ onSubmit, isLoading }) {
   const [input, setInput] = useState('');
+  const [model, setModel] = useState('gpt-5-nano');
 
   const handleSubmit = () => {
     const trimmed = input.trim();
     if (trimmed && !isLoading) {
-      onSubmit(trimmed);
+      onSubmit(trimmed, model);
     }
   };
 
@@ -39,6 +40,20 @@ export default function CohortInput({ onSubmit, isLoading }) {
           <div className="card__title">Cohort Definition</div>
           <div className="card__subtitle">Describe the cohort you want to build in natural language</div>
         </div>
+      </div>
+
+      <div style={{ marginBottom: '12px' }}>
+        <label htmlFor="model-select" style={{ fontSize: '0.85rem', fontWeight: 'bold', color: 'var(--color-text-secondary)', display: 'block', marginBottom: '4px' }}>AI Model:</label>
+        <select 
+          id="model-select" 
+          value={model} 
+          onChange={(e) => setModel(e.target.value)}
+          disabled={isLoading}
+          style={{ width: '100%', padding: '8px', borderRadius: '4px', border: '1px solid var(--color-border)', backgroundColor: 'var(--color-bg)', color: 'var(--color-text)' }}
+        >
+          <option value="gpt-5-nano">GPT-5 Nano (OpenAI)</option>
+          <option value="gemini-3.1-flash-lite-preview">Gemini 3.1 Flash-Lite Preview</option>
+        </select>
       </div>
 
       <textarea

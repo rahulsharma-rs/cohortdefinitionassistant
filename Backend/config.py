@@ -20,10 +20,10 @@ class Config:
     LLM_MODEL = os.getenv("LLM_MODEL", "gemini-2.0-flash")
 
     # --- Database ---
-    SQLITE_DB_PATH = os.getenv("SQLITE_DB_PATH", os.path.join(os.path.dirname(__file__), "database/cohort.db"))
+    SQLITE_DB_PATH = os.getenv("SQLITE_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "database/cohort.db"))
 
     # --- Vector DB ---
-    VECTOR_DB_PATH = os.getenv("VECTOR_DB_PATH", os.path.join(os.path.dirname(__file__), "vector_db"))
+    VECTOR_DB_PATH = os.getenv("VECTOR_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "database/vector_db"))
 
     # --- Catalog ---
     CATALOG_DIR = os.getenv("CATALOG_DIR", os.path.join(os.path.dirname(__file__), "catelogue"))
@@ -35,6 +35,9 @@ class Config:
     FLASK_HOST = os.getenv("FLASK_HOST", "0.0.0.0")
     FLASK_PORT = int(os.getenv("FLASK_PORT", "5001"))
     FLASK_DEBUG = os.getenv("FLASK_DEBUG", "true").lower() == "true"
+
+    # --- Clinical Catalog (GCS Bucket) ---
+    CATALOG_BUCKET = os.getenv("CATALOG_BUCKET", "")
 
     # --- Workflow ---
     MAX_REVISION_ITERATIONS = int(os.getenv("MAX_REVISION_ITERATIONS", "3"))

@@ -9,17 +9,21 @@ import os
 # Ensure backend directory is on import path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from flask import Flask, request, jsonify, Response
+from flask import Flask, request, jsonify, Response, send_from_directory, g, stream_with_context
 from flask_cors import CORS
 from config import Config
 from database.db import init_db
 from services.catalog_service import CatalogService
 from services.vector_service import VectorService
 from services.retrieval_service import RetrievalService
+from services.storage_service import StorageService
 from graphs.cohort_graph import run_cohort_refinement
 from agents.status_agent import generate_status
 
-app = Flask(__name__)
+# Configure static folder for built frontend
+# In Docker, Frontend/dist will be in the same root
+static_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Frontend", "dist")
+app = Flask(__name__, static_folder=static_folder)
 CORS(app, origins=["http://localhost:5173", "http://localhost:3000"])
 
 # ── Initialize services on startup ───────────────────────────────────────────
@@ -27,32 +31,37 @@ CORS(app, origins=["http://localhost:5173", "http://localhost:3000"])
 catalog_service = None
 vector_service = None
 retrieval_service = None
+storage_service = None
 
 
 def startup():
     """Initialize database, ingest catalog, and build vector index."""
-    global catalog_service, vector_service, retrieval_service
+    global catalog_service, vector_service, retrieval_service, storage_service
 
     print("=" * 60)
     print("  Cohort Refinement Assistant — Starting up")
     print("=" * 60)
 
-    # 1. Initialize database
-    print("\n[1/3] Initializing database...")
-    init_db()
-    print("  [OK] Database initialized")
+    # 1. Sync from GCS (if configured)
+    storage_service = StorageService()
+    catalog_changed = storage_service.sync_catalog()
 
-    # 2. Ingest catalog CSVs
-    print("\n[2/3] Ingesting EHR catalog...")
+    # 2. Initialize database
+    init_db()
+
+    # 3. Ingest catalog (only if empty or GCS changed)
     catalog_service = CatalogService()
     catalog_service.ingest_all()
 
-    # 3. Build vector index
-    print("\n[3/3] Building vector search index...")
+    # 4. Build vector index (loads from disk if exists, rebuilds if catalog changed)
     vector_service = VectorService()
-    vector_service.build_index()
+    if catalog_changed:
+        print("[INFO] Catalog changed via GCS, rebuilding vector index...")
+        vector_service.build_index()
+    else:
+        vector_service.build_index()
 
-    # 4. Create retrieval service
+    # 5. Create retrieval service
     retrieval_service = RetrievalService(catalog_service, vector_service)
 
     print("\n" + "=" * 60)
@@ -91,6 +100,11 @@ def refine_cohort():
     user_input = data["user_input"].strip()
     if not user_input:
         return jsonify({"error": "'user_input' cannot be empty"}), 400
+
+    # Optional model parameter
+    model = data.get("model")
+    if model:
+        g.llm_model = model
 
     def generate():
         """SSE generator for streaming workflow updates."""
@@ -136,7 +150,7 @@ def refine_cohort():
             yield f"data: {json.dumps(error_data)}\n\n"
 
     return Response(
-        generate(),
+        stream_with_context(generate()),
         mimetype="text/event-stream",
         headers={
             "Cache-Control": "no-cache",
@@ -181,12 +195,26 @@ def refine_cohort_sync():
         }), 500
 
 
+# ── Static File Serving (SPA support) ────────────────────────────────────────
+
+@app.route("/", defaults={"path": ""})
+@app.route("/<path:path>")
+def serve_frontend(path):
+    """Serve the React frontend and handle client-side routing."""
+    if path != "" and os.path.exists(os.path.join(app.static_folder, path)):
+        return send_from_directory(app.static_folder, path)
+    else:
+        return send_from_directory(app.static_folder, "index.html")
+
+
 # ── Run ───────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     startup()
+    # Cloud Run provides the PORT environment variable
+    port = int(os.environ.get("PORT", Config.FLASK_PORT))
     app.run(
         host=Config.FLASK_HOST,
-        port=Config.FLASK_PORT,
+        port=port,
         debug=Config.FLASK_DEBUG,
     )
