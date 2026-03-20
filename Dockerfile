@@ -7,7 +7,7 @@ COPY Frontend/ ./
 RUN npm run build
 
 # --- Stage 2: Final Image ---
-FROM python:3.10-slim
+FROM python:3.11-slim
 WORKDIR /app
 
 # Install system dependencies (if needed, e.g., for sqlite/bert models)
