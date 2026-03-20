@@ -57,3 +57,4 @@ Backend/logs/
 .cache/
 .sass-cache/
 node_modules/
+Backend/catelogue/
