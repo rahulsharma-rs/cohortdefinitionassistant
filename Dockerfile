@@ -5,8 +5,14 @@ COPY Frontend/package*.json ./
 RUN npm install
 COPY Frontend/ ./
 RUN npm run build
+# --- Stage 2: Download GCS Data ---
+FROM google/cloud-cli:slim AS data-downloader
+WORKDIR /data
+ARG BUCKET_NAME=my-clinical-catalog-data
+# Cloud Build will automatically authenticate this command
+RUN gcloud storage cp -r gs://${BUCKET_NAME}/* .
 
-# --- Stage 2: Final Image ---
+# --- Stage 3: Final Image ---
 FROM python:3.11-slim
 WORKDIR /app
 
@@ -35,6 +41,13 @@ ENV MKL_NUM_THREADS=1
 
 # Copy backend code
 COPY Backend/ ./Backend/
+
+# Copy the pre-downloaded CSV files into the catalog directory
+COPY --from=data-downloader /data/*.csv /app/Backend/catelogue/
+
+# Copy the SQLite database and FAISS vector dictionary into the database directory
+COPY --from=data-downloader /data/cohort.db /app/database/cohort.db
+COPY --from=data-downloader /data/storage/ /app/database/storage/
 
 # Copy built frontend assets from Stage 1
 COPY --from=frontend-builder /app/Frontend/dist ./Frontend/dist

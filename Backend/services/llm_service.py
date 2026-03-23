@@ -29,11 +29,12 @@ def get_llm():
             
     elif "gemini" in model_lower:
         provider = "google"
-        # Map user typos like "gemini 3.1 flash liter" to actual Google endpoints
-        if "liter" in model_lower or "lite" in model_lower or "3.1" in model_lower:
-            model_name = "gemini-3.1-flash-lite"
-        elif "2.0" not in model_lower:
-            model_name = "gemini-2.0-flash"
+        # Map user typos to actual Google endpoints
+        if "2.5" in model_lower:
+            model_name = "gemini-2.5-flash-lite"
+        else:
+            # Default or preferred
+            model_name = "gemini-3.1-flash-lite-preview"
 
     if provider == "google":
         from langchain_google_genai import ChatGoogleGenerativeAI

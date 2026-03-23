@@ -124,13 +124,22 @@ def refine_cohort():
                         "reasoning_steps": node_state.get("reasoning_steps", []),
                         "intelligent_status": intelligent_status,
                     }
+                    
+                    # If this node encountered an error, send an error event and stop
+                    if "error" in node_state:
+                        event_data["type"] = "error"
+                        event_data["error"] = node_state["error"]
+                        yield f"data: {json.dumps(event_data)}\n\n"
+                        return
+
                     yield f"data: {json.dumps(event_data)}\n\n"
 
                     # Track latest state
                     final_state.update(node_state)
 
-            # Send final result
-            result = {
+            if "error" not in final_state:
+                # Send final result only if no unhandled error occurred
+                result = {
                 "type": "result",
                 "refined_definition": final_state.get("cohort_definition", {}),
                 "reasoning_steps": final_state.get("reasoning_steps", []),
