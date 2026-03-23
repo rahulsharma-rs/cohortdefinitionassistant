@@ -51,4 +51,4 @@ ENV CATALOG_DIR=/app/Backend/catelogue
 ENV CATALOG_DESCRIPTION_FILE=/app/Backend/EHR_Population_catelogue.txt
 
 # Start the application using gunicorn for production
-CMD ["sh", "-c", "gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 120 --chdir Backend app:app"]
+CMD ["sh", "-c", "gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 0 --chdir Backend app:app"]

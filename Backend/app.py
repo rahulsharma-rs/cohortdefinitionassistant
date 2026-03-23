@@ -208,6 +208,9 @@ def serve_frontend(path):
 
 
 # ── Run ───────────────────────────────────────────────────────────────────────
+# Call startup eagerly so Gunicorn workers preload the index before binding
+if __name__ != "__main__":
+    startup()
 
 if __name__ == "__main__":
     startup()
