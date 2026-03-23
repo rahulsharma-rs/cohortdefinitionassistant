@@ -6,7 +6,7 @@ RUN npm install
 COPY Frontend/ ./
 RUN npm run build
 # --- Stage 2: Download GCS Data ---
-FROM google/cloud-cli:slim AS data-downloader
+FROM google/cloud-sdk:slim AS data-downloader
 WORKDIR /data
 ARG BUCKET_NAME=my-clinical-catalog-data
 # Cloud Build will automatically authenticate this command
