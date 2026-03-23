@@ -27,8 +27,11 @@ RUN pip install gunicorn
 # Pre-download the Hugging Face model during build to avoid runtime rate-limits
 RUN python -c "from llama_index.embeddings.huggingface import HuggingFaceEmbedding; HuggingFaceEmbedding(model_name='BAAI/bge-small-en-v1.5')"
 
-# Optimize memory allocation for Python in constrained environments
+# Optimize memory allocation and prevent network calls to Hugging Face
 ENV MALLOC_ARENA_MAX=2
+ENV HF_HUB_OFFLINE=1
+ENV OMP_NUM_THREADS=1
+ENV MKL_NUM_THREADS=1
 
 # Copy backend code
 COPY Backend/ ./Backend/
