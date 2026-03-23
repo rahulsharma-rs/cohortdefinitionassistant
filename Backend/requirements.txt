@@ -10,4 +10,7 @@ langchain-openai==1.1.11
 langgraph==1.1.2
 llama-index==0.14.16
 llama-index-embeddings-huggingface==0.7.0
+sentence-transformers
+transformers
+huggingface-hub
 google-cloud-storage==3.4.1
