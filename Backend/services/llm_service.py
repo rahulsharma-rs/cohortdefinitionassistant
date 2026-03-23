@@ -19,10 +19,21 @@ def get_llm():
 
     # Auto-detect provider based on model name prefix
     provider = Config.LLM_PROVIDER
-    if "gpt" in model_name or "o1" in model_name or "o3" in model_name:
+    model_lower = model_name.lower()
+    
+    if "gpt" in model_lower or "o1" in model_lower or "o3" in model_lower:
         provider = "openai"
-    elif "gemini" in model_name:
+        # Map user typos like "gpt-5-nano" to actual OpenAI endpoints
+        if "nano" in model_lower or "mini" in model_lower or "gpt-5" in model_lower:
+            model_name = "gpt-4o-mini"
+            
+    elif "gemini" in model_lower:
         provider = "google"
+        # Map user typos like "gemini 3.1 flash liter" to actual Google endpoints
+        if "liter" in model_lower or "lite" in model_lower or "3.1" in model_lower:
+            model_name = "gemini-3.1-flash-lite"
+        elif "2.0" not in model_lower:
+            model_name = "gemini-2.0-flash"
 
     if provider == "google":
         from langchain_google_genai import ChatGoogleGenerativeAI

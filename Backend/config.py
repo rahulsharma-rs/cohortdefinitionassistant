@@ -13,11 +13,12 @@ class Config:
 
     # --- API Keys ---
     GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
-    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+    # Fall back to OPEN_API_KEY in case it was mapped incorrectly in GCP secrets
+    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", os.getenv("OPEN_API_KEY", ""))
 
     # --- LLM Settings ---
     LLM_PROVIDER = os.getenv("LLM_PROVIDER", "google")  # "google" or "openai"
-    LLM_MODEL = os.getenv("LLM_MODEL", "gemini-2.0-flash")
+    LLM_MODEL = os.getenv("LLM_MODEL", "gemini-3.1-flash-lite")
 
     # --- Database ---
     SQLITE_DB_PATH = os.getenv("SQLITE_DB_PATH", os.path.join(os.path.dirname(__file__), "..", "database/cohort.db"))

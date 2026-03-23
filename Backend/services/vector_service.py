@@ -27,9 +27,18 @@ class VectorService:
     def build_index(self):
         """Build or load LlamaIndex from catalog CSVs."""
         if os.path.exists(self.storage_dir) and os.listdir(self.storage_dir):
-            print(f"  [OK] Loading existing vector index from {self.storage_dir}")
+            import shutil
+            local_store = "/tmp/llama_storage"
+            # Fast local copy to bypass abysmal synchronous gcsfuse streaming latency
+            if not os.path.exists(local_store) or not os.listdir(local_store):
+                print(f"  [INFO] Copying vector index from {self.storage_dir} to fast local disk {local_store}...")
+                if os.path.exists(local_store):
+                    shutil.rmtree(local_store)
+                shutil.copytree(self.storage_dir, local_store)
+                
+            print(f"  [OK] Loading existing vector index from {local_store}")
             try:
-                storage_context = StorageContext.from_defaults(persist_dir=self.storage_dir)
+                storage_context = StorageContext.from_defaults(persist_dir=local_store)
                 self.index = load_index_from_storage(storage_context)
                 self.is_built = True
                 return
