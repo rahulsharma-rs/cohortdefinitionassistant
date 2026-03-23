@@ -17,8 +17,18 @@ RUN apt-get update && apt-get install -y \
 
 # Copy backend and install dependencies
 COPY Backend/requirements.txt ./Backend/requirements.txt
+
+# Force CPU-only torch to save ~2.5GB of image size
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
 RUN pip install --no-cache-dir -r ./Backend/requirements.txt
 RUN pip install gunicorn
+
+# Pre-download the Hugging Face model during build to avoid runtime rate-limits
+RUN python -c "from llama_index.embeddings.huggingface import HuggingFaceEmbedding; HuggingFaceEmbedding(model_name='BAAI/bge-small-en-v1.5')"
+
+# Optimize memory allocation for Python in constrained environments
+ENV MALLOC_ARENA_MAX=2
 
 # Copy backend code
 COPY Backend/ ./Backend/
